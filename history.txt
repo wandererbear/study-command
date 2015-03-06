@@ -1,0 +1,4606 @@
+    1  vi ~/.zshrc
+    2  whoami
+    3  cd /desktop/zoo
+    4  cd desktop/zoo
+    5  vi ~/.zshrc
+    6  pwd
+    7  cd desktop
+    8  vi ~/.zshrc
+    9  pwd
+   10  cd desktop
+   11  cd zoo
+   12  checkout first
+   13  branch
+   14  git checkout first
+   15  npm install -g grunt-cli
+   16  sudo npm install
+   17  npm install -g grunt-cli
+   18  sudo npm install -g grunt-cli
+   19  say hey
+   20  exit
+   21  cd desktop/zoo
+   22  gst
+   23  ls
+   24  cd ~/.oh-my-zsh/lib/directories.zsh
+   25  cd ~/.oh-my-zsh
+   26  cd lib
+   27  vi directories.zsh
+   28  pwd
+   29  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox 
+   30  pwd
+   31  clear
+   32  cd ..
+   33  cd..
+   34  pwd
+   35  cd..
+   36  pwd
+   37  ls
+   38  echo $SHELL
+   39  weather VTCL
+   40  weather
+   41  cal
+   42  date
+   43  vi ~/.zshrc
+   44  restart
+   45  pwd
+   46  clock
+   47  date
+   48  vi ~/.zshrc
+   49  google test
+   50  google สอนพิเศษ
+   51  vi ~/.zshrc
+   52  pwd
+   53  vi ~/.zshrc
+   54  bl
+   55  ls -a
+   56  vi
+   57  ls
+   58  open test
+   59  exit
+   60  vi ~/.zshrc
+   61  cd desktop
+   62  ls
+   63  cd ..
+   64  cd..
+   65  ls
+   66  cd grunttest
+   67  subl .
+   68  subl
+   69  subl .
+   70  echo $SHELL
+   71  cd desktop
+   72  mkdir test-loop
+   73  cd test-loop
+   74  for($i=1; $i<=5; $i++{ touch loop-$i.txt}
+   75  for($i=1; $i<=5; $i++){ touch loop-$i.txt}
+   76  for($i=1; $i<=5; $i++) touch loop-$i.txt
+   77  for$i=1; $i<=5; $i++ touch loop-$i.txt
+   78  --help
+   79  help
+   80  man for
+   81  $i = 1
+   82  $1=1
+   83  $i
+   84  echo $i
+   85  $i =1
+   86  echo $i=1
+   87  cd desktop | ls -a
+   88  ls -a | cd desktop
+   89  ls -a
+   90  cd desktop
+   91  ls -a
+   92  rm -rf .git
+   93  ls -a
+   94  rm -rf .gitignore
+   95  ls -a
+   96  rm -rf .gitattributes
+   97  re -rf .htaccess
+   98  rm -rf .htaccess
+   99  rm -rf .localized
+  100  open Screen Shot 2014-05-27 at 9.33.35 PM.png
+  101  open "Screen Shot 2014-05-27 at 9.33.35 PM.png"
+  102  cd ~
+  103  ls
+  104  defaults write com.apple.screencapture location ~/Documents
+  105  killall SystemUIServer
+  106  defaults write com.apple.screencapture location ~/Desktop
+  107  killall SystemUIServer
+  108  defaults write com.apple.screencapture location ~/Documents/Screenshot
+  109  killall SystemUIServer
+  110  exit
+  111  cd Downloads
+  112  rm -rf temp\ bit
+  113  exit
+  114  cd Desltop
+  115  cd Desktop
+  116  ls -a
+  117  rm -rf .sass-cache
+  118  re-rf test-loop grunttest zoo
+  119  re-rf test-loop
+  120  rm -rf test-loop grunttest zoo
+  121  rm -rf  grunttest
+  122  rm -rf  zoo
+  123  ls -a
+  124  rm -rf zoo
+  125  rm -r -f zoo
+  126  cd z
+  127  cd zoo
+  128  rm -rf .
+  129  rm -rf node_modules
+  130  cd ..
+  131  cd ~/Desktop
+  132  ls -a
+  133  exit
+  134  cal
+  135  exit
+  136  say "i love U"
+  137  cal feb 1988
+  138  cd desktop
+  139  touch minnie.txt
+  140  vi minnie.txt
+  141  rm minnie.txt
+  142  exit
+  143  cd desktop
+  144  mkdir test
+  145  cd test
+  146  $i = 1
+  147  i =1
+  148  i = 1
+  149  var i = 1
+  150  for [i = 1]
+  151  echp $PATH
+  152  echo $PATH
+  153  bash --version
+  154  zsh --version
+  155  zsh --upgrade
+  156  zsh --update
+  157  zsh help
+  158  ~/.oh-my-zsh/lib/directories.zsh
+  159  cd ~/.oh-my-zsh/lib/directories.zsh
+  160  cd .oh-my-zsh/lib/directories.zsh
+  161  cd ./.oh-my-zsh/lib/directories.zsh
+  162  cd .oh-my-zsh
+  163  cd lib
+  164  cd directories.zsh
+  165  open ~/.oh-my-zsh/lib/directories.zsh
+  166  /Users/wanderer/.oh-my-zsh/lib/directories.zsh; exit;
+  167  vi ~/.oh-my-zsh/lib/directories.zsh
+  168  1
+  169  q
+  170  1
+  171  2
+  172  cd 1
+  173  cd 1-
+  174  cd 1
+  175  vi ~/.oh-my-zsh/lib/directories.zsh
+  176  cd...
+  177  cd ...
+  178  cd..
+  179  cd...
+  180  cd ..
+  181  cd..
+  182  cd ../
+  183  ls -a
+  184  vi ~/.oh-my-zsh/lib/directories.zsh
+  185  cs...
+  186  cd...
+  187  vi ~/.oh-my-zsh/lib/directories.zsh
+  188  cd...
+  189  cd..
+  190  cd...
+  191  cd edututors
+  192  vi ~/.oh-my-zsh/lib/directories.zsh
+  193  cd
+  194  upgrade_oh_my_zsh
+  195  sudo upgrade_oh_my_zsh
+  196  upgrade_oh_my_zsh
+  197  ls -a
+  198  git stat
+  199  git status
+  200  subl .
+  201  cd desktop/nodejs
+  202  node example.js
+  203  exit
+  204  google test
+  205  exit
+  206  vi ~/.zshrc
+  207  cd ..
+  208  cd..
+  209  cd grunttest
+  210  git status
+  211  ls -a
+  212  cd ..
+  213  cd gittest
+  214  ls -a
+  215  mkdir gittest
+  216  rm gittest
+  217  ls
+  218  rm -rf gittest
+  219  ls
+  220  help
+  221  man
+  222  man zsh
+  223  mail -s "test" jaturong.poon@gmail.com
+  224  take gittest
+  225  g
+  226  git init
+  227  gst
+  228  touch 1.txt
+  229  ga
+  230  ga .
+  231  gst
+  232  gcmsg "create 1.txt"
+  233  gb -b branch_1
+  234  gco -b branch_1
+  235  vi 1.txt
+  236  ga .
+  237  gc
+  238  fst
+  239  gst
+  240  gcmsg "Type form branch_1"
+  241  gl
+  242  glg
+  243  gco 
+  244  gco master
+  245  vi 1.txt
+  246  gco branch_1
+  247  vi 1.txt
+  248  gst
+  249  ga .
+  250  gc
+  251  gcmsg "Type 2 lines"
+  252  glg
+  253  git checkout 34e4e54df5f4 1.txt
+  254  vi 1.txt
+  255  glg
+  256  git checkout ee40560bfcb4289 1.txt
+  257  vi 1.txt
+  258  gco HEAD 1.txt
+  259  vi 1.txt
+  260  gco HEAD 1.txt
+  261  vi 1.txt
+  262  gco HEAD~1 1.txt
+  263  vi 1.txt
+  264  gst
+  265  git checkout ee40560bfcb4289 1.txt
+  266  vi 1.txt
+  267  gst
+  268  glg --graph --all --oneline
+  269  gco master
+  270  glg --graph --all --oneline
+  271  vi 1.txt
+  272  gco branch_1
+  273  git merge master
+  274  gst
+  275  glg --all --graph --oneline
+  276  glg --all --graph
+  277  gco master
+  278  vi 1.txt
+  279  gco branch_1
+  280  vi 1.txt
+  281  gco master
+  282  git merge branch_1
+  283  gst
+  284  glg --all --graph --oneline
+  285  gst
+  286  vi 1.txt
+  287  git checkout HEAD~1 1.txt
+  288  vi 1.txt
+  289  git checkout HEAD 1.txt
+  290  vi 1.txt
+  291  touch 2.txt
+  292  ls
+  293  ls 0a
+  294  ls -a
+  295  touch .gitignore
+  296  vi .gitignore
+  297  git add .
+  298  gst
+  299  ls
+  300  gcmsg "Create .gitignore and ignore 2.txt"
+  301  glg
+  302  vi 2.txt
+  303  gco HEAD~1
+  304  gco HEAD~1 2.txt
+  305  gco HEAD~1 1.txt
+  306  vi 1.txt
+  307  vi 2.txt
+  308  gco HEAD 1.txt
+  309  vi 1.txt
+  310  gco branch_1
+  311  ls
+  312  ls -a
+  313  gst
+  314  vi 2.txt
+  315  gco master
+  316  vi 1.txt
+  317  vi 2.txt
+  318  git add .
+  319  gst
+  320  git log
+  321  gcmsg "Fifth commit"
+  322  git --hard HEAD~
+  323  git reset --hard HEAD~
+  324  glg
+  325  vi 1.txt
+  326  vi 2.txt
+  327  glg
+  328  gco HEAD~3 .
+  329  glg
+  330  vi 1.txt
+  331  glg --all --graoh --oneline
+  332  glg --all --graph --oneline
+  333  .git/HEAD
+  334  cat .git/HEAD
+  335  gst
+  336  glg
+  337  gitk
+  338  glg
+  339  git show
+  340  gco HEAD .
+  341  git show
+  342  glg
+  343  vi q.txt
+  344  ls
+  345  vi 1.txt
+  346  ga .
+  347  gcmsg "Test Soft reset"
+  348  glg
+  349  git reset --soft HEAD~1
+  350  glg
+  351  eixt
+  352  exit
+  353  cd..
+  354  cd gittest
+  355  gst
+  356  gs
+  357  gsh
+  358  vi 1.txt
+  359  glg
+  360  gco HEAD .
+  361  vi 1.txt
+  362  ga .
+  363  gcmsg "test soft reset"
+  364  glg
+  365  git reset --soft HEAD~
+  366  vi 1.txt
+  367  glg
+  368  vi 1.txt
+  369  gco HEAD .
+  370  vi 1.txt
+  371  ga .
+  372  git commit -c ORIG_HEAD
+  373  glg
+  374  vi 1.txt
+  375  git revase -i HEAD~
+  376  y
+  377  git rebase -i HEAD~
+  378  git rebase -i HEAD~ -m "Try"
+  379  git rebase -i HEAD~ 
+  380  glg
+  381  vi 1.txt
+  382  1
+  383  2
+  384  stt
+  385  vi ~/.oh-my-zsh/lib/directories.zsh
+  386  vi ~/.zshrc
+  387  stt
+  388  cd..
+  389  cd gittest
+  390  stt
+  391  bl
+  392  bs jslint
+  393  cd ../
+  394  ls
+  395  cd grubttest
+  396  cd grunttest
+  397  ls
+  398  cd..
+  399  ls
+  400  take bowertest
+  401  npm install -g bower
+  402  sudo npm install -g bower
+  403  ls -a
+  404  vi .bowerrc
+  405  ls
+  406  ls -a
+  407  bi modernizr
+  408  ls
+  409  ls -a
+  410  vi .bowerrc
+  411  ls
+  412  bs cssreset
+  413  bs css reset
+  414  cs normalizr
+  415  bs normalizr
+  416  bi normalize
+  417  bi jquery
+  418  ls
+  419  cd bower
+  420  ls
+  421  cd..
+  422  mb modernizr bower/
+  423  mv  modernizr bower/
+  424  ls
+  425  cd bowertest
+  426  ls
+  427  mv  modernizr bower/
+  428  ls
+  429  cd bower
+  430  ls
+  431  cd..
+  432  cd bowertest
+  433  ls -a
+  434  bower register
+  435  ls
+  436  bower init
+  437  touch bower.json
+  438  bower init
+  439  rm bower.json
+  440  cd..
+  441  cd gittest
+  442  glog
+  443  glg
+  444  glg --all --oneline --graph
+  445  glog -a
+  446  glog --all
+  447  gst
+  448  alias
+  449  image ducck
+  450  imdb spiderman
+  451  wiki spiderman
+  452  vi ~/.oh-my-zsh/lib/directories.zsh
+  453  cdedu
+  454  cdedi
+  455  cdedu
+  456  cdedi
+  457  vi ~/.oh-my-zsh/lib/directories.zsh
+  458  cdedu
+  459  cd
+  460  alias
+  461  vi ~/.oh-my-zsh/lib/directories.zsh
+  462  cd...
+  463  cd..
+  464  cd...
+  465  cd..
+  466  alias
+  467  vi ~/.oh-my-zsh/lib/directories.zsh
+  468  cd..
+  469  cd...
+  470  cd..
+  471  -
+  472  +2
+  473  cd +2
+  474  cd..
+  475  quit
+  476  exit
+  477  cd /Volumes/Wanderer_Study/Tutorial/source/Codeschool/Javascript/01_Javascript_Roadtrip_1 
+  478  find -type f -name "*.avi" -print0 | xargs -0  mplayer -vo dummy -ao dummy -identify 2>/dev/null | perl -nle '/ID_LENGTH=([0-9\.]+)/ && ($t +=$1) && printf "%02d:%02d:%02d\n",$t/3600,$t/60%60,$t%60' | tail -n 1
+  479  mplayer -endpos 0.1 -vo null -ao null -identify *.avi 2>&1 |grep ID_LENGTH |cut -d = -f 2|awk '{SUM += $1} END { printf "%d:%d:%d\n",SUM/3600,SUM%3600/60,SUM%60}'
+  480  find -type f -name "*.mp4" -print0 | xargs -0  mplayer -vo dummy -ao dummy -identify 2>/dev/null | perl -nle '/ID_LENGTH=([0-9\.]+)/ && ($t +=$1) && printf "%02d:%02d:%02d\n",$t/3600,$t/60%60,$t%60' | tail -n 1
+  481  mplayer -vo dummy -ao dummy -identify * 2>&1 | grep ID_LENGTH  | sed 's/.*=\([0-9]*\)/\1/' | xargs echo | sed 's/ /+/g' | bc | awk 'S=$1; {printf "%dh:%dm:%ds\n",S/(60*60),S%(60*60)/60,S%60}'
+  482  find -type f -name "*.mp4" -print0 | xargs -0  mplayer -vo dummy -ao dummy -identify 2>/dev/null | perl -nle '/ID_LENGTH=([0-9\.]+)/ && ($t +=$1) && printf "%02d:%02d:%02d\n",$t/3600,$t/60%60,$t%60' | tail -n 1
+  483  cd/Users/wanderer/Downloads/temp\ bit/JetBrains.WebStorm-6.0.2a.Inc.Keygen 
+  484  cd /Users/wanderer/Downloads/temp\ bit/JetBrains.WebStorm-6.0.2a.Inc.Keygen
+  485  tar -xzf keygen.tar.gz
+  486  ls -a
+  487  chmod +x keygen
+  488  ./keygen
+  489  vi wand_readme
+  490  exit
+  491  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest 
+  492  composer --version
+  493  composer
+  494  brew update
+  495  brew tap josegonzalez/homebrew-php
+  496  brew tap homebrew/versions
+  497  brew install php55-intl
+  498  brew install josegonzalez/php/composer
+  499  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest 
+  500  composer create-project laravel/laravel . --prefer-dist
+  501  ls -a
+  502  composer create-project laravel/laravel /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest  --prefer-dist
+  503  composer create-project laravel/laravel ~/Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest  --prefer-dist
+  504  composer create-project laravel/laravel ~/desktop/laraveltest  --prefer-dist
+  505  brew install josegonzalez/php/composer
+  506  composer --help
+  507  composer create-project laravel/laravel your-project-name --prefer-dist
+  508  apt-get install php5-json
+  509  composer create-project laravel/laravel ~/Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest  --prefer-dist
+  510  view ~/.composer/cache/repo/https---packagist.org/packages.json
+  511  composer udate
+  512  composer update
+  513  php composer.phar install
+  514  composer install
+  515  pwd
+  516  touch composer.json
+  517  composer install
+  518  sudo composer create-project laravel/laravel your-project-name --prefer-dist
+  519  stt
+  520  php artisan serve
+  521  cd your-project-name
+  522  php artisan serve
+  523  composer install
+  524  sudo Route::get('users', function()\n{\n    return 'Users!';
+  525  sudo composer install
+  526  php composer.phar update
+  527  php composer.phar install
+  528  sudo composer install
+  529  which PHP
+  530  cd /Applications/MAMP/bin/php
+  531  cd /Applications/XAMPP/bin/php
+  532  cd /Applications/XAMPP/xamppfiles/bin/php 
+  533  cd /Applications/XAMPP/xamppfiles/bin
+  534  which PHP
+  535  cd ~
+  536  ls -a
+  537  view .bash-profile.swp
+  538  php version
+  539  php --v
+  540  php --version
+  541  cd /Applications/XAMPP/xamppfiles 
+  542  php version
+  543  php --version
+  544  which php
+  545  php --ini
+  546  php -v
+  547  cd /Users/wanderer/Desktop/laraveltest 
+  548  composer create-project laravel/laravel wand --prefer-dist
+  549  sudo composer create-project laravel/laravel wand --prefer-dist
+  550  ls
+  551  cd wand
+  552  sudo composer install
+  553  php artisan serve
+  554  sudo apt-get install php5-mcrypt
+  555  composer install php5-mcrypt
+  556  brew install php5-mcrypt
+  557  cd /Applications/XAMPP/bin 
+  558  view php.ini
+  559  cd ../
+  560  ls -a
+  561  cd bin
+  562  view /Applications/XAMPP/xamppfiles/bin/php-5.4.19 
+  563  cd ../etc
+  564  view php.ini
+  565  vi php.ini
+  566  cd..
+  567  cd laravel
+  568  ls
+  569  cd laraveltest
+  570  ls
+  571  cd your-project-name
+  572  sudo composer install
+  573  sudo apt-get install php5-mcrypt
+  574  sudo composer.phar update
+  575  sudo composer install
+  576  which php
+  577  sudo vi ~/.bash_profile
+  578  sudo vim ~/.bash_profile
+  579  cd ~
+  580  ..bash_profile
+  581  which php
+  582  sudo vim ~/.bash_profile
+  583  cp .bash_profile.swp .bash_profile
+  584  sudo cp .bash_profile.swp .bash_profile
+  585  ls -a
+  586  sudo vim ~/.bash_profile
+  587  which php
+  588  rm .bash_profile
+  589  ls
+  590  ls -a
+  591  rm .bash_profile
+  592  rm -rf .bash_profile
+  593  ls -a
+  594  mv .bash_profile.swp .bash_profile
+  595  ls -a
+  596  vi .bash_profile
+  597  sudo vim ~/.bash_profile
+  598  mkdir mrcypt
+  599  mv mrcypt mcrypt
+  600  ls
+  601  open mcrypt
+  602  cd /Users/wanderer/mcrypt/libmcrypt-2.5.8 
+  603  ./configure
+  604  make
+  605  sudo make install
+  606  cd ../php-5.3.13/ext/mcrypt/
+  607  cd /Users/wanderer/mcrypt/php-5.5.11/ext/mcrypt 
+  608  /usr/bin/phpize
+  609  ./configure
+  610  make
+  611  sudo make install
+  612  sudo apachectl restart
+  613  make test
+  614  which php
+  615  php --version
+  616  cd /Users/wanderer/mcrypt/libmcrypt-2.5.8 
+  617  ./configure
+  618  make uninstall
+  619  sudo apachectl stop
+  620  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+  621  sudo composer install
+  622  which php
+  623  cd ~//usr/lib/php/extensions
+  624  cd ~/usr/lib/php/extensions
+  625  cd /Users/wanderer/mcrypt/php-5.5.11 
+  626  cd ext/mcrypt
+  627  pwd
+  628  cd ~/usr/bin
+  629  ls -a
+  630  cd bin
+  631  ls -a
+  632  ./configure
+  633  make
+  634  sudo make install
+  635  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+  636  sudo composer install
+  637  which php
+  638  php --ri mcrypt
+  639  autocinf --version
+  640  autoconf --version
+  641  xcode-select --install
+  642  cd /Users/wanderer/mcrypt/php-5.5.11 
+  643  cd /ext/mcrypt/
+  644  cd ext
+  645  cd mcrypt
+  646  ./configure
+  647  cd /Users/wanderer/mcrypt/libmcrypt-2.5.8
+  648  ./confirgure
+  649  ./configure
+  650  make
+  651  sudo make install
+  652  cd /Users/wanderer/mcrypt/php-5.5.11/ext/mcrypt 
+  653  ./configure
+  654  make
+  655  sudo make install
+  656  cd /usr/bin/phpize
+  657  cd ~/usr/bin/phpize
+  658  cd ~
+  659  cd usr
+  660  ls
+  661  ls -a
+  662  cd bin/phpize
+  663  cd bin
+  664  ls
+  665  ls -a
+  666  mkdir phpize
+  667  ./configure
+  668  rmdir phpize
+  669  cd usr/lib/php/extensions/
+  670  cd ~
+  671  pwd
+  672  cd usr
+  673  cd /
+  674  cd usr
+  675  cd lib/php/extensions
+  676  ls -a
+  677  cd /Applications/XAMPP/xamppfiles/htdocs 
+  678  touch phpinfo.php
+  679  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+  680  composer install
+  681  sudo comsposer install
+  682  sudo composer install
+  683  sudo composer update
+  684  composer update
+  685  composer update composer.lock
+  686  composer update --lock
+  687  sudo composer update --lock
+  688  sudo composer update composer.json
+  689  sudo apt-get install php5-mcrypt
+  690  php -i | grep mcrypt
+  691  grep mcrypt
+  692  php -v
+  693  sudo 
+  694  1
+  695  sudo 
+  696  1
+  697  sudo xcode-select --install
+  698  which php
+  699  sudo nano ~/.bash_profile
+  700  sudo v~/.bash_profile
+  701  sudo vi ~/.bash_profile
+  702  open ~/.bash_profile
+  703  which php
+  704  sudo vi ~/.bash_profile
+  705  cd /Applications/XAMPP/xamppfiles/bin
+  706  ls -a
+  707  which php
+  708  sudo vi ~/.bash_profile
+  709  wgich php
+  710  which php
+  711  cd /usr/bi/php
+  712  cd /usr/bin/php
+  713  cd /usr/bin
+  714  ls -a
+  715  cd php
+  716  open php
+  717  /usr/bin/php ; exit;
+  718  read php
+  719  cd ~
+  720  ls
+  721  ls -a
+  722  vi .bash_profile
+  723  pico
+  724  vi  /private/etc/paths
+  725  sudo vi  /private/etc/paths
+  726  which php
+  727  sudo vi  /private/etc/paths
+  728  which php
+  729  sudo vi  /private/etc/paths
+  730  composer --version
+  731  cd /
+  732  ls
+  733  ls -a
+  734  cd etc
+  735  ls -a
+  736  cd ../
+  737  cd usr
+  738  ls
+  739  ls -a
+  740  cd ../
+  741  2
+  742  sudo vi //.bash_profile
+  743  cd ..
+  744  ;s
+  745  ls -a
+  746  which php
+  747  rm //.bash_profile
+  748  cd //
+  749  cd.
+  750  ls
+  751  ls -a
+  752  rm -rf .bash_profile
+  753  sudo rm -rf .bash_profile
+  754  ls -a
+  755  which mysql
+  756  which php
+  757  sudo vi ~/.bash_profile
+  758  which php
+  759  cd /Users/wanderer/Desktop/laraveltest 
+  760  sudo composer install
+  761  exit
+  762  which php
+  763  ls -a
+  764  sudo vi .bash_profile
+  765  which php
+  766  cd /Applications/MAMP/htdocs 
+  767  composer create-project laravel/laravel test --prefer-dist
+  768  sudo composer create-project laravel/laravel your-project-name --prefer-dist
+  769  cd /usr/local/bin
+  770  open .
+  771  cd ~/desktop
+  772  mkdir direct
+  773  cd direct
+  774  laravel new
+  775  sudo composer self-update
+  776  composer --version
+  777  composer about
+  778  composer create-project laravel/laravel test --prefer-dist
+  779  sudo composer create-project laravel/laravel your-project-name --prefer-dist
+  780  composer install
+  781  cd your-project-name
+  782  composer install
+  783  sudo composer install
+  784  which php
+  785  echo $PATH
+  786  source ~/.bash_profile
+  787  which php
+  788  php --version
+  789  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+  790  pwd
+  791  sudo composer install
+  792  stt
+  793  stt .
+  794  php artisan serve
+  795  cd ~
+  796  ls -a
+  797  sudo vi .bash_profile
+  798  which php
+  799  source ~/.bash_profile
+  800  which php
+  801  source ~/.bash_profile
+  802  which php
+  803  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name
+  804  composer install
+  805  sudo composer install
+  806  which php
+  807  sudo composer install
+  808  php -i | grep \.ini\$
+  809  which php
+  810  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+  811  sudo composer install
+  812  source ~/.bash_profile
+  813  sudo composer install
+  814  which php
+  815  php artisan serve
+  816  chmod -R 777 storage
+  817  cd app
+  818  chmod -R 777 storage
+  819  sudo chmod -R 777 storage
+  820  php artisan serve
+  821  cd ../
+  822  php artisan serve
+  823  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest2 
+  824  composer create-project laravel/laravel root --prefer-dist
+  825  sudo composer create-project laravel/laravel root --prefer-dist
+  826  which php
+  827  sudo vi ~/.bash_profile
+  828  source ~/.bash_profile
+  829  which php
+  830  php -v
+  831  sudo composer install
+  832  composer install
+  833  cd root
+  834  composer install
+  835  sudo composer install
+  836  php artisan serve
+  837  cd app
+  838  ls
+  839  sudo chmod -R 777 storage
+  840  cd ../
+  841  php artisan serve
+  842  sudo chmod -R 777 app/storage
+  843  php artisan serve
+  844  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+  845  ls -a
+  846  bower init
+  847  ls -a
+  848  open .bowerrc
+  849  view .bowerrc
+  850  bower list
+  851  bower list ==paths
+  852  bower list --paths
+  853  bower install
+  854  touch test/test.js
+  855  bower install
+  856  bower search jquery
+  857  bower search jquery#1.8.0
+  858  bower install jqueryold=jquery#~1.8.0
+  859  bower install
+  860  bower install modernizr
+  861  bower install nomorlize.css
+  862  bower search nomorlize
+  863  bower install modernizr
+  864  bower install fontawesome
+  865  bower install
+  866  bower init
+  867  bower install css=fontawesome
+  868  bower install css/fontawesome=fontawesome
+  869  bower uninstall
+  870  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest 
+  871  subl .
+  872  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+  873  bower search
+  874  bower install underscore --save-dev
+  875  subl .
+  876  bower install underscore --save-dep
+  877  say 8,350
+  878  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+  879  git init
+  880  brew install -g git
+  881  sudo brew install -g git
+  882  sudo
+  883  git
+  884  git config --global user.name "wandererbear"
+  885  git config --global user.email "jaturong.poon@gmail.com"
+  886  git config --global apply.whitespace no worn
+  887  git init
+  888  touch .git
+  889  git init
+  890  ls -a
+  891  git init
+  892  git status
+  893  ga .
+  894  gcmsg "First Version"
+  895  gsts
+  896  gst
+  897  glg
+  898  gco -b Backup Version
+  899  git checkout -b "Bcakup Version1"
+  900  git checkout -b Bcakup Version1
+  901  git checkout -b Bcakup_Version1
+  902  ga .
+  903  gco -b Version2
+  904  rm -rf .
+  905  rmdir -rf .
+  906  ls -a
+  907  rm -rf bower
+  908  rm -rf test
+  909  rm bower.json
+  910  bower install bootstrap
+  911  bower init
+  912  bower install fontawesome -s
+  913  view bower.json
+  914  bower install
+  915  bower uninstall fontawesome
+  916  bower install --save fontawesome
+  917  bower uninstall boostrap
+  918  bower list --path
+  919  bower uninstall bootstrap
+  920  bower install --production bootstrap --save-dev
+  921  stt
+  922  bower uninstall bootstrap
+  923  bower uninstall fontawesome
+  924  ga .
+  925  git add .
+  926  gst
+  927  gc msg "Test Bower devDependencies and Dependencies"
+  928  gcmsg "Test Bower devDependencies and Dependencies"
+  929  bower install
+  930  git reset --HARD .
+  931  git reset --hard HEAD
+  932  glg
+  933  git reset -- bower
+  934  git reset -- bower .
+  935  git reset -- bower/*.*
+  936  bower install --production
+  937  bower install
+  938  bower checkout -- .
+  939  bower checkout --
+  940  bower checkout HEAD~ .
+  941  git checkout -- .
+  942  git checkout HEAD~ .
+  943  git checkout HEAD
+  944  git checkout HEAD .
+  945  rm -rf bower
+  946  mkdir bower
+  947  bower install
+  948  ga .
+  949  git add .
+  950  cd bower
+  951  git add .
+  952  git add 
+  953  gst
+  954  gc -b testdelete
+  955  git checkout  -b testdelete
+  956  ga.
+  957  ga .
+  958  git checkout Version2
+  959  gcm
+  960  git checkout testdelete
+  961  git checkout HEAD~ .
+  962  bower uninstall fontawesome
+  963  bower install jquery --save-dev
+  964  bower install bootstrap --save
+  965  cd ../
+  966  bower install jquery --save-dev
+  967  bower install bootstrap --save
+  968  git revert commit testdelete
+  969  git git revert
+  970  git revert
+  971  git revert HEAD~
+  972  git revert -n
+  973  glg
+  974  git reset --hard 2756cf52eca
+  975  open .
+  976  gc version1
+  977  gc Veraion1
+  978  gc Verion1
+  979  gc Version1
+  980  git branch
+  981  gc Version2
+  982  gco Version2
+  983  glg
+  984  git reset --hard e726f3d4521a5f91cba26
+  985  git revert
+  986  gcm
+  987  gst
+  988  gco testdelete
+  989  git add .
+  990  git commit "Clear All"
+  991  rm bower/bower
+  992  rmdir -rf  bower/bower
+  993  cd bower
+  994  pwd
+  995  cd ../
+  996  rmdir -rf  bower
+  997  rm -rf  bower
+  998  cd ../
+  999  rm -rf css fontawesome
+ 1000  cd bower
+ 1001  rm -rf css fontawesome
+ 1002  rm -rf jquery modernizr inderscore
+ 1003  rm -rf underscore
+ 1004  git commit -m "Delete All Package"
+ 1005  gst
+ 1006  glg
+ 1007  git log 
+ 1008  gcm
+ 1009  git install --production
+ 1010  bower install --production
+ 1011  cd ../
+ 1012  bower install --production
+ 1013  ga .
+ 1014  git add .
+ 1015  gst
+ 1016  git add -a
+ 1017  git add -all
+ 1018  git add --all
+ 1019  gst
+ 1020  gcmsg "Try bower install --production"
+ 1021  gst
+ 1022  git status
+ 1023  glg
+ 1024  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_grunt 
+ 1025  touch index.php
+ 1026  mkdir css
+ 1027  mkdir js
+ 1028  mkdir bower
+ 1029  cd css
+ 1030  mkdir sass
+ 1031  cd ..
+ 1032  git init
+ 1033  git add .
+ 1034  ls -a
+ 1035  git commit -m "Start Project"
+ 1036  gst
+ 1037  touch .bowerrc
+ 1038  vi .bowerrc
+ 1039  bower install --save jquery
+ 1040  bower install --save modernizr
+ 1041  gst
+ 1042  git add .bowerrc bower/
+ 1043  gst
+ 1044  bower init
+ 1045  gcmsg "Install Bower and it's Dependencies(jquery, modernizr) and bower init for bower.json"
+ 1046  glg
+ 1047  git log
+ 1048  git checkout -b test_grunt_01
+ 1049  gst
+ 1050  git add bower.json
+ 1051  gst
+ 1052  npm install -g grunt-cli
+ 1053  sudo npm install -g grunt-cli
+ 1054  npm init
+ 1055  npm install
+ 1056  npm install grunt --save-dev 
+ 1057  npm install grunt-contrib-concat --save-dev
+ 1058  npm install grunt-contrib-uglify --save-dev
+ 1059  npm install grunt-contrib-compass
+ 1060  npm install grunt-contrib-sass
+ 1061  npm install grunt-contrib-cssmin
+ 1062  npm install grunt-contrib-livereload
+ 1063  npm install grunt-contrib-watch --save-dev
+ 1064  gst
+ 1065  npm install grunt-contrib-compass --save-dev
+ 1066  npm install grunt-contrib-sass --save-div
+ 1067  npm install grunt-contrib-cssmin --save-dev
+ 1068  npm install grunt-contrib-livereload --save-dev
+ 1069  git status
+ 1070  git add node_modules/package.json
+ 1071  git ./add node_modules/package.json
+ 1072  git add .
+ 1073  git status
+ 1074  gcmsg "Create package.json by npm init and install all task to devDependencies"
+ 1075  git status
+ 1076  touch .gitignore
+ 1077  vi .gitignore
+ 1078  git status
+ 1079  git add .gitignore
+ 1080  git status
+ 1081  stt .
+ 1082  git status
+ 1083  git add .
+ 1084  git commit -m "Add all need files and set concatnate in Gruntfile.js"
+ 1085  grunt concat
+ 1086  grunt concat:teddy
+ 1087  grunt concat
+ 1088  grunt unify
+ 1089  grunt ugnify
+ 1090  grunt uglify
+ 1091  grunt concat
+ 1092  grunt uglify
+ 1093  grunt concat
+ 1094  grunt uglify
+ 1095  grunt watch
+ 1096  grunt livereload
+ 1097  grunt watch
+ 1098  grunt sass
+ 1099  gem update --system
+ 1100  gem install compass
+ 1101  sudo gem install compass
+ 1102  grunt compass
+ 1103  compass create compass
+ 1104  grunt compass
+ 1105  grunt sass
+ 1106  grunt compass
+ 1107  grunt sass
+ 1108  grunt compass
+ 1109  grunt sass
+ 1110  grunt compass
+ 1111  grunt sass
+ 1112  grunt compass
+ 1113  grunt sass
+ 1114  grunt css-min
+ 1115  grunt cssmin
+ 1116  grunt watch
+ 1117  grunt compass
+ 1118  grunt watch
+ 1119  grunt compass:prod
+ 1120  grunt compass:dev
+ 1121  grunt compass:prod
+ 1122  grunt compass
+ 1123  git add .
+ 1124  git add --all .
+ 1125  git status
+ 1126  gcmsg -m "Finish"
+ 1127  git commit -m "Finish"
+ 1128  gcm
+ 1129  git branch backup master
+ 1130  git checkout backup
+ 1131  git status
+ 1132  gcm
+ 1133  gm test_grunt_01
+ 1134  gco backup
+ 1135  gcm
+ 1136  git log -ago
+ 1137  git log --all --graph --oneline
+ 1138  gco test_grunt_01
+ 1139  gco HEAD~ Gruntfile.js
+ 1140  gco HEAD~2 Gruntfile.js
+ 1141  gco HEAD Gruntfile.js
+ 1142  gcm
+ 1143  history
+ 1144  grunt compass
+ 1145  grunt cssmin
+ 1146  grunt uglify:advance
+ 1147  grunt watch
+ 1148  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest2/root
+ 1149  php artisan serve
+ 1150  which php
+ 1151  source ~/.bash_profile
+ 1152  php artisan serve
+ 1153  vi
+ 1154  exit
+ 1155  c d/Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-shortener/public 
+ 1156  cd /Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-shortener/public 
+ 1157  php artisan serve
+ 1158  /Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-shortener/artisan ; exit;
+ 1159  php
+ 1160  which php
+ 1161  source ~/.bash_profile
+ 1162  which php
+ 1163  php artisan serve
+ 1164  /Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-shortener/artisan ; exit;
+ 1165  exit
+ 1166  say fuel
+ 1167  /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/
+ 1168  ls -a
+ 1169  alias h
+ 1170  alias -h
+ 1171  alias stp /Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages 
+ 1172  stp
+ 1173  alias stp =  "open /Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+ 1174  stp
+ 1175  alias p =  "open /Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+ 1176  alias p =  "open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+ 1177  alias p =  "open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+ 1178  /Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages
+ 1179  alias p =  "open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+ 1180  alias p =  "~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+ 1181  alias p="open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+ 1182  p
+ 1183  alias stp="open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+ 1184  stp
+ 1185  git clone "https://github.com/lunixbochs/SublimeXiki.git"
+ 1186  cd ~/Desktop
+ 1187  sass test.scss test.css
+ 1188  watch test.scss
+ 1189  stp
+ 1190  google prefxr
+ 1191  curl -v -u USERNAME -X POST https://api.github.com/authorizations --data "{\"scopes\":[\"gist\"]}"
+ 1192  curl -v -u wandererbear  -X POST https://api.github.com/authorizations --data "{\"scopes\":[\"gist\"]}"
+ 1193  curl -v -u jaturong.poon@gmail.com  -X POST https://api.github.com/authorizations --data "{\"scopes\":[\"gist\"]}"
+ 1194  sudo curl -v -u jaturong.poon@gmail.com  -X POST https://api.github.com/authorizations --data "{\"scopes\":[\"gist\"]}"
+ 1195  sudo curl -v -u wandererbear  -X POST https://api.github.com/authorizations --data "{\"scopes\":[\"gist\"]}"
+ 1196  ls -a
+ 1197  view .bin
+ 1198  cd bin
+ 1199  ls -a
+ 1200  cd ~
+ 1201  subl
+ 1202  subl desktop/edututors
+ 1203  cd desktop
+ 1204  cd treehouse_css_foundation
+ 1205  sass -watch golden_ratio.scss:golden_ratio.css
+ 1206  sass --watch golden_ratio.scss:golden_ratio.css
+ 1207  cd desktop
+ 1208  cd treehouse_css_foundation
+ 1209  sass --watch golden_ratio.scss:golden_ratio.css
+ 1210  sass -watch golden_ratio.scss:golden_ratio.css
+ 1211  sass --watch golden_ratio.scss:golden_ratio.css
+ 1212  gem install --version '~> 0.9' rb-fsevent
+ 1213  gem version
+ 1214  gem -v
+ 1215  sudo sass --watch golden_ratio.scss:golden_ratio.css
+ 1216  ruby -v
+ 1217  sass -v
+ 1218  compass -v
+ 1219  compass upgrade
+ 1220  compass -h
+ 1221  cd..
+ 1222  cd test_sass_compass
+ 1223  npm init
+ 1224  npm insatall grunt-contrib-concat --save-dev
+ 1225  npm insatall grunt-contrib-sass --save-dev
+ 1226  npm insatall grunt-contrib-compass --save-dev
+ 1227  npm insatall grunt-contrib-cssmin --save-dev
+ 1228  npm insatall grunt-contrib-watch --save-dev
+ 1229  npm insatall grunt-contrib-livereload --save-dev
+ 1230  open package.json
+ 1231  sudo npm insatall grunt-contrib-concat --save-dev
+ 1232  sudo npm insatall --save-dev  grunt-contrib-concat
+ 1233  npm install grunt-contrib-concat --save-dev
+ 1234  npm install grunt-contrib-sass --save-dev
+ 1235  npm install grunt-contrib-compass --save-dev
+ 1236  npm install grunt-contrib-cssmin --save-dev
+ 1237  npm install grunt-contrib-watch --save-dev
+ 1238  npm install grunt-contrib-livereload --save-dev
+ 1239  grunt watch
+ 1240  grunt compass
+ 1241  grunt watch
+ 1242  sass --watch scss:css
+ 1243  gem -v
+ 1244  grunt watch
+ 1245  bower init
+ 1246  bower install jquery
+ 1247  touch .bowerrc
+ 1248  vi .bowerrc
+ 1249  bower install jquery --save-dev
+ 1250  bower install --save-dev jquery
+ 1251  vi .bowerrc
+ 1252  mkdir bower
+ 1253  bower install jquery --save-dev
+ 1254  bower install modernizr --save-dev
+ 1255  bower search letter.js
+ 1256  bower search lettering
+ 1257  bower install letteringjs --save-dev
+ 1258  grunt watch
+ 1259  history
+ 1260  npm install grunt-contrib-uglify --save-dev
+ 1261  grunt watch
+ 1262  git init
+ 1263  git status
+ 1264  git add .
+ 1265  gst
+ 1266  gcmsg "Finish First Setup"
+ 1267  grunt watch
+ 1268  compass init
+ 1269  grunt watch
+ 1270  cd..
+ 1271  cd test_sass_compass
+ 1272  grunt watch
+ 1273  git branch grunt-watch
+ 1274  git branch compass-watch
+ 1275  git branch codekit-watch
+ 1276  git branch
+ 1277  gc compass-watch
+ 1278  gco compass-watch
+ 1279  gst
+ 1280  ga .
+ 1281  gst
+ 1282  compass watch
+ 1283  gco codekit-watch
+ 1284  ga .
+ 1285  gst
+ 1286  gcm
+ 1287  gco grunt-watch
+ 1288  gst
+ 1289  grunt watch
+ 1290  gco codekit-watch
+ 1291  gcmsg "Codekit Start"
+ 1292  gco grunt-watch
+ 1293  grunt watch
+ 1294  gco grunt-watch
+ 1295  git checkout grunt-watch
+ 1296  git checkout master
+ 1297  git checkout grunt-watch
+ 1298  gst
+ 1299  git add .
+ 1300  gst
+ 1301  git checkout grunt-watch
+ 1302  git log
+ 1303  git commit
+ 1304  git commit -m "codekit2"
+ 1305  git checkout grunt-watch
+ 1306  grunt watch
+ 1307  gcm
+ 1308  git checkout codekit-watch
+ 1309  git commit -m "master fuck"
+ 1310  git checkout codekit-watch
+ 1311  git add .
+ 1312  git checkout codekit-watch
+ 1313  git commit -m "master fuck"
+ 1314  git checkout codekit-watch
+ 1315  gcm
+ 1316  gm codekit-watch
+ 1317  git checkout codekit-watch
+ 1318  grunt watch
+ 1319  git commit -m "Start grunt test again"
+ 1320  git add .
+ 1321  git commit -m "Start grunt test again"
+ 1322  git checkout codekit-watch
+ 1323  gcm
+ 1324  gco codekit-watch
+ 1325  gcm
+ 1326  git commit -m "Start Codekit again"
+ 1327  gcm
+ 1328  git add .
+ 1329  gcm
+ 1330  git commit -m "Start Codekit again"
+ 1331  gcm
+ 1332  grunt watch
+ 1333  cd ../test_bootstrap
+ 1334  vi .bowerrc
+ 1335  bower init
+ 1336  bower list
+ 1337  vi .bowerrc
+ 1338  cd..
+ 1339  cd test_bootstrap
+ 1340  ls
+ 1341  grunt watch
+ 1342  bower install
+ 1343  cd ../test_sass_compass
+ 1344  ls
+ 1345  ls -a
+ 1346  view .bowerrc
+ 1347  cd ../test_bootstrap
+ 1348  vi .bowerrc
+ 1349  bower list
+ 1350  stt
+ 1351  grunt watch
+ 1352  bower install bootstrap
+ 1353  grunt watcg
+ 1354  grunt watch
+ 1355  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bootstrap 
+ 1356  bower install bootstrap-sass-official
+ 1357  bower install requirejs
+ 1358  bl
+ 1359  bi respondjs
+ 1360  bower search respond
+ 1361  bi respond
+ 1362  bower install normalize
+ 1363  bower search normalize
+ 1364  bower search normalize-css
+ 1365  bower search normalize-css --save-dev
+ 1366  bi respond --save-dev
+ 1367  bower install bootstrap-sass-official --save-dev
+ 1368  bower install requirejs --save-dev
+ 1369  bl
+ 1370  bower install normalize-css --save-dev
+ 1371  bower install
+ 1372  bs fontawesome
+ 1373  bi fontawesome --save
+ 1374  bi fontawesome#3.2.1 --save-dev
+ 1375  bi fontawesome --save
+ 1376  bs cssreset
+ 1377  bs css reset
+ 1378  bs reset
+ 1379  bs 320
+ 1380  bi 320 --save
+ 1381  cd bower
+ 1382  git clone https://github.com/malarkey/320andup.git 320
+ 1383  oundation
+ 1384  foundation new project_name --libsass
+ 1385  gem bourbon
+ 1386  gem -h
+ 1387  gem install bourbon
+ 1388  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bourbon 
+ 1389  bourbon install
+ 1390  sudo gem install bourbon
+ 1391  bourbon install
+ 1392  bourbon help
+ 1393  sass --watch stylesheets/sass:stylesheets
+ 1394  sass --watch --style expanded stylesheets/sass:stylesheets
+ 1395  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bourbon 
+ 1396  sass --watch --style expanded stylesheets/sass:stylesheets
+ 1397  sass -h
+ 1398  sass --update
+ 1399  sass -v
+ 1400  sass --watch -l --style expanded stylesheets/sass:stylesheets
+ 1401  gem list
+ 1402  gem -h
+ 1403  gem update
+ 1404  sudo gem update
+ 1405  gem update sass
+ 1406  gem update compass
+ 1407  gem update bourbon
+ 1408  gemlist
+ 1409  gem list
+ 1410  sass --watch -l --style expanded stylesheets/sass:stylesheets
+ 1411  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bourbon 
+ 1412  grunt init
+ 1413  grunt
+ 1414  npm install grunt-combine-media-queries
+ 1415  npm install grunt-combine-media-queries --save-dev
+ 1416  grunt cmq
+ 1417  grunt watch
+ 1418  ls
+ 1419  ls -a
+ 1420  grunt watch
+ 1421  npm install grunt-contrib-sass --save-dev
+ 1422  grunt watch
+ 1423  grunt sass
+ 1424  grunt watch
+ 1425  grunt sass
+ 1426  grunt watch
+ 1427  compass install
+ 1428  compass create .
+ 1429  grunt watch
+ 1430  exit
+ 1431  git status
+ 1432  compass -h
+ 1433  compass -h watch
+ 1434  cd desktop
+ 1435  compass create compass
+ 1436  compass watch
+ 1437  cd compass
+ 1438  compass wathch
+ 1439  compass watch
+ 1440  ห้ีะกนไื
+ 1441  shutdown
+ 1442  sudo restart
+ 1443  sudo shutdown
+ 1444  ping 192.168.1.1
+ 1445  ping 192.168.1.201
+ 1446  192.168.1.202
+ 1447  ping 192.168.1.202
+ 1448  ping 192.168.1.1
+ 1449  ping 192.168.1.201
+ 1450  ping 192.168.1.1
+ 1451  ping 192.168.1.201
+ 1452  ping 192.168.1.248
+ 1453  ping 192.168.1.1
+ 1454  ping 192.168.1.201
+ 1455  cd desktop/compass
+ 1456  compass watch
+ 1457  cd desktop/compass
+ 1458  compass watch
+ 1459  sudo gem install compass-rgbapng
+ 1460  gem install compass-normalize
+ 1461  sudo gem install stitch
+ 1462  sudo gem install compass-normalize
+ 1463  sudo gem install animation --pre
+ 1464  sudo gem install compass-blend-modes
+ 1465  sudo gem install compass-import-once
+ 1466  sudo gem install fancy-buttons
+ 1467  sudo gem install sassy-buttons
+ 1468  sudo gem install sass-media_query_combiner
+ 1469  sudo gem update --system
+ 1470  sass update
+ 1471  sass -v
+ 1472  compass -v
+ 1473  sudo gem update sass
+ 1474  sudo gem update compass
+ 1475  sudo gem update
+ 1476  cd desktop/compass
+ 1477  compass clean
+ 1478  compass watch
+ 1479  gem list
+ 1480  sudo gem install compass-recipes
+ 1481  gem update --sysyem
+ 1482  gem update --system
+ 1483  sudo gem update --system
+ 1484  ruby -v
+ 1485  gem -v
+ 1486  sudo gem update --system
+ 1487  sudo gem install compass-recipes
+ 1488  compass clear
+ 1489  compass clean
+ 1490  compass watch
+ 1491  sass --watch -r sass-media_query_combiner
+ 1492  compass --watch -r sass-media_query_combiner
+ 1493  compass watch
+ 1494  sudo gem install compass-recipes
+ 1495  open /Library/Ruby/Gems/2.0.0/gems/compass-recipes-0.3.0/stylesheets
+ 1496  compass watch
+ 1497  compass clean
+ 1498  compass watch
+ 1499  compass clean
+ 1500  compass watch
+ 1501  ruby -h
+ 1502  ruby update
+ 1503  sudo gem install modernizr-mixin
+ 1504  gem list
+ 1505  compass -v
+ 1506  cd desktop/compass
+ 1507  compass watch
+ 1508  sass -v
+ 1509  compass watch
+ 1510  gem sass 3.3.11
+ 1511  gem sass 
+ 1512  sass -h
+ 1513  compass -v
+ 1514  gem install compass --pre
+ 1515  sudo gem install modernizr-mixin
+ 1516  sudo gem install compass --pre
+ 1517  compass -v
+ 1518  compass watch
+ 1519  compass version
+ 1520  compass _1.0.0.alpha.19_ watch
+ 1521  compass _1.0.0_ watch
+ 1522  compass 1 watch
+ 1523  compass -h
+ 1524  compass -v
+ 1525  compass version 1
+ 1526  ls -a
+ 1527  gem 'compass', '~> 1.0.0.alpha.19'
+ 1528  sass watch /Users/wanderer/Desktop/compass/sass:/Users/wanderer/Desktop/compass/css 
+ 1529  sass --watch /Users/wanderer/Desktop/compass/sass:/Users/wanderer/Desktop/compass/css 
+ 1530  sass /Users/wanderer/Desktop/compass/sass/map.scss
+ 1531  sass -h
+ 1532  sass /Users/wanderer/Desktop/compass/sass/map.scss /Users/wanderer/Desktop/compass/css/map.css 
+ 1533  sass -i
+ 1534  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential 
+ 1535  bower install bootstrap
+ 1536  bower info bootstrap
+ 1537  sudo npm -g upgrade bower
+ 1538  sudo npm update -g bower to update
+ 1539  bower -v
+ 1540  bower install
+ 1541  bower update
+ 1542  bower install fontawesome --save
+ 1543  bower ls
+ 1544  bower search
+ 1545  bower install d3 --save-dev
+ 1546  grunt serve
+ 1547  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+ 1548  ls -a
+ 1549  view .bowerrc
+ 1550  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential 
+ 1551  vi .bowerrc
+ 1552  bower update
+ 1553  bower list -p
+ 1554  bower ls
+ 1555  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential
+ 1556  bower search
+ 1557  bower update
+ 1558  bower search modernizr
+ 1559  bower install jquery-validation -S
+ 1560  sass -i
+ 1561  compass interactive
+ 1562  cd /Users/wanderer/Desktop/compass 
+ 1563  compass version
+ 1564  gem install compass --pre
+ 1565  sudo gem install compass --pre
+ 1566  compass version
+ 1567  compass complie --force
+ 1568  compass compile --force
+ 1569  compass version
+ 1570  cd .
+ 1571  cd /
+ 1572  compass version
+ 1573  gem 'compass', '~> 1.0.0.rc.1'
+ 1574  cd /desktop/compass
+ 1575  cd ~/desktop/compass
+ 1576  sudo gem install bundler
+ 1577  gem 'compass', '~> 1.0.0.rc.1'
+ 1578  source 'https://rubygems.org'
+ 1579  bundle init
+ 1580  compass version
+ 1581  compass compile --force
+ 1582  compass version
+ 1583  gem 'compass', '~> 1.0.0.rc.1'
+ 1584  sudo gem install compass --pre
+ 1585  compass version
+ 1586  gem update compass
+ 1587  compass -v
+ 1588  bundle init
+ 1589  bundle install
+ 1590  compass version
+ 1591  compass compile --force
+ 1592  bundle install
+ 1593  compass compile --force
+ 1594  compass version
+ 1595  bundle update compass
+ 1596  compass version
+ 1597  bundle compass version
+ 1598  require
+ 1599  compass clear
+ 1600  compass clean
+ 1601  compass compile --force
+ 1602  gem uninstall compass
+ 1603  sudo gem uninstall compass
+ 1604  gem uninstall compass
+ 1605  sudo gem uninstall compass
+ 1606  compass clean
+ 1607  sudo gem update --system
+ 1608  compass -v
+ 1609  compass clean
+ 1610  compass compile --force
+ 1611  sudo gem update stitch
+ 1612  gem uninstall sass
+ 1613  sudo gem uninstall sass
+ 1614  sass version
+ 1615  sass -v
+ 1616  compass -v
+ 1617  compass clean
+ 1618  gem uninstall stitch
+ 1619  sudo gem uninstall stitch
+ 1620  compass clean
+ 1621  sudo gem install stitch
+ 1622  sass -v
+ 1623  compass -v
+ 1624  compass clean
+ 1625  compass compile --force
+ 1626  \curl -L https://get.rvm.io | bash -s stable --ruby
+ 1627  brew update
+ 1628  ruby -v
+ 1629  ruby -h
+ 1630  brew upgrade ruby-build
+ 1631  sudo brew upgrade ruby-build
+ 1632  rbenv install 2.1.1
+ 1633  brew upgrade ruby-build
+ 1634  cd ~/.rbenv 
+ 1635  brew upgrade ruby-build
+ 1636  brew install ruby-build
+ 1637  rbenv install 2.4.1
+ 1638  brew upgrade ruby-build
+ 1639  rbenv install 2.1.1
+ 1640  sudo  gem update --system   
+ 1641  ruby -v
+ 1642  gem install rubygems-update
+ 1643  sudo gem install rubygems-update
+ 1644  update_rubygems
+ 1645  ruby -v
+ 1646  ruby -ls
+ 1647  sudo gem uninstall compass
+ 1648  compass clean
+ 1649  sudo gem uninstall sass
+ 1650  compass clean
+ 1651  open /Library/Ruby/Site/2.0.0/rubygems/specification.rb
+ 1652  compass -version
+ 1653  compass -v
+ 1654  sudo gem uninstall stitch
+ 1655  compass -v
+ 1656  sass -v
+ 1657  compass compile --force
+ 1658  compass watch
+ 1659  gem install stitch
+ 1660  sudo gem uninstall stitch
+ 1661  sudo install stitch 
+ 1662  sudo gem install stitch 
+ 1663  compass compile --force
+ 1664  bundler
+ 1665  cd deskop/compass/sass
+ 1666  cd deskop/compass
+ 1667  cd /deskop/compass
+ 1668  ls
+ 1669  cd /
+ 1670  cd desktop/compass
+ 1671  ls
+ 1672  cd ~
+ 1673  ls
+ 1674  cd Desktop/compass/sass
+ 1675  ls
+ 1676  sass map.scss ../css/map.css
+ 1677  cd desktop
+ 1678  sudo npm install sassdoc
+ 1679  sudo npm install -g sassdoc
+ 1680  sassdoc compass sassdoc
+ 1681  sassdoc -c
+ 1682  sassdoc compass sassdoc -c
+ 1683  sassdoc compass sassdoc -v
+ 1684  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1685  compass install bare --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "images"
+ 1686  compass install --bare --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "images"
+ 1687  cd ..
+ 1688  compass create template-sass2 --bare --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "images"
+ 1689  gem list
+ 1690  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1691  compass watch
+ 1692  compass -v
+ 1693  gem uninstall compass
+ 1694  sudo gem uninstall compass
+ 1695  gem install compass
+ 1696  sudo gem install compass
+ 1697  compass watch
+ 1698  compass list
+ 1699  compass ls
+ 1700  compass -v
+ 1701  compass watch
+ 1702  compass clean
+ 1703  compass compile
+ 1704  compass watch
+ 1705  compass compile --force -e production
+ 1706  compass -h
+ 1707  compass compile --force -e production
+ 1708  compass watch
+ 1709  compass compile --force -e production
+ 1710  sudo gem install compass_parser
+ 1711  compass stats
+ 1712  compass watch
+ 1713  cp /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential/.bowerrc ./.bowerrc
+ 1714  bower init
+ 1715  bower search jquery
+ 1716  bower install jquery#jquery-1.10.2.min.js
+ 1717  bower install jquery#jquery-1.10.2
+ 1718  bower install jquery#jquery-1.10
+ 1719  bower install jquery --save
+ 1720  bower install jquery#~1.10.2 --save
+ 1721  bower install jquery#~1.10 --save
+ 1722  bower install jquery#~1.11.1 --save
+ 1723  bower install jquery#1.11.1 --save
+ 1724  bower update
+ 1725  compass watch
+ 1726  compass compile --force -e production
+ 1727  compass watch
+ 1728  bower install font-awesome
+ 1729  compass watch
+ 1730  cd desktop/compass
+ 1731  sassdoc sass document
+ 1732  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1733  compass watch
+ 1734  sass -i
+ 1735  cd/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1736  c d/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1737  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1738  compass watch
+ 1739  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1740  compass watch
+ 1741  witch zsh
+ 1742  which zsh
+ 1743  cd /bin/zsh
+ 1744  cd /bin
+ 1745  ls
+ 1746  cd zsh
+ 1747  ls -a
+ 1748  update
+ 1749  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1750  compass watch
+ 1751  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1752  $template-path = /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass
+ 1753  var $template-path = /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass
+ 1754  $template-path = /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass;
+ 1755  compass watch
+ 1756  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/
+ 1757  compass watch
+ 1758  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_typography.scss
+ 1759  compass watch
+ 1760  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass
+ 1761  compass watch
+ 1762  compass stat
+ 1763  sudo gem install css_parser
+ 1764  compass stat
+ 1765  compass compile --force -e production
+ 1766  compass stat
+ 1767  compass watch
+ 1768  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1769  compass watch
+ 1770  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1771  compass watch
+ 1772  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1773  compass watch
+ 1774  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1775  compass watch
+ 1776  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1777  compass watch
+ 1778  compass compile --force -e --production
+ 1779  compass compile --force -e production
+ 1780  compass watch
+ 1781  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1782  compass watch
+ 1783  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1784  compass watch
+ 1785  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1786  compass watch
+ 1787  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1788  compass watch
+ 1789  compass -v
+ 1790  gem update compass
+ 1791  sudo gem update compass
+ 1792  compass watch
+ 1793  compass -v
+ 1794  sass -v
+ 1795  gem update sass
+ 1796  sudo gem update sass
+ 1797  sudo gem update system
+ 1798  sudo gem update --system
+ 1799  compass watch
+ 1800  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1801  compass watch
+ 1802  compass grid-img 93.666666667+13x26
+ 1803  compass -v
+ 1804  compass grid-img 40+20x28
+ 1805  compass watch
+ 1806  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1807  compass watch
+ 1808  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1809  bower search waypoint
+ 1810  bower install jquery-waypoints
+ 1811  compass watch
+ 1812  nano /etc/httpd/conf.d/phpmyadmin.conf
+ 1813  bower search scrollr
+ 1814  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1815  bower search scrollr
+ 1816  bower install scrollr
+ 1817  npm update -g bower
+ 1818  sudo npm update -g bower
+ 1819  compass watch
+ 1820  bower search enauire
+ 1821  bower search enquire
+ 1822  bower install  enquire
+ 1823  compass watch
+ 1824  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1825  compass watch
+ 1826  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1827  compass watch
+ 1828  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1829  compass watch
+ 1830  compass compile --force -e production
+ 1831  compass watch
+ 1832  compass compile --force -e production
+ 1833  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1834  compass watch
+ 1835  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1836  compass watch
+ 1837  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1838  compass watch
+ 1839  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1840  compass watch
+ 1841  compass compile
+ 1842  compass compile --force
+ 1843  compass watch
+ 1844  compass version
+ 1845  compass -v
+ 1846  compass watch
+ 1847  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1848  compass watch
+ 1849  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1850  compass watch
+ 1851  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1852  compass watch
+ 1853  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1854  compass watch
+ 1855  compass version
+ 1856  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1857  compass version
+ 1858  sudo gem update compass
+ 1859  compass version
+ 1860  compass watch
+ 1861  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1862  compass watch
+ 1863  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1864  compass watch
+ 1865  compass compile --force -e production
+ 1866  compass watch
+ 1867  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1868  compass watch
+ 1869  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1870  compass watch
+ 1871  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1872  compass watch
+ 1873  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1874  compass watch
+ 1875  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1876  compass watch
+ 1877  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1878  compass watch
+ 1879  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1880  compass watch
+ 1881  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1882  compass watch
+ 1883  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1884  compass watch
+ 1885  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1886  compass watch
+ 1887  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+ 1888  compass watch
+ 1889  ping 192.168.1.250
+ 1890  npm -v
+ 1891  sudo npm install -g coffee-script
+ 1892  coffee -v
+ 1893  coffee
+ 1894  python
+ 1895  sudo
+ 1896  sudo npm install --production
+ 1897  apt-get install asciidoc inkscape
+ 1898  sudo apt-get install asciidoc inkscape
+ 1899  sudo xcodebuild -license
+ 1900  sudo xcrun cc
+ 1901  sudo xcodebuild -license
+ 1902  agree
+ 1903  apt-get install asciidoc inkscape
+ 1904  apt-get install texlive texlive-xetex texlive-fonts-extra
+ 1905  curl http://zip.getziptastic.com/v2/US/48867
+ 1906  curl http://zip.getziptastic.com/v2/TH/10100
+ 1907  curl http://zip.getziptastic.com/v2/TH/10170
+ 1908  cd /Volumes/Wanderer_Study/Tutorial/topic/Web/05-JavaScript/3-framework/2-nodejs/TutsPlus\ -\ An\ Introduction\ to\ Node.js/Project\ Files/1-files 
+ 1909  node sample.js
+ 1910  touch sample.txt
+ 1911  node sample.js
+ 1912  node -v
+ 1913  mpm -v
+ 1914  npm -v
+ 1915  coffee- v
+ 1916  coffee -v
+ 1917  coffee which
+ 1918  which coffee
+ 1919  which nom
+ 1920  which npm
+ 1921  which node
+ 1922  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+ 1923  node 1-coffee.js
+ 1924  mv 1-coffee.js 1-coffee.old.js
+ 1925  ls
+ 1926  coffee -c 1-coffee.coffee
+ 1927  ls
+ 1928  coffee -cw 1-coffee.coffee
+ 1929  coffee
+ 1930  coffee -cw 2-type.coffee
+ 1931  coffee 2-type.coffee
+ 1932  coffee -cw 2-type.coffee
+ 1933  cat 2-type.coffee
+ 1934  cat 2-type.js
+ 1935  coffee -cw 2-type.coffee
+ 1936  coffee -cw 3-function.coffee
+ 1937  coffee 3-function.coffee
+ 1938  coffee -cw 3-function.coffee
+ 1939  coffee 3-function.coffee
+ 1940  coffee -cw 3-function.coffee
+ 1941  coffee 3-function.coffee
+ 1942  coffee -cw 3-function.coffee
+ 1943  sudo npm install -g coffee-script
+ 1944  coffee -cw 3-function.coffee
+ 1945  coffee 3-function.coffee
+ 1946  coffee 4-operators.coffee
+ 1947  coffee -c 4-operators.coffee
+ 1948  coffee 4-operators.coffee
+ 1949  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+ 1950  coffee 5-condition.coffee
+ 1951  coffee --compile 5-condition.coffee
+ 1952  coffee -c 6-loops.coffee
+ 1953  coffee 6-loops.coffee
+ 1954  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+ 1955  coffee 3-function.coffee
+ 1956  coffee -c 6-loops.coffee
+ 1957  coffee 6-loops.coffee
+ 1958  coffee -c 6-loops.coffee
+ 1959  coffee 6-loops.coffee
+ 1960  coffee -ow js/ -c cs/
+ 1961  coffee -o -w js/ -c cs/
+ 1962  coffee -w -o js/ -c cs/
+ 1963  coffee -j js/app.js -c cs/*.coffee
+ 1964  coffee -w -o js/ -c cs/
+ 1965  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+ 1966  cd cs
+ 1967  coffee 8-prototype.coffee
+ 1968  coffee
+ 1969  coffee 8-prototype.coffee
+ 1970  coffee 9-class.coffee
+ 1971  coffee 10-regexp.coffee
+ 1972  cake watch
+ 1973  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+ 1974  cake watch
+ 1975  coffee
+ 1976  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+ 1977  coffee -cwo js coffee
+ 1978  coffee -cwo js cs
+ 1979  coffee -cow js cs
+ 1980  coffee -woc js cs
+ 1981  coffee -cwo js cs
+ 1982  coffee cs/2-type.coffee
+ 1983  coffee -cwo js cs
+ 1984  coffee cs/12-node.coffee
+ 1985  ls
+ 1986  cd /
+ 1987  ls
+ 1988  cd Applications
+ 1989  ;s
+ 1990  ls
+ 1991  cd XAMPP
+ 1992  ls
+ 1993  cd xamppfiles
+ 1994  ls
+ 1995  cd htdocs
+ 1996  cd sandbox
+ 1997  ls
+ 1998  cd test_coffeescript
+ 1999  //
+ 2000  ///
+ 2001  \\
+ 2002  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+ 2003  coffee -cwo js cs
+ 2004  coffee cs/9-class-advance.coffee
+ 2005  coffee -cwo js cs
+ 2006  coffee cs/9-class-advance.coffee
+ 2007  node cs/9-class-advance.coffee
+ 2008  node js/9-class-advance.js
+ 2009  coffee -cwo js cs
+ 2010  node js/9-class-advance.js
+ 2011  coffee cs/9-class-advance.coffee
+ 2012  coffee -cwo js cs
+ 2013  coffee cs/9-class-advance.coffee
+ 2014  coffee -cwo js cs
+ 2015  coffee cs/9-class-advance.coffee
+ 2016  coffee -cwo js cs
+ 2017  coffee cs/9-class-advance.coffee
+ 2018  node Math.min.apply(Math, [14, 35, -7, 46, 98]);
+ 2019  node console.log( Math.min.apply(Math, [14, 35, -7, 46, 98]))
+ 2020  node 1+1
+ 2021  node -v
+ 2022  node 1 + 1
+ 2023  coffee
+ 2024  larvel
+ 2025  nova boot --flavor nb.2G --image "Ubuntu 14.04 LTS" --key-name MacBook rails-dev
+ 2026  composer
+ 2027  sudo composer update
+ 2028  composer global require "laravel/installer=~1.1"
+ 2029  sudo composer global require "laravel/installer=~1.1"
+ 2030  /usr/local/Cellar/composer/1.0.0-alpha8/libexec/composer.phar self-update
+ 2031  sudo /usr/local/Cellar/composer/1.0.0-alpha8/libexec/composer.phar self-update
+ 2032  cd /desktop
+ 2033  ls
+ 2034  cd Desktop
+ 2035  composer create-project laravel/laravel your-project-name --prefer-dist
+ 2036  git -v
+ 2037  git v
+ 2038  git
+ 2039  git --version
+ 2040  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript 
+ 2041  coffee cs/speedtest.coffee
+ 2042  coffee -cwo js cs
+ 2043  coffee cs/speedtest.coffee
+ 2044  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript 
+ 2045  bower init
+ 2046  bower install requirejs
+ 2047  coffee -cwo js cs
+ 2048  alias sandbox="open /Applications/XAMPP/xamppfiles/htdocs/sandbox"
+ 2049  sandbox
+ 2050  cd sandbox
+ 2051  ls
+ 2052  cs
+ 2053  cd /
+ 2054  cd ~
+ 2055  ls
+ 2056  sandbox
+ 2057  alias cd_coffee="cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript"
+ 2058  cd_coffee
+ 2059  coffee -cwo js cs
+ 2060  test-coffeescript
+ 2061  alias ls
+ 2062  coffeescript
+ 2063  test_coffee
+ 2064  test_coffee-script
+ 2065  cd_coffee-script
+ 2066  cd_sandbox
+ 2067  sandbox
+ 2068  cd test-coffee
+ 2069  ls
+ 2070  ~
+ 2071  cd_sandbox
+ 2072  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript 
+ 2073  r.js -o build.js
+ 2074  r.js
+ 2075  npm install -g requirejs
+ 2076  sudo npm install -g requirejs
+ 2077  r.js -o build.js
+ 2078  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-angular 
+ 2079  npm install bower
+ 2080  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-angular 
+ 2081  cat index.html
+ 2082  help
+ 2083  --help
+ 2084  bower install angularjs
+ 2085  touch index.txt
+ 2086  mv index.txt index.jtml
+ 2087  mv index.jtml index.html
+ 2088  bower install bootstrap
+ 2089  sudo np updatem -g bower
+ 2090  sudo npm updatem -g bower
+ 2091  sudo npm update -g bower
+ 2092  mkdir img
+ 2093  <blockquote ng-repeat="review in product.reviews">
+ 2094  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git 
+ 2095  git clone git@github.com:wandererbear/study-git.git
+ 2096  ls -al ~/.ssh
+ 2097  ssh-keygen -t rsa -C "jaturong.poon@gmail.com"
+ 2098  eval "$(ssh-agent -s)"
+ 2099  ssh-add ~/.ssh/id_rsa
+ 2100  ls -al ~/.ssh
+ 2101  pbcopy < ~/.ssh/id_rsa.pub
+ 2102  ssh -T git@github.com
+ 2103  git clone git@github.com:wandererbear/study-git.git
+ 2104  cd ..
+ 2105  cd .
+ 2106  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study 
+ 2107  git clone git@github.com:wandererbear/study-git.git
+ 2108  ls
+ 2109  cd study-git
+ 2110  vi README.md
+ 2111  git status
+ 2112  git add README.md
+ 2113  git status
+ 2114  git commit -m "updated README.md from mac"
+ 2115  git status
+ 2116  git push
+ 2117  git log
+ 2118  git status
+ 2119  git pull
+ 2120  git log
+ 2121  view README.md
+ 2122  git status
+ 2123  git checkout "gh-pages"
+ 2124  git checkout -b "gh-pages"
+ 2125  git branch
+ 2126  vi index.html
+ 2127  git commit -ma "created gh-pages branch and index.html"
+ 2128  git commit -m -a "created gh-pages branch and index.html"
+ 2129  git commit -a -m "created gh-pages branch and index.html"
+ 2130  git status
+ 2131  git add .
+ 2132  git status
+ 2133  git log
+ 2134  git commit -m "created gh-pages branch and index.html"
+ 2135  git push
+ 2136  git push u origin master
+ 2137  git push -u origin master
+ 2138  git branch
+ 2139  git push
+ 2140  git push -u origin gh-pages
+ 2141  vi index.html
+ 2142  git add .
+ 2143  git push
+ 2144  git commit -m "update index.html"
+ 2145  git push
+ 2146  git push -u origin gh-pages
+ 2147  git push
+ 2148  git config --global push.default matching
+ 2149  git config --global push.default simple
+ 2150  git push
+ 2151  git config --global color.ui true
+ 2152  gitk
+ 2153  cd ..
+ 2154  mkdir study-git-codeschool-1/store
+ 2155  mkdir study-git-codeschool-1
+ 2156  cd study-git-codeschool-1
+ 2157  mkdir store
+ 2158  cd store
+ 2159  git init
+ 2160  touch README.txt
+ 2161  ls
+ 2162  git status
+ 2163  git --version
+ 2164  git update
+ 2165  git help
+ 2166  git add README.txt
+ 2167  git status
+ 2168  git commit -m "Create a README"
+ 2169  git status
+ 2170  vi README,txt
+ 2171  vi README.txt
+ 2172  ls
+ 2173  rm README,txt
+ 2174  ls
+ 2175  git status
+ 2176  touch LICENSE
+ 2177  git status
+ 2178  git add --all
+ 2179  git status
+ 2180  git commit -m "Add LICENSE and finish README"
+ 2181  git log
+ 2182  vi LICENSE
+ 2183  git status
+ 2184  git add .
+ 2185  git commit -m "begin LICENSE"
+ 2186  vi LICENSE
+ 2187  git add .
+ 2188  git commit -m "update LICENSE"
+ 2189  git log
+ 2190  git diff
+ 2191  vi LICENSE
+ 2192  git diff
+ 2193  git add .
+ 2194  git diff
+ 2195  git diff --staged
+ 2196  git status
+ 2197  git reset HEAD LICENSE
+ 2198  git status
+ 2199  git checkout -- LICENSE
+ 2200  git status
+ 2201  view LICENSE
+ 2202  vi README.txt
+ 2203  git commit -a -m "Modify readme"
+ 2204  git reset --soft HEAD^
+ 2205  git reset --soft HEAD
+ 2206  view README.txt
+ 2207  git log
+ 2208  git reset --soft HEAD^1
+ 2209  git status
+ 2210  git reset --soft HEAD
+ 2211  git status
+ 2212  git reset --soft HEAD~
+ 2213  git status
+ 2214  gitlog
+ 2215  git log
+ 2216  view README.txt
+ 2217  touch todo.txt
+ 2218  ls
+ 2219  git log
+ 2220  git add todo.txt
+ 2221  git status
+ 2222  git commit --amend -m "Modify readme & add todo.txt use --amend"
+ 2223  git status
+ 2224  git log
+ 2225  vi README.txt
+ 2226  git status
+ 2227  git add .
+ 2228  git commit -m "before using reset --hard HEAD~"
+ 2229  git log
+ 2230  git reset --hard HEAD~
+ 2231  git log
+ 2232  view README.txt
+ 2233  git remote -v
+ 2234  git remote add origin git@github.com:wandererbear/git-real-1.git
+ 2235  git remote -v
+ 2236  git push -u origin master
+ 2237  git pull
+ 2238  git log
+ 2239  ;s
+ 2240  ls
+ 2241  mkdir store2
+ 2242  git clone https://github.com/wandererbear/git-real-1.git git-demo
+ 2243  ls
+ 2244  open
+ 2245  open .
+ 2246  cd git-demo
+ 2247  git status
+ 2248  git log
+ 2249  git remote -v
+ 2250  git branch cat
+ 2251  git branch
+ 2252  git checkout cat
+ 2253  echo "Schr
+ 2254  echo "Schrodinger" > cat.txt
+ 2255  ls
+ 2256  view cat.txt
+ 2257  git add cat.txt
+ 2258  git commit -m "Create quantum cat."
+ 2259  git checkout master
+ 2260  ls
+ 2261  git log
+ 2262  git checkout cat
+ 2263  ls
+ 2264  git log
+ 2265  git checkout master
+ 2266  git merge cat
+ 2267  git branch -d cat
+ 2268  git branch
+ 2269  git log
+ 2270  git checkout -b admin
+ 2271  git branch
+ 2272  ls
+ 2273  rm dashboard.html
+ 2274  git add admin/dashboard.html
+ 2275  touch admin/dashboard.html
+ 2276  vi
+ 2277  vi admin/dashboard.html
+ 2278  ls
+ 2279  mkdir admin
+ 2280  touch admin/dashboard.html
+ 2281  ls
+ 2282  git add admin/dashboard.html
+ 2283  git commit -m 'Add dashboard'
+ 2284  git log
+ 2285  touch admin/user.html
+ 2286  git add admin/user.html
+ 2287  git commit -m 'Add user admin'
+ 2288  git log
+ 2289  git checkout master
+ 2290  git branch
+ 2291  git pull
+ 2292  touch store.rb
+ 2293  ls
+ 2294  gut add store.rb
+ 2295  git add store.rb
+ 2296  git commit -m 'Fix store bug'
+ 2297  git log
+ 2298  touch product.rb
+ 2299  git add product.rb
+ 2300  git commit -m 'Fix product'
+ 2301  git push
+ 2302  git checkout admin
+ 2303  git checkout master
+ 2304  bit branch
+ 2305  ait branch
+ 2306  git branch
+ 2307  git merge admin
+ 2308  ls
+ 2309  git log
+ 2310  git status
+ 2311  git ad --all
+ 2312  git add --all
+ 2313  git commit -m "Add store and product models."
+ 2314  git log
+ 2315  git push
+ 2316  git log
+ 2317  cd ../store
+ 2318  git log
+ 2319  echo "abcdefg" > README.txt
+ 2320  view README.txt
+ 2321  git status
+ 2322  git add .
+ 2323  git commit -m "Update the readme"
+ 2324  git log
+ 2325  git push
+ 2326  git pull
+ 2327  git log
+ 2328  git status
+ 2329  git push
+ 2330  git log
+ 2331  gut pull
+ 2332  git pull
+ 2333  view README.txt
+ 2334  cd ../git-demo
+ 2335  view README.txt
+ 2336  git add .
+ 2337  git commit -m "git-demo update readme to xyz"
+ 2338  gut push
+ 2339  git push
+ 2340  git pull
+ 2341  view README.txt
+ 2342  git commit -a
+ 2343  git status
+ 2344  cd ../store
+ 2345  git pull
+ 2346  view README.txt
+ 2347  cd ../git-demo
+ 2348  git status
+ 2349  got push
+ 2350  git log
+ 2351  git push
+ 2352  cd ../store
+ 2353  git pull
+ 2354  view README.txt
+ 2355  echo 'first' > README.txt
+ 2356  git commit -am "first edit readme'\n
+ 2357  git commit -am "first edit readme'
+ 2358  git commit -am "first edit readme"
+ 2359  git push
+ 2360  cd ../git-demo
+ 2361  echo 'second' > README.txt
+ 2362  git commit -am "second"
+ 2363  git push
+ 2364  git pull
+ 2365  git commit -a
+ 2366  view README.txt
+ 2367  git push
+ 2368  cd ../s
+ 2369  cd ../store
+ 2370  git pull
+ 2371  git log
+ 2372  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git-codeschool-1 
+ 2373  cd store
+ 2374  git branch
+ 2375  git status
+ 2376  git branch 'test-stash'
+ 2377  git checkout test-stash
+ 2378  touch stash.txt
+ 2379  git add stash.txt
+ 2380  git status
+ 2381  git stash
+ 2382  git checkout master
+ 2383  git status
+ 2384  git stash apply
+ 2385  git status
+ 2386  git commit -m 'creat and test stash.txt'
+ 2387  git log
+ 2388  git branch -d git-stash
+ 2389  git branch
+ 2390  git branch -d test-stash
+ 2391  git branch
+ 2392  git commit --amend -m 'create stash.txt & test git stash'
+ 2393  git log
+ 2394  git remote add git-real-1-clone git@github.com:wandererbear/git-real-1-clone.git
+ 2395  git remote -v
+ 2396  git push git-real-1-clone master
+ 2397  git push
+ 2398  git fetch git-real-1-clone master
+ 2399  git status
+ 2400  ls
+ 2401  git pull git-real-1-clone master
+ 2402  git push
+ 2403  git log
+ 2404  vi README.txt
+ 2405  git commit -am 'update README with lastest readme'
+ 2406  git checkout -- README.txt
+ 2407  view README.txt
+ 2408  gi log
+ 2409  git log
+ 2410  glg
+ 2411  git reset --hard HEAD~
+ 2412  view README.txt
+ 2413  git add .
+ 2414  git status
+ 2415  git checkout -- README.txt
+ 2416  git loh
+ 2417  git log
+ 2418  view README.txt
+ 2419  git checkout -- README.txt
+ 2420  view README.txt
+ 2421  git status
+ 2422  git reset HEAD README.txt
+ 2423  git status
+ 2424  git reset -- README.txt
+ 2425  view README.txt
+ 2426  git diff
+ 2427  git help checkout
+ 2428  git reset --README.txt
+ 2429  git reset -- README.txt
+ 2430  git status
+ 2431  git checkout -- README.txt
+ 2432  git diff
+ 2433  view README.txt
+ 2434  vi README.txt
+ 2435  git add .
+ 2436  git status
+ 2437  git checkout -- README.txt
+ 2438  view README.txt
+ 2439  git reset HEAD .
+ 2440  git status
+ 2441  git checkout -- README.txt
+ 2442  view README.txt
+ 2443  vi README.txt
+ 2444  git commit -am 'test reset --hard HEAD'
+ 2445  git log
+ 2446  git reset --hard HEAD~
+ 2447  git log
+ 2448  view README.txt
+ 2449  git push
+ 2450  git checkout -b shopping_cart
+ 2451  git push origin shopping_cart
+ 2452  git branch
+ 2453  gitk
+ 2454  touch cart.rb
+ 2455  git commit -am 'Add basic cart ability'
+ 2456  git status
+ 2457  git add cart.rb
+ 2458  git status
+ 2459  git diff cart.rb
+ 2460  git commit -ammend
+ 2461  git log
+ 2462  git commit --amend "Add basic cart ability"
+ 2463  git commit --amend -m "Add basic cart ability"
+ 2464  git log
+ 2465  git push
+ 2466  git push origin shopping_cart
+ 2467  git log
+ 2468  cd ../git-demo
+ 2469  git pull
+ 2470  git branch
+ 2471  git branch -r
+ 2472  git checkout shopping_cart
+ 2473  git branch
+ 2474  git remote show origin
+ 2475  vi README.txt
+ 2476  git commit -am "update readme by jane form shopping_cart branch"
+ 2477  git push
+ 2478  git chechout master
+ 2479  git checkout master
+ 2480  vi README.txt
+ 2481  git commit -am 'update readme by jane form master'
+ 2482  git push
+ 2483  gco shopping_cart
+ 2484  gb
+ 2485  git push origin :shoping_cart
+ 2486  cd ../store
+ 2487  git pull
+ 2488  git branch
+ 2489  git push origin :shoping_cart
+ 2490  cd ../git-demo
+ 2491  git push origin :shopping_cart
+ 2492  git branch
+ 2493  git branch -d shopping_cart
+ 2494  git branch -D shopping_cart
+ 2495  gco master
+ 2496  gb
+ 2497  gb -d shopping_cart
+ 2498  gb -D shopping_cart
+ 2499  cd ../store
+ 2500  git commit -m -a "Add ability to pay"
+ 2501  git branch
+ 2502  ls
+ 2503  echo '##' > cart.rb
+ 2504  git commit -m -a "Add ability to pay"
+ 2505  git add .
+ 2506  git commit -m "Add ability to pay"
+ 2507  git log
+ 2508  git push
+ 2509  git branch
+ 2510  git remote show origin
+ 2511  git remote prune origin
+ 2512  git remote show origin
+ 2513  git tah
+ 2514  git tag
+ 2515  git checkout v0.0.1
+ 2516  git branch
+ 2517  gco master
+ 2518  git merge shopping_cart
+ 2519  git branch
+ 2520  git tag -a v0.0.1 -m "version 0.0.1"
+ 2521  git tag
+ 2522  git push --tags
+ 2523  vi README.txt
+ 2524  git commit -am "test tag"
+ 2525  git tag -a v0.0.2 -m "version 0.0.2"
+ 2526  git tag
+ 2527  git checkout v0.0.2
+ 2528  git tah
+ 2529  git tag
+ 2530  view
+ 2531  view README.txt
+ 2532  git checkout v0.0.2
+ 2533  git log
+ 2534  view README.txt
+ 2535  git push --tags
+ 2536  view README.txt
+ 2537  git status
+ 2538  gc -am 'update README from v0.0.2"\n\n'
+ 2539  git log
+ 2540  git push --tags
+ 2541  git push
+ 2542  git branch
+ 2543  git status
+ 2544  view README.txt
+ 2545  git push --tags
+ 2546  git checkout v0.0.2
+ 2547  view README.txt
+ 2548  git branch
+ 2549  git config --list
+ 2550  ls
+ 2551  ls -la
+ 2552  cat .gitconfig
+ 2553  mate
+ 2554  vim
+ 2555  emacs
+ 2556  git config core.editor
+ 2557  git config --list core.editor
+ 2558  git config --global core.editor "vim"
+ 2559  curl -OL http://github.com/git/git/raq/master/contrib/completion/git-completion.bash
+ 2560  mv ~/git-completion.bash ~/.git-completion.bash
+ 2561  ~/.bash_profile
+ 2562  ~/.bashrc
+ 2563  sudo ~/.bashrc
+ 2564  ls -la
+ 2565  vim .bash_profile
+ 2566  git help
+ 2567  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git/study-git-lynda-essential 
+ 2568  git init
+ 2569  ls -la
+ 2570  cd .git
+ 2571  ls -la
+ 2572  cd ..
+ 2573  echo 'This is my first file' > first_file.txt
+ 2574  ls
+ 2575  view first_file.txt
+ 2576  git add .
+ 2577  git status
+ 2578  git commit -m "Initial commit"
+ 2579  git log --since=2015
+ 2580  git log --since=2015-01-01
+ 2581  git log --until=2015-02-14
+ 2582  git log --since=3f0cede
+ 2583  ls -a
+ 2584  ls -la
+ 2585  chmod ugo+rwx"first_file.txt"
+ 2586  ls -la
+ 2587  chmod ugo+rwx "first_file.txt"
+ 2588  sudo chmod ugo+rwx"first_file.txt"
+ 2589  ls -la
+ 2590  chmod go-wx*txt
+ 2591  chmod go-wx*.txt
+ 2592  chmod go-wx"first_file.txt"
+ 2593  ls -l
+ 2594  sudo chmod go-wx"first_file.txt"
+ 2595  ls -la
+ 2596  sudo chmod go-rwx"first_file.txt"
+ 2597  ls -l
+ 2598  sudo chmod go-wx "first_file.txt"
+ 2599  ls -l
+ 2600  sudo chmod o+wx *txt
+ 2601  ls -l
+ 2602  sudo chmod o= *txt
+ 2603  ls -la
+ 2604  ls -la .git
+ 2605  git log --author="wandererbear"
+ 2606  'f\ndf\nfdsafdsa\nfdsafsaf'
+ 2607  git commit --amend -m 'Initial commit\nThis is the initial commit that i use just quote\nin bash to use multipleline til i close my quote\nและลองทดสอบภาษาไทยดู'
+ 2608  git log
+ 2609  git commit --amend -m 'Initial commit' -m '' -m 'This is line i create from multiple -m'
+ 2610  git log
+ 2611  git log --grep ini
+ 2612  git log --grep "Ini"
+ 2613  git commit --amend -m '[txt] Initial Git\n\nTest to use multiplelines commit message and there are good\npractices for message.\n\n*Topic has file type and topic group and topic name < 50 chars\n*Body each line < 72 chars\n*Use * for list'
+ 2614  git log author="wandererbear"
+ 2615  git log --author="wandererbear"
+ 2616  gl --grep "txt"
+ 2617  gl
+ 2618  gst
+ 2619  glg
+ 2620  glg --grep "txt"
+ 2621  ls -la
+ 2622  sudo chmod 777 first_file.txt
+ 2623  ls -la
+ 2624  git log --pretty+oneline
+ 2625  git log --pretty=oneline
+ 2626  git log --pretty=format:"%d %s"
+ 2627  git log
+ 2628  git log --pretty=format:"%d /n %an"
+ 2629  git log --pretty=format:'%d %an\n%s'
+ 2630  git log --pretty=oneline
+ 2631  git log --pretty=format:'%d %an\n%s'
+ 2632  git log --oneline -p
+ 2633  git log --oneline -stat
+ 2634  git log --oneline --stat
+ 2635  git log --oneline --graph
+ 2636  git blame first_file.txt --date short
+ 2637  git blame first_file.txt
+ 2638  mkdir hidden-folder
+ 2639  ls
+ 2640  git status
+ 2641  git checkout -- first_file.txt
+ 2642  git status
+ 2643  ls
+ 2644  ls -l
+ 2645  vim .git/info/exclude
+ 2646  touch hidden-folder/readme.txt
+ 2647  git status
+ 2648  ls -la .git
+ 2649  mkdir logs
+ 2650  touch logs/test.log
+ 2651  git status
+ 2652  vim .gitignore
+ 2653  git status
+ 2654  vim .gitignore
+ 2655  git status
+ 2656  git config --global alias.lol \\
+ 2657  "log --graph --decorate --pretty=oneline --abbrev-commit --all"
+ 2658  git lol
+ 2659  git log
+ 2660  git log --graph
+ 2661  git log --oneline --graph
+ 2662  git config --global alias.ilog \\
+ 2663  "log --pretty=format: '%h %s [by %an]' --graph"
+ 2664  git ilog
+ 2665  git config --global alias.ilog \\
+ 2666  "log --pretty=format: '%h %s [%an]' --graph"
+ 2667  git ilog
+ 2668  git config --global alias.ilog \\
+ 2669  "log --pretty=format:'%h %s [%an]' --graph"
+ 2670  git ilog
+ 2671  git config --global alias.ilog \\
+ 2672  "log --pretty=format:'%h %s [by %an]' --graph"
+ 2673  git ilog
+ 2674  git config --global alias.ilog \\
+ 2675  "log --pretty=format:'%h %s [by %an] <@ %ad>' --graph"
+ 2676  git ilog
+ 2677  git config --global alias.ilog \\
+ 2678  "log --pretty=format:'%h %s [by %an] <%ad>' --abbrev-commit --graph"
+ 2679  git ilog
+ 2680  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git/study-git-lynda-essential 
+ 2681  brew update git
+ 2682  brew upgrade git
+ 2683  sudo brew upgrade git
+ 2684  brew help
+ 2685  sudo
+ 2686  brew list
+ 2687  brew update
+ 2688  ls -la /Applications/GitHub.app/Contents/Resources/git/bin/
+ 2689  chmod 777 /usr/local
+ 2690  brew doctor
+ 2691  brew link git
+ 2692  which git
+ 2693  git --version
+ 2694  brew upgrade git
+ 2695  ls -la /usr/local/lib/perl5/
+ 2696  chmod 777 /usr/local/lib/perl5/site_perl/5.16.2
+ 2697  chmod 777 /usr/local/lib/perl5/site_perl
+ 2698  sudo chmod 777 /usr/local/lib/perl5/site_perl
+ 2699  ls -la /usr/local/lib/perl5/
+ 2700  brew upgrade git
+ 2701  git --version
+ 2702  brew unlink git
+ 2703  brew list
+ 2704  brew install git
+ 2705  brew link kit
+ 2706  brew link git
+ 2707  git --version
+ 2708  which git
+ 2709  vi  ~/.bash_profile 
+ 2710  source ~/.bash_profile
+ 2711  brew install git
+ 2712  brew link git
+ 2713  brew link --overwrite git 
+ 2714  brew link --overwrite --dry-run git
+ 2715  brew link git
+ 2716  git --version
+ 2717  brew help
+ 2718  brew uninstall git
+ 2719  brew uninstall --force git
+ 2720  git --version
+ 2721  which git
+ 2722  brew list
+ 2723  echo $PATH
+ 2724  view ~/.zshrc
+ 2725  cd ..
+ 2726  cd .
+ 2727  cd..
+ 2728  cd...
+ 2729  cd....
+ 2730  cd..
+ 2731  cd.
+ 2732  which git
+ 2733  git --version
+ 2734  if [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi
+ 2735  echo "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"
+ 2736  printf "Type 'yes' if you are sure you wish to continue: "
+ 2737  read response
+ 2738  if [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi
+ 2739  echo "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"
+ 2740  printf "Type 'yes' if you are sure you wish to continue: "
+ 2741  read response
+ 2742  if [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi
+ 2743  echo "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"
+ 2744  printf "Type 'yes' if you are sure you wish to continue: "
+ 2745  read response
+ 2746  git --version
+ 2747  view /bin/ba
+ 2748  view /bin/bash
+ 2749  /Volumes/Git\ 2.2.1\ Mavericks\ Intel\ Universal/uninstall.sh; exit;
+ 2750  if [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi
+ 2751  which git
+ 2752  git --version
+ 2753  cd /usr/bin/
+ 2754  ls -la
+ 2755  whoami
+ 2756  root
+ 2757  sudo
+ 2758  iterm
+ 2759  iTerm
+ 2760  history
+ 2761  /usr/bin/whoami ; exit;
+ 2762  whoami
+ 2763  echo 1+1
+ 2764  1+1
+ 2765  echo $a = 1
+ 2766  $a
+ 2767  echo $a
+ 2768  $a = 1
+ 2769  view ~/.profile
+ 2770  vi ~/.profile
+ 2771  goto-study
+ 2772  vi ~/.profile
+ 2773  goto-study
+ 2774  ls -la
+ 2775  vi .zshrc
+ 2776  vi ~/.zshrc
+ 2777  view ~/.zshrc
+ 2778  goto-study
+ 2779  view ~/.zshrc
+ 2780  gotostudy
+ 2781  pwd
+ 2782  vi ~/.zshrc
+ 2783  goto-study
+ 2784  vi ~/.zshrc
+ 2785  goto-edu
+ 2786  zshconfig
+ 2787  vi ~/.zshrc
+ 2788  zshconfig
+ 2789  vi ~/.zshrc
+ 2790  zshconfig
+ 2791  ohmyzsh
+ 2792  goto-study
+ 2793  ls -la
+ 2794  touch testvim.txt
+ 2795  vi testvim.txt
+ 2796  view testvim.txt
+ 2797  vi testvim.txt
+ 2798  rm testvim.txt
+ 2799  ls
+ 2800  clear
+ 2801  a=10
+ 2802  echo a
+ 2803  echo $a
+ 2804  function hello { echo hello }
+ 2805  hello
+ 2806  function hello(a) { echo hello $a }
+ 2807  function hello(a) { echo hello }
+ 2808  function hello($a) { echo hello }
+ 2809  hello a
+ 2810  hello $a
+ 2811  fucnction hello a { echo hello a }
+ 2812  fucnction hello a { echo hello $a }
+ 2813  fucnction hello a { echo hello }
+ 2814  fucnction hello $a { echo hello }
+ 2815  fucnction hello $a { echo hello $a}
+ 2816  foo() {\n    echo "Parameter #1 is $1"\n}
+ 2817  foo 2
+ 2818  bar() {\ncd $1\n}
+ 2819  foo study-git
+ 2820  bar study-git
+ 2821  bar() {
+ 2822  if [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi
+ 2823  uninstallgit() {\nif [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi\necho "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"\nprintf "Type 'yes' if you are sure you wish to continue: "\nread response\nif [ "$response" == "yes" ]; then\n  sudo rm -rf /usr/local/git/\n  sudo rm /etc/paths.d/git\n  sudo rm /etc/manpaths.d/git\n  pkgutil --packages | grep GitOSX.Installer | xargs -I {} sudo pkgutil --forget {}\n  echo "Uninstalled"\nelse\n  echo "Aborted"\n  exit 1\nfi\n\nexit 0\n}
+ 2824  uninstallgit
+ 2825  if [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi
+ 2826  git --version
+ 2827  for i in $( ls ); do\necho item: $i\ndone
+ 2828  a=10
+ 2829  for i in $a; do\necho $i\ndone
+ 2830  for i in $(a); do\necho $i\ndone
+ 2831  $a
+ 2832  echo $a
+ 2833  for i in 10; do\necho $i\ndone
+ 2834  for i in `seq 1 10`;\n        do\n                echo $i\n        done    
+ 2835  append_path () {\n  input="$1"\n  value="$2"\n  if ! echo $input | /usr/bin/egrep -q "(^|:)$value($|:)" ; then\n     if [ "$3" = "after" ] ; then\n        echo $input:$value\n     else\n        echo $value:$input\n     fi\n  else\n    echo $input\n  fi\n}
+ 2836  append_plist_var() {\n  name="$1"\n  append_value="$2"\n  default_value="$3"\n  current_value="`defaults read $HOME/.MacOSX/environment ${name}`"\n  [ ! "$current_value" ] && current_value="$default_value"\n  new_value="`append_path "$current_value" "$append_value" after`"\n  defaults write $HOME/.MacOSX/environment "$name" "$new_value"\n  if [ "$current_value" == "$new_value" ]; then\n    echo "No change to $name in ~/.MacOSX/environment.plist"\n  else\n    echo "Variable $name in ~/.MacOSX/environment.plist changed from '$current_value' to '$new_value'"\n    echo "You will need to log out of your Mac OS X user account and log back in for changes to take effect."\n  fi\n}
+ 2837  append_plist_var PATH "/usr/local/git/bin" "/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
+ 2838  pushd "$HOME"
+ 2839  which git
+ 2840  git --version
+ 2841  if [ ! -r "/usr/local/git" ]; then\n  echo "Git doesn't appear to be installed via this installer.  Aborting"\n  exit 1\nfi
+ 2842  which git
+ 2843  git --version
+ 2844  cd /usr/bin/
+ 2845  ls -la
+ 2846  goto-study
+ 2847  h
+ 2848  zshconfig
+ 2849  goto-study
+ 2850  touch test.txt
+ 2851  trash test.txt
+ 2852  tab
+ 2853  cd "/Applications/XAMPP/xamppfiles/htdocs/sandbox/study"; clear; 
+ 2854  pfd
+ 2855  cdf
+ 2856  goto-study
+ 2857  zshconfig
+ 2858  zshrc
+ 2859  h
+ 2860  j
+ 2861  p
+ 2862  l
+ 2863  la
+ 2864  lt
+ 2865  ls
+ 2866  ls -l
+ 2867  zshrc
+ 2868  l
+ 2869  ls
+ 2870  la
+ 2871  lt
+ 2872  l
+ 2873  ls
+ 2874  l
+ 2875  h
+ 2876  google yn 568 ex ii
+ 2877  youtube yn 568 ex ii
+ 2878  pwd
+ 2879  goto-study
+ 2880  open -a Finder ./
+ 2881  cd '/Users/wanderer/Desktop/'
+ 2882  cd '/Users/wanderer/app/'
+ 2883  cd..
+ 2884  open -a Finder ./
+ 2885  goto git-study
+ 2886  goto study
+ 2887  goto-study
+ 2888  kistory
+ 2889  hist
+ 2890  history
+ 2891  goto-edu
+ 2892  ls -la
+ 2893  if
+ 2894  open -a Finder ./
+ 2895  goto-study
+ 2896  ls -la
+ 2897  cd /usr/bin
+ 2898  l
+ 2899  quit
+ 2900  exit
+ 2901  goto-study
+ 2902  cd ~
+ 2903  cd /Users/wanderer/Documents/iterm 
+ 2904  sh $ git clone https://github.com/zenorocha/dracula-theme.git
+ 2905  git clone https://github.com/zenorocha/dracula-theme.git
+ 2906  l
+ 2907  vim ~/.zshrc
+ 2908  ln -s $DRACULA_THEME/zsh/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
+ 2909  ~/.zshrc
+ 2910  vim ~/.zshrc
+ 2911  restart
+ 2912  n
+ 2913  git clone https://github.com/zenorocha/dracula-theme.git
+ 2914  ln -s /Users/wanderer/Documents/iterm/dracula-theme/zsh/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
+ 2915  l
+ 2916  open .oh-my-zsh
+ 2917  ls
+ 2918  la
+ 2919  cd .oh-my-zsh
+ 2920  l
+ 2921  cd themes
+ 2922  l
+ 2923  vi dracula.zsh-theme
+ 2924  history
+ 2925  vim ~/.zshrc
+ 2926  exit
+ 2927  npm install jade --global
+ 2928  sudo npm install jade --global
+ 2929  goto-study
+ 2930  l
+ 2931  take study-jade
+ 2932  .
+ 2933  open -a Finder ./
+ 2934  subl .
+ 2935  cd jade
+ 2936  jade index.jade
+ 2937  jade -w index.jade
+ 2938  cd .
+ 2939  cd ..
+ 2940  jade jade .
+ 2941  jade jade /.
+ 2942  jade jade --out .
+ 2943  jade jade -ow .
+ 2944  jade jade -wo .
+ 2945  jade jade -woP .
+ 2946  jade jade -Pwo .
+ 2947  jade jade --pretty --watch --output .
+ 2948  jade jade -Pwo .
+ 2949  jade jade --pretty --watch --output .
+ 2950  jade jade -Pwo .
+ 2951  calrendar
+ 2952  cal
+ 2953  say yes
+ 2954  say i love you
+ 2955  a = 4
+ 2956  $a = 4
+ 2957  $a
+ 2958  a
+ 2959  a = 4;
+ 2960  1 + 2
+ 2961  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 2962  l
+ 2963  cd study
+ 2964  l
+ 2965  take study-sass-doc
+ 2966  touch test-sass-doc.sass
+ 2967  subl test-sass-doc.sass
+ 2968  npm install sassdoc -g
+ 2969  sudo npm install sassdoc -g
+ 2970  sassdoc -v
+ 2971  sassdoc --version
+ 2972  subl .
+ 2973  sass test-sass-doc.scss test-sass-doc.css
+ 2974  sassdoc .
+ 2975  sassdoc test-sass-doc.scss
+ 2976  npm -v
+ 2977  node -v
+ 2978  npm update -g
+ 2979  sudo npm install jsdoc@"<=3.3.0"
+ 2980  sudo npm install -g jsdoc@"<=3.3.0"
+ 2981  cd ..
+ 2982  take study-yo
+ 2983  yo
+ 2984  npm install --global generator-angular
+ 2985  sudo npm install --global generator-angular
+ 2986  yo
+ 2987  sudo npm install --global generator-webapp
+ 2988  sudo npm install npm@latest -g
+ 2989  npm -v
+ 2990  sudo npm install --global generator-webapp@latest
+ 2991  sassdoc test-sass-doc.scss
+ 2992  npm init
+ 2993  sassdoc test-sass-doc.scss
+ 2994  l
+ 2995  cd sassdoc
+ 2996  l
+ 2997  sassdoc test-sass-doc.scss
+ 2998  npm help
+ 2999  npm -h
+ 3000  npm ls
+ 3001  npm list
+ 3002  sudo npm install --global yo@latest
+ 3003  yo -v
+ 3004  grunt serve
+ 3005  l
+ 3006  grunt serve
+ 3007  subl .
+ 3008  grunt server
+ 3009  grunt watch
+ 3010  npm install grunt-cli -g
+ 3011  sudo npm install grunt-cli -g
+ 3012  grunt server
+ 3013  grunt watch
+ 3014  sudo npm install grunt -g
+ 3015  grunt server
+ 3016  grunt serve
+ 3017  grunt watch
+ 3018  bower search jquery
+ 3019  npm update -g
+ 3020  npm -v
+ 3021  npm init
+ 3022  grunt serve
+ 3023  grunt -h
+ 3024  grunt -v
+ 3025  sudo npm install -g yo bower grunt-cli gulp
+ 3026  node -v
+ 3027  sudo npm cache clean -f
+ 3028  sudo npm install -g n
+ 3029  sudo n stable
+ 3030  node -v
+ 3031  npm -v
+ 3032  grunt -v
+ 3033  rm -rf .
+ 3034  cd ..
+ 3035  rm -rf study-yo
+ 3036  yo
+ 3037  cd study-yo
+ 3038  ls
+ 3039  take study-yo
+ 3040  yo
+ 3041  sudo  npm install -g generator-webapp
+ 3042  sudo  npm install -g generator-webapp@lastest
+ 3043  sudo npm install -g generator-webapp
+ 3044  sudo npm update -g
+ 3045  yo
+ 3046  grunt server
+ 3047  grunt serve
+ 3048  npm install grunt
+ 3049  cd ~
+ 3050  curl http://npmjs.org/install.sh | sh
+ 3051  sudo curl https://npmjs.org/install.sh | sudo sh
+ 3052  sudo chown -R $USER /usr/local/lib/node_modules
+ 3053  npm uninstall -g grunt
+ 3054  npm uninstall -g grunt-cli
+ 3055  npm install -g grunt-cli grunt
+ 3056  npm install -g grunt-cli
+ 3057  cd /usr/local/lib
+ 3058  l
+ 3059  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest
+ 3060  grunt watch
+ 3061  sudo npm install grunt -g
+ 3062  rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+ 3063  cd /usr/local/lib/node/
+ 3064  cd /usr/local/lib/
+ 3065  ls
+ 3066  rm -rf /usr/local/{lib/node_modules{,/.npm,_modules},bin,share/man}/npm*
+ 3067  l
+ 3068  cd node_modules
+ 3069  l
+ 3070  npm install -g grunt-cli
+ 3071  npm i -g npm && npm i -g yo
+ 3072  which npm
+ 3073  ls -laF /usr/local/{lib/node{,/.npm},bin,share/man} | grep npm
+ 3074  rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+ 3075  find /usr/local/{lib/node,bin} -exec grep -l npm \{\} \; ;
+ 3076  rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+ 3077  sudo make uninstall
+ 3078  npm -v
+ 3079  sudo npm uninstall npm -g
+ 3080  npm -v
+ 3081  node -v
+ 3082  node -h
+ 3083  npm -v
+ 3084  npm ls
+ 3085  npm update -g
+ 3086  sudo npm install -g lodash@~3.2,
+ 3087  sudo npm install -g lodash@~3.2
+ 3088  sudo npm install -g sprintf-js@~1.0.2
+ 3089  curl https://raw.githubusercontent.com/creationix/nvm/v0.23.3/install.sh | bash
+ 3090  nvm install 0.12
+ 3091  source ~/.nvm/nvm.sh
+ 3092  nvm install 0.12
+ 3093  nvm run 0.12 --version
+ 3094  nvm install stable
+ 3095  nvm use stable
+ 3096  npm -v
+ 3097  grunt -v
+ 3098  sudo npm install -g grunt@lastest
+ 3099  sudo npm install -g grunt
+ 3100  sudo npm install -g grunt-cli
+ 3101  sudo npm install -g bower
+ 3102  l
+ 3103  sudo npm install -g coffee-script
+ 3104  sudo npm install -g jade
+ 3105  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest
+ 3106  grunt -v
+ 3107  grunt watch
+ 3108  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-yo
+ 3109  grunt serve
+ 3110  grunt server
+ 3111  grunt -v
+ 3112  cd ..
+ 3113  rm -rf study-yo
+ 3114  take study-yo
+ 3115  sudo npm install -g yo
+ 3116  yo webapp
+ 3117  grunt serve
+ 3118  sudo npm install -g Darwin
+ 3119  nvm install 0.10
+ 3120  nvm use 0.10
+ 3121  npm -v
+ 3122  grunt serve
+ 3123  sudo npm install -g yo bower grunt-cli gulp
+ 3124  npm cache clean
+ 3125  sudo rm /usr/local/bin/npm
+ 3126  sudo rm /usr/local/share/man/man1/node.1
+ 3127  sudo rm /usr/local/lib/dtrace/node.d
+ 3128  sudo rm -rf ~/.npm
+ 3129  sudo rm -rf ~/.node-gyp
+ 3130  sudo rm /opt/local/bin/node
+ 3131  sudo rm /opt/local/include/node
+ 3132  sudo rm -rf /opt/local/lib/node_modules
+ 3133  which node
+ 3134  which npm
+ 3135  nvm install stable
+ 3136  which pode
+ 3137  which node
+ 3138  nvm use stable
+ 3139  which node
+ 3140  which npm
+ 3141  npm -v
+ 3142  sudo npm install -g yo bower grunt-cli gulp
+ 3143  npm cache clear
+ 3144  npm list -g --depth=0
+ 3145  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest 
+ 3146  grunt watch
+ 3147  grunt -v
+ 3148  npm list -g --depth=0
+ 3149  which npm
+ 3150  which node
+ 3151  node -v
+ 3152  rm -rf /usr/local/bin/node
+ 3153  which node
+ 3154  nvm use stable
+ 3155  nvm
+ 3156  which node
+ 3157  which npm
+ 3158  which nvm
+ 3159  curl https://raw.githubusercontent.com/creationix/nvm/v0.23.3/install.sh | bash
+ 3160  nvm install stable
+ 3161  source ~/.nvm/nvm.sh
+ 3162  nvm install stable
+ 3163  nvm use stable
+ 3164  which node
+ 3165  which npm
+ 3166  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest
+ 3167  grunt watch
+ 3168  npm list -g --depth=0
+ 3169  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study 
+ 3170  rm -rf study-yo
+ 3171  take study-yo
+ 3172  yo webapp
+ 3173  grunt serve
+ 3174  npm install
+ 3175  npm install -g
+ 3176  npm cache clean
+ 3177  grunt serve
+ 3178  grunt
+ 3179  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest 
+ 3180  grunt watch
+ 3181  yo
+ 3182  npm install -g generator-webapp
+ 3183  sudo npm install -g generator-webapp
+ 3184  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-yo 
+ 3185  grunt serve
+ 3186  grunt init
+ 3187  grunt
+ 3188  bower
+ 3189  sudo grunt serve
+ 3190  npm install grunt
+ 3191  sudo npm install grunt
+ 3192  grunt serve
+ 3193  grunt server
+ 3194  grunt
+ 3195  grunt serve --force
+ 3196  sudo npm install -g grunt
+ 3197  npm install
+ 3198  sudo npm install
+ 3199  grunt serve
+ 3200  cd /usr/local
+ 3201  l
+ 3202  cd ..
+ 3203  l
+ 3204  sudo chown -R $USER /usr/local
+ 3205  l
+ 3206  goto-study
+ 3207  l
+ 3208  cd study-yo
+ 3209  grunt serve
+ 3210  which nvm
+ 3211  vi ~/.zshrc
+ 3212  which node
+ 3213  which npm
+ 3214  view ~/.zshrc
+ 3215  nvm
+ 3216  which node
+ 3217  view ~/.zshrc
+ 3218  vi ~/.zshrc
+ 3219  node
+ 3220  npm
+ 3221  goto-study
+ 3222  cd study-yo
+ 3223  npm -v
+ 3224  nvm use stable
+ 3225  npm -v
+ 3226  l
+ 3227  vi .nvmrc
+ 3228  goto study
+ 3229  goto-study
+ 3230  cd study-yo
+ 3231  npm -v
+ 3232  node -v
+ 3233  l
+ 3234  vi .nvmrc
+ 3235  history
+ 3236  goto-study-yo
+ 3237  history
+ 3238  vi ~/.zshrc
+ 3239  goto-study-yo
+ 3240  vi ~/.zshrc
+ 3241  npm -v
+ 3242  nvm run 0.12 --version
+ 3243  grunt watch
+ 3244  npm -v
+ 3245  nvm use stable
+ 3246  grunt watch
+ 3247  vi .nvmrc
+ 3248  npm -v
+ 3249  nvm alias default 0.12
+ 3250  node
+ 3251  vi .nvmrc
+ 3252  nvm use
+ 3253  nvm exec
+ 3254  nvm install 0.12
+ 3255  node
+ 3256  nvm ls
+ 3257  nvm install
+ 3258  which node
+ 3259  cd ~
+ 3260  l
+ 3261  cd .npm
+ 3262  l
+ 3263  npm
+ 3264  sudo npm uninstall npm -g
+ 3265  rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+ 3266  ls -laF /usr/local/{lib/node{,/.npm},bin,share/man} | grep npm
+ 3267  find /usr/local/{lib/node,bin} -exec grep -l npm \{\} \; ;
+ 3268  cd ..
+ 3269  l
+ 3270  rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+ 3271  ls -laF /usr/local/{lib/node{,/.npm},bin,share/man} | grep npm
+ 3272  find /usr/local/{lib/node,bin} -exec grep -l npm \{\} \; ;
+ 3273  sudo make uninstall
+ 3274  brew update
+ 3275  brew doctor
+ 3276  brew prune
+ 3277  brew install node
+ 3278  which node
+ 3279  which npm
+ 3280  which node
+ 3281  node -v
+ 3282  brew upgrade node
+ 3283  brew list
+ 3284  node
+ 3285  cd ..
+ 3286  nvm
+ 3287  nvm use system
+ 3288  brew install node
+ 3289  which node
+ 3290  nvm ls
+ 3291  nvm ls-remote
+ 3292  cd study-yo
+ 3293  l
+ 3294  view .nvmrc
+ 3295  cd ..
+ 3296  vi .nvmrc
+ 3297  nvm use
+ 3298  node
+ 3299  rm -rf study-yo
+ 3300  l
+ 3301  cd study-yo
+ 3302  l
+ 3303  cd ..
+ 3304  rm -rf study-yo
+ 3305  l
+ 3306  take study-yo
+ 3307  npm ls
+ 3308  npm -g ls
+ 3309  npm list -g --depth=0
+ 3310  npm update -g
+ 3311  l
+ 3312  npm -v
+ 3313  npm list -g --depth=0
+ 3314  yo webapp
+ 3315  goto-study
+ 3316  take study-tool
+ 3317  l
+ 3318  bower install jquery
+ 3319  nvm use
+ 3320  node -v
+ 3321  npm -v
+ 3322  bower -v
+ 3323  bower search jquery
+ 3324  bower install jquery
+ 3325  l
+ 3326  cd app
+ 3327  l
+ 3328  cd ..
+ 3329  grunt init
+ 3330  node install
+ 3331  npm install
+ 3332  grunt
+ 3333  npm uninstall -g npm
+ 3334  sudo rm /usr/local/bin/npm
+ 3335  sudo rm /usr/local/share/man/man1/node.1
+ 3336  sudo rm /usr/local/lib/dtrace/node.d
+ 3337  sudo rm -rf ~/.npm
+ 3338  sudo rm -rf ~/.node-gyp
+ 3339  sudo rm /opt/local/bin/node
+ 3340  sudo rm /opt/local/include/node
+ 3341  sudo rm -rf /opt/local/lib/node_modules
+ 3342  cd /usr/local/lib
+ 3343  l
+ 3344  rm -rf node_modules
+ 3345  cd /usr/local/lib
+ 3346  l
+ 3347  sudo rm -rf node_modules
+ 3348  cd /usr/local/include
+ 3349  l
+ 3350  brew uninstall node
+ 3351  l
+ 3352  cd ..
+ 3353  l
+ 3354  sudo rm -rf n
+ 3355  cd bin
+ 3356  l
+ 3357  sudo rm -rf n
+ 3358  ls /usr/local/bin
+ 3359  ls -la /usr/local/bin
+ 3360  nvm
+ 3361  node
+ 3362  which node
+ 3363  which npm
+ 3364  goto-study
+ 3365  l
+ 3366  rm -rf study-yo
+ 3367  l
+ 3368  nvm use
+ 3369  npm ls
+ 3370  npm -v
+ 3371  cd ~
+ 3372  l
+ 3373  vi .zshrc
+ 3374  rm -rf ~/.nvm
+ 3375  rm -rf ~/.npm
+ 3376  rm -rf ~/.bower
+ 3377  l
+ 3378  sudo rm -rf ~/.nvm
+ 3379  rm -rf $NVM_DIR ~/.npm ~/.bower
+ 3380  sudo rm -rf $NVM_DIR ~/.npm ~/.bower
+ 3381  l
+ 3382  nvm
+ 3383  l
+ 3384  cd bin
+ 3385  l
+ 3386  cd ..
+ 3387  sudo rm -rf $NVM_DIR ~/.npm ~/.bower
+ 3388  sudo rm -rf $NVM_DIR ~/.nvm
+ 3389  nvm deactivate
+ 3390  nvm
+ 3391  nvm ls
+ 3392  which node
+ 3393  nvm install stable
+ 3394  which node
+ 3395  which npm
+ 3396  goto-study
+ 3397  take study-yo
+ 3398  which npm
+ 3399  nvm
+ 3400  vi ~/.zshrc
+ 3401  nvm
+ 3402  nvmnvm
+ 3403  nvm
+ 3404  source ~/.nvm/nvm.sh
+ 3405  l
+ 3406  rm -rf ~/.nvm
+ 3407  sudo rm -rf ~/.nvm
+ 3408  l
+ 3409  sudo rm -rf ~/.npm
+ 3410  nvm
+ 3411  which nvm
+ 3412  curl https://raw.githubusercontent.com/creationix/nvm/v0.23.3/install.sh | bash
+ 3413  nvm
+ 3414  source ~/.nvm/nvm.sh
+ 3415  nvm
+ 3416  nvm install stable
+ 3417  vi ~/.zshrc
+ 3418  which node
+ 3419  which npm
+ 3420  goto-study
+ 3421  l
+ 3422  cd study-yo
+ 3423  npm install -g yo bower grunt-cli gulp
+ 3424  npm install -g coffee-script
+ 3425  npm install jade --global
+ 3426  npm install -g generator-webapp
+ 3427  cd ~/.nvm
+ 3428  l
+ 3429  cd versions
+ 3430  l
+ 3431  cd node
+ 3432  l
+ 3433  cd v0.12.0
+ 3434  l
+ 3435  cd lib
+ 3436  l
+ 3437  cd node_modules
+ 3438  l
+ 3439  cd ~
+ 3440  l
+ 3441  cd .npm
+ 3442  ;
+ 3443  l
+ 3444  npm install -g generator-angular
+ 3445  ls
+ 3446  l
+ 3447  yo webapp
+ 3448  grunt
+ 3449  grunt serve
+ 3450  cd ..
+ 3451  cd grunttest
+ 3452  grunt
+ 3453  cd ..
+ 3454  cd study
+ 3455  l
+ 3456  mv study-yo study-yo/webapp-bootstrap
+ 3457  l
+ 3458  cd study-yo
+ 3459  l
+ 3460  if
+ 3461  open -a Finder ./
+ 3462  cd ..
+ 3463  l
+ 3464  cd study-yo
+ 3465  l
+ 3466  cd webapp-bootstrap
+ 3467  ls
+ 3468  grunt
+ 3469  grunt serve
+ 3470  subl .
+ 3471  goto-stydy
+ 3472  goto-study
+ 3473  ls
+ 3474  cd study-jade
+ 3475  jade -Pwo jade .
+ 3476  jade
+ 3477  cd ..
+ 3478  jade
+ 3479  cd ..
+ 3480  which npm
+ 3481  nvm use
+ 3482  npm install jade --global
+ 3483  view ~/.zshrc
+ 3484  stt
+ 3485  jade -Pwo jade .
+ 3486  jade -Pwo jade ./
+ 3487  jade jade -Pwo .
+ 3488  cd ..
+ 3489  take webapp-bootstrap-sass
+ 3490  yo webapp
+ 3491  npm install -g coffee-script
+ 3492  cs ..
+ 3493  cd ..
+ 3494  take generators-angular
+ 3495  yo angular
+ 3496  yo
+ 3497  nvm use
+ 3498  yo angular
+ 3499  bower install
+ 3500  npm install
+ 3501  grunt serve
+ 3502  stt
+ 3503  grunt
+ 3504  grunt build
+ 3505  bower install
+ 3506  grunt build
+ 3507  grunt sass
+ 3508  grunt serve
+ 3509  stt
+ 3510  grunt build
+ 3511  grunt serve
+ 3512  say hey
+ 3513  exit
+ 3514  goto-study
+ 3515  l
+ 3516  cd study-tool
+ 3517  l
+ 3518  cd app
+ 3519  l
+ 3520  cd ..
+ 3521  rm -rf app
+ 3522  l
+ 3523  cd '/Users/wanderer/Downloads/Undefined/bootstrap-sass-3.3.2/'
+ 3524  bower install
+ 3525  nvm use
+ 3526  bower install
+ 3527  node
+ 3528  npm -v
+ 3529  nvm use stable
+ 3530  bower install
+ 3531  l
+ 3532  view package.json
+ 3533  npm install
+ 3534  nvm list
+ 3535  goto-stydy
+ 3536  l
+ 3537  goto-study
+ 3538  l
+ 3539  cd study-tool
+ 3540  l
+ 3541  take study-bootstrap
+ 3542  bower search
+ 3543  bower search bootstrap
+ 3544  bi bootstrap-sass
+ 3545  open -a Finder ./
+ 3546  stt
+ 3547  l
+ 3548  vi .bowerrc
+ 3549  rm .bowerrc
+ 3550  l
+ 3551  bower search html5boilerplate
+ 3552  bower search html5
+ 3553  bi html5-boilerplate
+ 3554  l
+ 3555  cd app
+ 3556  l
+ 3557  touch scss/main.scss
+ 3558  touch scss/_bootstrap.scss
+ 3559  compass -v
+ 3560  compass update
+ 3561  compass -h
+ 3562  compass init
+ 3563  compass watch
+ 3564  cd ..
+ 3565  l
+ 3566  cd ..
+ 3567  l
+ 3568  cd study-yo
+ 3569  l
+ 3570  cd webapp-bootstrap-sass
+ 3571  bower install & npm install
+ 3572  grunt serve
+ 3573  cd ..
+ 3574  rm -rf webapp-bootstrap-sass
+ 3575  take webapp-bootstrap-sass
+ 3576  yo
+ 3577  goto-study
+ 3578  l
+ 3579  cd study-tool
+ 3580  l
+ 3581  cd study-bootstrap
+ 3582  l
+ 3583  touch .bowerrc
+ 3584  vi .bowerrc
+ 3585  bower init
+ 3586  nvm use stable
+ 3587  bower init
+ 3588  l
+ 3589  app
+ 3590  cd ..
+ 3591  bower search requirejs
+ 3592  grunt build
+ 3593  bi requirejs
+ 3594  l
+ 3595  bower_components
+ 3596  l
+ 3597  bower -h install
+ 3598  bi -S bootstrap-sass
+ 3599  grunt serve
+ 3600  l
+ 3601  bower
+ 3602  cd..
+ 3603  goto-study
+ 3604  study-tool/study-bootstrap
+ 3605  l
+ 3606  bower_components
+ 3607  l
+ 3608  bower_components
+ 3609  l
+ 3610  cd ..
+ 3611  l
+ 3612  app
+ 3613  l
+ 3614  cd ..
+ 3615  view bower.json
+ 3616  bower -h install
+ 3617  bower install --save bootstrap-sass
+ 3618  bower install -S modernizr
+ 3619  view bower.json
+ 3620  bower init
+ 3621  bower install
+ 3622  git init
+ 3623  git add .
+ 3624  git status
+ 3625  git commit -m "git initialization"
+ 3626  gs
+ 3627  gst
+ 3628  l
+ 3629  app
+ 3630  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-yo/webapp-bootstrap-sass-modernizr/'
+ 3631  stt
+ 3632  grunt serve
+ 3633  vi ~/.zshrc
+ 3634  goto-study
+ 3635  study-yo
+ 3636  l
+ 3637  cd webapp-bootstrap-sass-modernizr
+ 3638  grunt serve
+ 3639  node -v
+ 3640  nvm
+ 3641  nvm use stable
+ 3642  grunt serve
+ 3643  grunt build
+ 3644  grunt watch
+ 3645  grunt sass:app
+ 3646  grunt watch
+ 3647  grunt watch:sass
+ 3648  grunt sass:app
+ 3649  grunt watch:sass
+ 3650  grunt watch
+ 3651  grunt serve
+ 3652  exit
+ 3653  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 3654  compass -v
+ 3655  sudo gem update --system
+ 3656  gem update sass compass
+ 3657  sass -v
+ 3658  compass -v
+ 3659  which compass
+ 3660  which sass
+ 3661  which nvm
+ 3662  which gem
+ 3663  which php
+ 3664  php -b
+ 3665  php -v
+ 3666  brew list
+ 3667  study
+ 3668  mkdir study-sass study-compass study-coffeescript
+ 3669  l
+ 3670  mkdir study-grunt
+ 3671  mkdir study-angular
+ 3672  mkdir study-requirejs
+ 3673  mkdir study-d3
+ 3674  mkdir study-modernizr
+ 3675  yo --version
+ 3676  vi ~/.zshrc
+ 3677  n
+ 3678  vi .zshrc
+ 3679  vi ~/.zshrc
+ 3680  n
+ 3681  yo -v
+ 3682  yo --version
+ 3683  yo search npm-generator
+ 3684  npm search yeoman-generator
+ 3685  clear
+ 3686  gotu-study
+ 3687  goto-study
+ 3688  study-yo
+ 3689  l
+ 3690  md generator-generator
+ 3691  generator-generator
+ 3692  npm install -g generator-generator
+ 3693  yo generator
+ 3694  stt
+ 3695  npm link
+ 3696  which npm
+ 3697  cd ~
+ 3698  Desktop
+ 3699  take app
+ 3700  yo wanderer
+ 3701  n
+ 3702  yo wanderer
+ 3703  npm link
+ 3704  generator-wanderer
+ 3705  npm link
+ 3706  npm list
+ 3707  yo wanderer
+ 3708  stt
+ 3709  tree
+ 3710  cd ..
+ 3711  rm -rf app
+ 3712  app
+ 3713  take app
+ 3714  yo wanderer
+ 3715  stt
+ 3716  n
+ 3717  goto-study
+ 3718  study-yo
+ 3719  l
+ 3720  take todo
+ 3721  yo angular
+ 3722  cd ..
+ 3723  rm -rf todo
+ 3724  take todo
+ 3725  l
+ 3726  n
+ 3727  yo angular
+ 3728  l
+ 3729  grunt serve
+ 3730  npm install & bower install
+ 3731  stt
+ 3732  grunt serve
+ 3733  bower search angular-ui-sortable
+ 3734  bower install --save angular-ui-sortable
+ 3735  bower install --save jquery-ui
+ 3736  bower list
+ 3737  grunt serve
+ 3738  grunt test
+ 3739  grunt
+ 3740  bower install & npm install
+ 3741  grunt build
+ 3742  npm install hooker -S
+ 3743  grunt serve:dist
+ 3744  bower install --save angular-local-storage
+ 3745  grunt serve
+ 3746  cd ~
+ 3747  brew
+ 3748  brew install rail
+ 3749  rails --v
+ 3750  rails --version
+ 3751  sudo gem install rails
+ 3752  ruby --v
+ 3753  ruby -v
+ 3754  mysql -v
+ 3755  which mysql
+ 3756  gem -v
+ 3757  irb
+ 3758  goto-study
+ 3759  take study-ruby
+ 3760  vi add_and_power.rb
+ 3761  ruby add_and_power.rb
+ 3762  vi add_and_power.rb
+ 3763  ruby add_and_power.rb
+ 3764  stt
+ 3765  ruby -b
+ 3766  ruby -v
+ 3767  \curl -sSL https://get.rvm.io | bash -s stable --rails --ruby
+ 3768  which ruby
+ 3769  which node
+ 3770  source /Users/wanderer/.rvm/scripts/rvm
+ 3771  which ruby
+ 3772  ruby -v
+ 3773  rvm
+ 3774  which rails
+ 3775  stt ~/.zshrc
+ 3776  vi ~/.zshrc
+ 3777  source /Users/wanderer/.rvm/scripts/rvm
+ 3778  rvm -h
+ 3779  rvm reload
+ 3780  rvm -h
+ 3781  which ruby
+ 3782  vi ~/.zshrc
+ 3783  which rails
+ 3784  rais --v
+ 3785  rais --version
+ 3786  rails -v
+ 3787  goto-study
+ 3788  rails new study-rails
+ 3789  top
+ 3790  ps
+ 3791  ps -A
+ 3792  cd study-rails
+ 3793  rails server
+ 3794  open .
+ 3795  which gem
+ 3796  rvm list
+ 3797  rvm install sass
+ 3798  sudo subl /private/etc/host
+ 3799  open /Users/wanderer/Sites/index.html
+ 3800  open /Users/wanderer/Sites/sample-page.html
+ 3801  sudo apachectl start
+ 3802  python
+ 3803  python -m SimpleHTTPServer 8000
+ 3804  cd ..
+ 3805  md study-SimpleHTTPServer
+ 3806  cd study-S
+ 3807  cd study-SimpleHTTPServer
+ 3808  vi index.html
+ 3809  python -m SimpleHTTPServer 8000
+ 3810  l
+ 3811  open http://localhost:8000 && python -m SimpleHTTPServer 8000
+ 3812  sudo subl ~/.zshrc
+ 3813  server
+ 3814  goto-study
+ 3815  study-SimpleHTTPServer
+ 3816  server
+ 3817  stt
+ 3818  stt .
+ 3819  server
+ 3820  cd ..
+ 3821  md study-autosave
+ 3822  study-autosave
+ 3823  md codekit
+ 3824  code
+ 3825  codekit
+ 3826  stt .
+ 3827  stt
+ 3828  stt .
+ 3829  l
+ 3830  md jade sass coffee js
+ 3831  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 3832  stydy-ruby
+ 3833  study-ruby
+ 3834  l
+ 3835  goto-study
+ 3836  study-ruby
+ 3837  l
+ 3838  stt
+ 3839  which ruby
+ 3840  rvm
+ 3841  rvm reload
+ 3842  which ruby
+ 3843  ruby introduction.rb
+ 3844  clear
+ 3845  ruby introduction.rb
+ 3846  irb
+ 3847  ruby introduction.rb
+ 3848  irb
+ 3849  ruby introduction.rb
+ 3850  clear
+ 3851  ruby introduction.rb
+ 3852  irb
+ 3853  ruby introduction.rb
+ 3854  l
+ 3855  cd Sites | l
+ 3856  cd Sites & l
+ 3857  cd Sites
+ 3858  l
+ 3859  rails new simple_cms
+ 3860  rails new simple_cms -d mysql
+ 3861  if
+ 3862  open -a Finder ./
+ 3863  cd simple_cms
+ 3864  l
+ 3865  view Gemfile
+ 3866  subl Gemfile
+ 3867  cd log
+ 3868  l
+ 3869  cd ..
+ 3870  bundle install
+ 3871  gem install mysql2 -v '0.3.18'
+ 3872  subl Gemfile
+ 3873  history
+ 3874  bundle install
+ 3875  sudo gem install mysql2 -v '0.3.18'
+ 3876  rvm install
+ 3877  rvm install mysql
+ 3878  rvm reload
+ 3879  sudo gem install mysql2 -v '0.3.18'
+ 3880  which mysql
+ 3881  mysql --version
+ 3882  brew install mysql
+ 3883  gem install mysql2
+ 3884  mysql --version
+ 3885  mysql -uroot
+ 3886  mysql -uroot -p
+ 3887  mysql -uroot 
+ 3888  ln -sfv /usr/local/opt/mysql/*.plist ~/Library/LaunchAgents
+ 3889  cal MySQL server through socket '/tmp/mysql.sock' (2)
+ 3890  launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mysql.plist
+ 3891  mysql -uroot
+ 3892  mysql -uroot -p
+ 3893  mysql -uroot 
+ 3894  mysql -uroot -p
+ 3895  mysqladmin -uroot password
+ 3896  mysql -uroot -p
+ 3897  bundle install
+ 3898  rails server
+ 3899  subl ~/.zshrc
+ 3900  history
+ 3901  rais generate
+ 3902  rails generate
+ 3903  rails generate controller
+ 3904  rails generate controller demo index
+ 3905  rails server
+ 3906  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 3907  cd /Users/wanderer/Sites/simple_cms
+ 3908  which ruby
+ 3909  which mode
+ 3910  rvm reload
+ 3911  rvm use ruby-2.2.0
+ 3912  rvm reload
+ 3913  zshconfig
+ 3914  rvm start
+ 3915  rvm get stable --auto-dotfiles
+ 3916  rvm start
+ 3917  goto-study
+ 3918  rvm start
+ 3919  rvm reload
+ 3920  rvm use stable
+ 3921  which ruby
+ 3922  which node
+ 3923  nvm start
+ 3924  nvm use stable
+ 3925  zshconfig
+ 3926  rvmstart
+ 3927  npmstart
+ 3928  nvmstart
+ 3929  cd /Users/wanderer/Sites/simple_cms 
+ 3930  cd /
+ 3931  l
+ 3932  which node
+ 3933  l
+ 3934  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-rails 
+ 3935  l
+ 3936  cd /Users/wanderer/Sites/simple_cms 
+ 3937  rails server
+ 3938  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 3939  zshconfig
+ 3940  clear
+ 3941  goto-rail
+ 3942  goto-rails
+ 3943  rvmstart
+ 3944  irb
+ 3945  rvmstart
+ 3946  irb
+ 3947  clear
+ 3948  goto-study
+ 3949  ;
+ 3950  l
+ 3951  cd study-grunt
+ 3952  l
+ 3953  brew install tree
+ 3954  cd ..
+ 3955  tree
+ 3956  tree -d
+ 3957  cd study-ruby
+ 3958  tree
+ 3959  l
+ 3960  ls -lah
+ 3961  cd ../study-grunt
+ 3962  nvmstart
+ 3963  npm init
+ 3964  l
+ 3965  cat package.json
+ 3966  npm install grunt -S
+ 3967  cat package.json
+ 3968  clear
+ 3969  vi package.json
+ 3970  npm install
+ 3971  cat package.json
+ 3972  which grunt
+ 3973  grunt -v
+ 3974  npm install grunt-contrib-jshint --save-dev
+ 3975  npm install -g grunt-init
+ 3976  git clone https://github.com/gruntjs/grunt-init-jquery.git ~/.grunt-init/jquery
+ 3977  grunt-init jquery
+ 3978  --force
+ 3979  grunt-init jquery --force
+ 3980  l
+ 3981  take grunt-init-jquery
+ 3982  grunt-init jquery
+ 3983  l
+ 3984  cat package.json
+ 3985  npm install
+ 3986  nvm use stable
+ 3987  npm install
+ 3988  l
+ 3989  history
+ 3990  npm install
+ 3991  cat package.json
+ 3992  grunt init
+ 3993  grunt
+ 3994  which npm
+ 3995  npm install
+ 3996  cd ..
+ 3997  rm -rfv grunt-init-jquery
+ 3998  l
+ 3999  cd ..
+ 4000  rm -rfv study-grunt
+ 4001  take study-grunt
+ 4002  take install-plugin
+ 4003  npm init
+ 4004  npm install grunt --save-dev
+ 4005  cat package.json
+ 4006  npm install grunt-contrib-uglify --save-dev
+ 4007  touch GruntFile.js | subl
+ 4008  l
+ 4009  subl GruntFile.js
+ 4010  md src
+ 4011  md dist
+ 4012  subl .
+ 4013  grunt uglify
+ 4014  curl -sS https://getcomposer.org/installer | php
+ 4015  composer
+ 4016  "/usr/local/Cellar/composer/1.0.0-alpha8/libexec/composer.phar self-update"
+ 4017  which composer
+ 4018  l
+ 4019  which composer | l
+ 4020  cd .composer
+ 4021  l
+ 4022  /usr/local/Cellar/composer/1.0.0-alpha8/libexec/composer.phar self-update
+ 4023  composer
+ 4024  cd ..
+ 4025  goto-study
+ 4026  take study-composer
+ 4027  composer require fzaninotto/faker
+ 4028  sudo composer require fzaninotto/faker
+ 4029  l
+ 4030  composer install
+ 4031  sudo composer install
+ 4032  l
+ 4033  stt
+ 4034  php index.php
+ 4035  which php
+ 4036  < ~/.bash_profile
+ 4037  open -a Finder ./
+ 4038  cd /Users/wanderer/Desktop/study-composer 
+ 4039  php index.php
+ 4040  php
+ 4041  php index.php
+ 4042  cd ..
+ 4043  rm -rf study-composer
+ 4044  rm -rf vendor
+ 4045  l
+ 4046  sudo rm -rf vendor
+ 4047  l
+ 4048  composer install
+ 4049  goto-study
+ 4050  md study-laravel
+ 4051  l
+ 4052  php index.php
+ 4053  study-laravel
+ 4054  composer global require "laravel/installer=~1.1"
+ 4055  sudo composer global require "laravel/installer=~1.1"
+ 4056  l
+ 4057  laravel
+ 4058  ~/.composer/vendor/bin/laravel
+ 4059  ~/.composer/vendor/bin/laravel -V
+ 4060  zshconfig
+ 4061  export PATH="~/.composer/vendor/bin/"
+ 4062  laravel
+ 4063  export PATH="~/.composer/vendor/bin/"
+ 4064  laravel
+ 4065  zshconfig
+ 4066  vi ~/.zshrc
+ 4067  exit
+ 4068  cd ../study-laravel
+ 4069  l
+ 4070  laravel
+ 4071  export PATH="~/.composer/vendor/bin/"
+ 4072  d
+ 4073  goto-study
+ 4074  study-laravel
+ 4075  view ~/.bash_profile
+ 4076  view ~/.bashrc
+ 4077  cd ~/.composer/vendor/bin
+ 4078  l
+ 4079  laravel
+ 4080  vi ~/.zshrc
+ 4081  zshconfig
+ 4082  vi ~/.bash_profile
+ 4083  laravel
+ 4084  sudo laravel
+ 4085  laravel
+ 4086  vi ~/.bash_profile
+ 4087  vi ~/.bashrc
+ 4088  laravel
+ 4089  vi ~/.bashrc
+ 4090  zshconfig
+ 4091  laravel
+ 4092  zshconfig
+ 4093  vi ~/.bashrc
+ 4094  source .bashrc
+ 4095  laravel
+ 4096  $PATH
+ 4097  source .bashrc
+ 4098  laravel
+ 4099  echo $PATH
+ 4100  laravel
+ 4101  sudo
+ 4102  sudo laravel
+ 4103  laravel
+ 4104  sudo chmod 755 laravel
+ 4105  cd ~/.composer/vendor/bin/
+ 4106  l
+ 4107  sudo chmod 755 laravel
+ 4108  l
+ 4109  sudo chmod 777 laravel
+ 4110  l
+ 4111  sudo chmod777 laravel
+ 4112  laravel
+ 4113  sudo laravel
+ 4114  ~/.composer/vendor/bin/laravel
+ 4115  ~/.composer/vendor/bin/laravel list
+ 4116  export PATH="~/.composer/vendor/bin:$PATH" 
+ 4117  aravel
+ 4118  laravel
+ 4119  vi .bashrc
+ 4120  l
+ 4121  vi ~/.bashrc
+ 4122  source ~/.bashrc
+ 4123  laravel
+ 4124  zshconfig
+ 4125  laravel
+ 4126  echo $PATH
+ 4127  source ~/.bashrc
+ 4128  echo $PATH
+ 4129  source ~/.zshrc
+ 4130  echo $PATH
+ 4131  rvm
+ 4132  nvm
+ 4133  laravel
+ 4134  zshconfig
+ 4135  laravel
+ 4136  goto-study
+ 4137  study-laravel
+ 4138  l
+ 4139  laravel new my-first-app
+ 4140  brew list
+ 4141  l
+ 4142  cd my-first-app
+ 4143  l
+ 4144  php artisan serve
+ 4145  cd ~
+ 4146  l
+ 4147  rm -rf .composer
+ 4148  sudo rm -rf .composer
+ 4149  l
+ 4150  composer
+ 4151  which composer
+ 4152  cd /usr/local/bin/
+ 4153  l
+ 4154  rm -rf composer
+ 4155  l
+ 4156  cd ..
+ 4157  cd..
+ 4158  cd ..
+ 4159  cd ~
+ 4160  composer
+ 4161  laravel
+ 4162  brew install composer
+ 4163  brew update composer
+ 4164  brew upgrade composer
+ 4165  brew uninstall composer
+ 4166  brew install composer
+ 4167  which composer
+ 4168  composer global require "laravel/installer=~1.1"
+ 4169  which node
+ 4170  npmstart
+ 4171  nvmstart
+ 4172  which node
+ 4173  rvmstary
+ 4174  rvmstart
+ 4175  which ruby
+ 4176  rvm use ruby-2.2.0
+ 4177  rvm get stable --auto-dotfiles
+ 4178  vi ~/.bash_profile
+ 4179  laravel
+ 4180  goto-study
+ 4181  study-laravel
+ 4182  l
+ 4183  rm -rf my-first-app
+ 4184  laravel new my-first-app
+ 4185  goto-study
+ 4186  study-composer
+ 4187  php index.php
+ 4188  composer update
+ 4189  cd my-first-app
+ 4190  php artisas serve
+ 4191  php artisan serve
+ 4192  which php
+ 4193  sudo vi ~/.bash_profile
+ 4194  source ~/.bashprofile
+ 4195  source ~/.bash_profile
+ 4196  sudo vi ~/.bash_profile
+ 4197  source ~/.bash_profile
+ 4198  source
+ 4199  man source
+ 4200  sudo vi ~/.bash_profile
+ 4201  source ~/.bash_profile
+ 4202  which php
+ 4203  php artisan serve
+ 4204  php artisan -V
+ 4205  stt
+ 4206  sudo composer update
+ 4207  php -v
+ 4208  php artisan serve
+ 4209  stt
+ 4210  php artisan serve
+ 4211  php artisan make:controller PagesController
+ 4212  php artisan make:controller PagesController --plain
+ 4213  php artisan make:controller PagesController --plain --force
+ 4214  php artisan make:controller PagesController --plain
+ 4215  php artisan serve
+ 4216  composer install bower
+ 4217  composer require bower
+ 4218  php artisan serve
+ 4219  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 4220  man history
+ 4221  history
+ 4222  cd '/Volumes/wanderer_study/Tutorial/sandbox/laracast/laracasts - Laravel 5 From Scratch [HQ] ® vampiri6ka/'
+ 4223  goto-study
+ 4224  cd study-laravel
+ 4225  l
+ 4226  cd my-first-app
+ 4227  l
+ 4228  php artisan serve
+ 4229  zshconfig
+ 4230  cd my-first-app
+ 4231  goto-study
+ 4232  study-laravel
+ 4233  cd my-first-app
+ 4234  which php
+ 4235  zshconfig
+ 4236  phpstart
+ 4237  which php
+ 4238  zshconfig
+ 4239  which php
+ 4240  zshconfig
+ 4241  phpstart
+ 4242  zshconfig
+ 4243  phpstart
+ 4244  which php
+ 4245  cd Desktop
+ 4246  laravel new test
+ 4247  cd t
+ 4248  cd test
+ 4249  php artisan serve
+ 4250  php -V
+ 4251  php --version
+ 4252  brew list
+ 4253  php -h
+ 4254  brew upgrade php
+ 4255  brew upgrade php55
+ 4256  php -v
+ 4257  vi open /etc/apache2/httpd.conf
+ 4258  vi /etc/apache2/httpd.conf
+ 4259  st /etc/apache2/httpd.conf
+ 4260  cd /usr/local/Cellar/php54/5.4.12/libexec/apache2/
+ 4261  cd /usr/local/Cellar/php55
+ 4262  l
+ 4263  cd /usr/local/Cellar/php55/5.5.12/libexec/apache2/
+ 4264  l
+ 4265  php -v
+ 4266  which php
+ 4267  apache
+ 4268  restart apache
+ 4269  sudo apachectl -k restart
+ 4270  php -v
+ 4271  sudo /usr/sbin/apachectl restart
+ 4272  php -v
+ 4273  phpstart
+ 4274  php -v
+ 4275  cd Desktop
+ 4276  rm -rf test
+ 4277  goto-study
+ 4278  study-laravel
+ 4279  cd my-first-app
+ 4280  php artisan serve
+ 4281  php artisan make:controller SongsController --plain
+ 4282  php artisan
+ 4283  php artisan serve
+ 4284  php artisan make:migration create_songs_table --create="songs"
+ 4285  php artisan migrate
+ 4286  php artisan migrate:rollback
+ 4287  php artisan migrate
+ 4288  php artisan tinker
+ 4289  php artisan serve
+ 4290  history
+ 4291  php artisan make:controller SongControllerDB --plain
+ 4292  php artisan serve
+ 4293  php artisan make:controller SongsControllerDB --plain
+ 4294  php artisan serve
+ 4295  git init
+ 4296  git add .
+ 4297  gst
+ 4298  git commit -m "Git Initialization: Lesson7"
+ 4299  git log
+ 4300  git remote add origin git@github.com:wandererbear/study-laravel-myfirstapp.git
+ 4301  git push -u master
+ 4302  git push -u origin master
+ 4303  git remote add origin git@github.com:wandererbear/study-laravel-myfirstapp.git
+ 4304  git push -u origin master
+ 4305  git push
+ 4306  git pull
+ 4307  git push -u origin master
+ 4308  git status
+ 4309  git checkout -b gh-pages master
+ 4310  git status
+ 4311  git push -u origin gh-pages
+ 4312  gco master
+ 4313  git push
+ 4314  git push origin master
+ 4315  pit push --help
+ 4316  git push --help
+ 4317  git push --force origin master
+ 4318  heroku login
+ 4319  git clone https://github.com/heroku/php-getting-started.git
+ 4320  cd php-getting-started
+ 4321  stt
+ 4322  heroku create
+ 4323  git push heroku master
+ 4324  heroku ps:scale web=1
+ 4325  heroku open
+ 4326  git clone https://github.com/heroku/php-getting-started.git
+ 4327  heroku create
+ 4328  git push heroku master
+ 4329  heroku open
+ 4330  git add Procfile
+ 4331  git status
+ 4332  git commit -m "add Procfile for heroku"
+ 4333  git push heroku master
+ 4334  rm -rf php-getting-started
+ 4335  sudo composer update
+ 4336  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name/'
+ 4337  git push heroku master
+ 4338  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+ 4339  which php
+ 4340  phpstart
+ 4341  which php
+ 4342  php artisan serve
+ 4343  vi Procfile
+ 4344  touch Procfile
+ 4345  l
+ 4346  cd ..
+ 4347  l
+ 4348  chmod 777 your-project-name
+ 4349  cd your-project-name
+ 4350  sudo vi Procfile
+ 4351  l
+ 4352  git init
+ 4353  sudo git init
+ 4354  sudo git add .
+ 4355  sudo git commit -m "Initialize git"
+ 4356  sudo heroku create
+ 4357  sudo git push heroku master
+ 4358  heroku open
+ 4359  cd Desktop
+ 4360  l
+ 4361  take heroku-laravel
+ 4362  phpstart
+ 4363  laravel create heroku-laravel-5
+ 4364  history
+ 4365  laravel new heroku-laravel-5
+ 4366  l
+ 4367  cd heroku-laravel-5
+ 4368  l
+ 4369  vi .gitignore
+ 4370  touch Procfile
+ 4371  vi Procfile
+ 4372  php artisan serve
+ 4373  heroku create laravel-5
+ 4374  git init
+ 4375  git add .
+ 4376  git commit -m "Initialize"
+ 4377  heroku create laravel-5
+ 4378  heroku create
+ 4379  git push heroku master
+ 4380  heroku ps:scale web=1
+ 4381  heroku open
+ 4382  heroku config:add BUILDPACK_URL=https://github.com/heroku/heroku-buildpack-php
+ 4383  git push heroku master
+ 4384  heroku log
+ 4385  brew upgrade git
+ 4386  git help
+ 4387  heroku help
+ 4388  heroku logs
+ 4389  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 4390  phpstart
+ 4391  rvmstart
+ 4392  rvm use lastest
+ 4393  zshconfi
+ 4394  zshconfig
+ 4395  restart
+ 4396  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 4397  rvmstart
+ 4398  zshc
+ 4399  zshconfig
+ 4400  exit
+ 4401  rvm start
+ 4402  zshconfig
+ 4403  rvm ready
+ 4404  zshconfig
+ 4405  rvm start
+ 4406  zsh config
+ 4407  zshconfig
+ 4408  rvmstart
+ 4409  zshconfig
+ 4410  rvmstart
+ 4411  zshconfig
+ 4412  rvm get stable --auto-dotfiles
+ 4413  zshconfig
+ 4414  rvmstart
+ 4415  zshconfig
+ 4416  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 4417  rvmstart
+ 4418  view .zxhconfig
+ 4419  view .zshconfig
+ 4420  view .zshrc
+ 4421  view ~/.zshrc
+ 4422  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-grunt/install-plugin 
+ 4423  grunt
+ 4424  nvmstart
+ 4425  grunt
+ 4426  grunt uglify
+ 4427  grunt
+ 4428  grunt test
+ 4429  l
+ 4430  < GruntFile.coffee
+ 4431  _GruntFile.js > .gitignore
+ 4432  "_GruntFile.js" > .gitignore
+ 4433  "abc" > .gitignore
+ 4434  "abc" > a.txt
+ 4435  l
+ 4436  cat .gitignore
+ 4437  vi .gitignore
+ 4438  git init
+ 4439  git add .
+ 4440  git status
+ 4441  git reset HEAD
+ 4442  git reset --
+ 4443  git status
+ 4444  vi .gitignore
+ 4445  git add .
+ 4446  git status
+ 4447  git commit -m 'Initialize Git\nProject: User GruntFile.coffee instead of GruntFile.js'
+ 4448  git log
+ 4449  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+ 4450  git status
+ 4451  git add .
+ 4452  sudo git add .
+ 4453  git commit -m "[php] Update hello.php"
+ 4454  sudo git commit -m "[php] Update hello.php"
+ 4455  history
+ 4456  git push heroku master
+ 4457  sudo git push heroku master
+ 4458  heroku open
+ 4459  l
+ 4460  public
+ 4461  l
+ 4462  view index.php
+ 4463  cd Des
+ 4464  cd ~/Desktop
+ 4465  "test" > test-ln.txt
+ 4466  < test-ln.txt
+ 4467  cat test-ln.txt
+ 4468  test > test-ln.txt
+ 4469  cat test-ln.txt
+ 4470  vi test-ln.txt
+ 4471  ln -s test-ln.txt link.txt
+ 4472  l
+ 4473  vi test-ln.txt
+ 4474  rm test-ln.txt
+ 4475  vi test-ln.txt
+ 4476  ln -s test-ln.txt link.txt
+ 4477  vi link.txt
+ 4478  < test-ln.txt
+ 4479  rm test-ln.txt
+ 4480  vi test-ln.txt
+ 4481  ls -a | > test-ln.txt
+ 4482  < test-ln.txt
+ 4483  abc > test-ln.txt
+ 4484  echo abc > test-ln.txt
+ 4485  < temptutorial
+ 4486  < test-ln.txt
+ 4487  tail test-ln.txt
+ 4488  cd ..
+ 4489  goto-study
+ 4490  mkdir stydy-gulp
+ 4491  mv stydy-gulp study-gulp
+ 4492  l
+ 4493  study-gulp
+ 4494  > study-gulp-basic/readme.md
+ 4495  l
+ 4496  take study-gulp-basic
+ 4497  nvmstart
+ 4498  npm install -g gulp
+ 4499  gulp -v
+ 4500  npm install gulp --save-dev
+ 4501  npm install gulp-ruby-sass gulp-autoprefixer gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del --save-dev
+ 4502  npm init
+ 4503  touch gulpfile.js
+ 4504  st gulpfile.js
+ 4505  open -a Finder ./
+ 4506  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-gulp/study-gulp-basic
+ 4507  gulp styles
+ 4508  gulp
+ 4509  npm install
+ 4510  gulp styles
+ 4511  npm install gulp --save-dev
+ 4512  gulp styles
+ 4513  gulp -v
+ 4514  npm install --save-dev gulp coffee-script  
+ 4515  npm update
+ 4516  gulp hello
+ 4517  gulp
+ 4518  gulp scripts
+ 4519  npm insatll --save-dev gulp-coffee
+ 4520  npm install gulp-coffee --save-dev
+ 4521  gulp scripts
+ 4522  gulp
+ 4523  gulp scripts
+ 4524  gulp js
+ 4525  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 4526  study/study-gulp/study-gulp-basic
+ 4527  nvmstart
+ 4528  gulp -v
+ 4529  gulp
+ 4530  gulp js
+ 4531  npm install --save-dev gulp-ruby-sass gulp-autoprefixer gulp-cssmin gulp-jade gulp-minify-html gulp-svgmin gulp-coffee
+ 4532  gulp js
+ 4533  gulp html
+ 4534  gulp watch
+ 4535  npm install --save-dev gulp-livereload
+ 4536  gulp watch
+ 4537  gulp css
+ 4538  npm install gulp-sass --save-dev
+ 4539  gulp css
+ 4540  gulp watch
+ 4541  gulp css
+ 4542  rvmstart
+ 4543  gulp css
+ 4544  npm install gulp-for-compass -save-dev
+ 4545  npm install gulp-for-compass --save-dev
+ 4546  gulp compass
+ 4547  compass -v
+ 4548  gem install compass
+ 4549  compass -v
+ 4550  gulp compass
+ 4551  gulp sass
+ 4552  open .
+ 4553  sass -v
+ 4554  compass install compass
+ 4555  gulp compass
+ 4556  nvmstart
+ 4557  rvmstart
+ 4558  gulp compass
+ 4559  gulp sass
+ 4560  gulp watch
+ 4561  gulp sass
+ 4562  gulp compass
+ 4563  grunt html
+ 4564  gulp gtml
+ 4565  gulp html
+ 4566  gulp watch
+ 4567  npm install --save-dev gulp-watch
+ 4568  gulp watch
+ 4569  gulp
+ 4570  gulp watch
+ 4571  gulp.watch srcPath.html, ['html']
+ 4572  gulp watch
+ 4573  coffee -c --bare gulpfile.coffee
+ 4574  gulp watch
+ 4575  gulp html
+ 4576  gulp watch
+ 4577  git init
+ 4578  git add .
+ 4579  l
+ 4580  ps
+ 4581  top
+ 4582  git commit -am 'Initialize Stable Gulp'
+ 4583  git commit -a -m 'Initialize Stable Gulp'
+ 4584  git commit -ma 'Initialize Stable Gulp'
+ 4585  git add --all
+ 4586  rm -rf .git
+ 4587  l
+ 4588  git init
+ 4589  git add .
+ 4590  l
+ 4591  cd .git
+ 4592  l
+ 4593  cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-gulp/study-gulp-basic 
+ 4594  git log
+ 4595  git status
+ 4596  git commit -m 'Initialize stavle gulp'
+ 4597  history
+ 4598  heroku create
+ 4599  git push heroku master
+ 4600  heroku open
+ 4601  brew upgrade git
+ 4602  git remote add origin git@github.com:wandererbear/study-gulp-basic.git
+ 4603  git push -u origin master
+ 4604  which git
+ 4605  cd '/Applications/XAMPP/xamppfiles/htdocs/sandbox/'
+ 4606  touch command.txt

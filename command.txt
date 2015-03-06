@@ -1,0 +1,2831 @@
+
+
+cd /desktop/zoo
+cd desktop/zoo
+vi ~/.zshrc
+
+cd desktop
+vi ~/.zshrc
+pwd
+cd desktop
+cd zoo
+checkout first
+branch
+
+npm install -g grunt-cli
+sudo npm install
+npm install -g grunt-cli
+sudo npm install -g grunt-cli
+say hey
+exit
+cd desktop/zoo
+gst
+ls
+cd ~/.oh-my-zsh/lib/directories.zsh
+cd ~/.oh-my-zsh
+cd lib
+vi directories.zsh
+pwd
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox 
+pwd
+clear
+cd ..
+cd..
+pwd
+cd..
+pwd
+ls
+echo $SHELL
+weather VTCL
+weather
+cal
+date
+vi ~/.zshrc
+restart
+pwd
+clock
+date
+vi ~/.zshrc
+google test
+google สอนพิเศษ
+vi ~/.zshrc
+pwd
+vi ~/.zshrc
+bl
+ls -a
+vi
+ls
+open test
+exit
+vi ~/.zshrc
+cd desktop
+ls
+cd ..
+cd..
+ls
+cd grunttest
+subl .
+subl
+subl .
+echo $SHELL
+cd desktop
+mkdir test-loop
+cd test-loop
+for($i=1; $i<=5; $i++{ touch loop-$i.txt}
+for($i=1; $i<=5; $i++){ touch loop-$i.txt}
+for($i=1; $i<=5; $i++) touch loop-$i.txt
+for$i=1; $i<=5; $i++ touch loop-$i.txt
+--help
+help
+man for
+$i = 1
+$1=1
+$i
+echo $i
+$i =1
+echo $i=1
+cd desktop | ls -a
+ls -a | cd desktop
+ls -a
+cd desktop
+ls -a
+rm -rf .git
+ls -a
+rm -rf .gitignore
+ls -a
+rm -rf .gitattributes
+re -rf .htaccess
+rm -rf .htaccess
+rm -rf .localized
+open Screen Shot 2014-05-27 at 9.33.35 PM.png
+open "Screen Shot 2014-05-27 at 9.33.35 PM.png"
+cd ~
+ls
+defaults write com.apple.screencapture location ~/Documents
+killall SystemUIServer
+defaults write com.apple.screencapture location ~/Desktop
+killall SystemUIServer
+defaults write com.apple.screencapture location ~/Documents/Screenshot
+killall SystemUIServer
+exit
+cd Downloads
+rm -rf temp\ bit
+exit
+cd Desltop
+cd Desktop
+ls -a
+rm -rf .sass-cache
+re-rf test-loop grunttest zoo
+re-rf test-loop
+rm -rf test-loop grunttest zoo
+rmgrunttest
+rmzoo
+ls -a
+rm -rf zoo
+rm -r -f zoo
+cd z
+cd zoo
+rm -rf .
+rm -rf node_modules
+cd ..
+cd ~/Desktop
+ls -a
+exit
+cal
+exit
+say "i love U"
+cal feb 1988
+cd desktop
+touch minnie.txt
+vi minnie.txt
+rm minnie.txt
+exit
+cd desktop
+mkdir test
+cd test
+$i = 1
+i =1
+i = 1
+var i = 1
+for [i = 1]
+echp $PATH
+echo $PATH
+bash --version
+zsh --version
+zsh --upgrade
+zsh --update
+zsh help
+~/.oh-my-zsh/lib/directories.zsh
+cd ~/.oh-my-zsh/lib/directories.zsh
+cd .oh-my-zsh/lib/directories.zsh
+cd ./.oh-my-zsh/lib/directories.zsh
+cd .oh-my-zsh
+cd lib
+cd directories.zsh
+open ~/.oh-my-zsh/lib/directories.zsh
+/Users/wanderer/.oh-my-zsh/lib/directories.zsh; exit;
+vi ~/.oh-my-zsh/lib/directories.zsh
+1
+q
+1
+2
+cd 1
+cd 1-
+cd 1
+vi ~/.oh-my-zsh/lib/directories.zsh
+cd...
+cd ...
+cd..
+cd...
+cd ..
+cd..
+cd ../
+ls -a
+vi ~/.oh-my-zsh/lib/directories.zsh
+cs...
+cd...
+vi ~/.oh-my-zsh/lib/directories.zsh
+cd...
+cd..
+cd...
+cd edututors
+vi ~/.oh-my-zsh/lib/directories.zsh
+cd
+upgrade_oh_my_zsh
+sudo upgrade_oh_my_zsh
+upgrade_oh_my_zsh
+ls -a
+git stat
+git status
+subl .
+cd desktop/nodejs
+node example.js
+exit
+google test
+exit
+vi ~/.zshrc
+cd ..
+cd..
+cd grunttest
+git status
+ls -a
+cd ..
+cd gittest
+ls -a
+mkdir gittest
+rm gittest
+ls
+rm -rf gittest
+ls
+help
+man
+man zsh
+mail -s "test" jaturong.poon@gmail.com
+take gittest
+g
+git init
+gst
+touch 1.txt
+ga
+ga .
+gst
+gcmsg "create 1.txt"
+gb -b branch_1
+gco -b branch_1
+vi 1.txt
+ga .
+gc
+fst
+gst
+gcmsg "Type form branch_1"
+gl
+glg
+gco 
+gco master
+vi 1.txt
+gco branch_1
+vi 1.txt
+gst
+ga .
+gc
+gcmsg "Type 2 lines"
+glg
+git checkout 34e4e54df5f4 1.txt
+vi 1.txt
+glg
+git checkout ee40560bfcb4289 1.txt
+vi 1.txt
+gco HEAD 1.txt
+vi 1.txt
+gco HEAD 1.txt
+vi 1.txt
+gco HEAD~1 1.txt
+vi 1.txt
+gst
+git checkout ee40560bfcb4289 1.txt
+vi 1.txt
+gst
+glg --graph --all --oneline
+gco master
+glg --graph --all --oneline
+vi 1.txt
+gco branch_1
+git merge master
+gst
+glg --all --graph --oneline
+glg --all --graph
+gco master
+vi 1.txt
+gco branch_1
+vi 1.txt
+gco master
+git merge branch_1
+gst
+glg --all --graph --oneline
+gst
+vi 1.txt
+git checkout HEAD~1 1.txt
+vi 1.txt
+git checkout HEAD 1.txt
+vi 1.txt
+touch 2.txt
+ls
+ls 0a
+ls -a
+touch .gitignore
+vi .gitignore
+git add .
+gst
+ls
+gcmsg "Create .gitignore and ignore 2.txt"
+glg
+vi 2.txt
+gco HEAD~1
+gco HEAD~1 2.txt
+gco HEAD~1 1.txt
+vi 1.txt
+vi 2.txt
+gco HEAD 1.txt
+vi 1.txt
+gco branch_1
+ls
+ls -a
+gst
+vi 2.txt
+gco master
+vi 1.txt
+vi 2.txt
+git add .
+gst
+git log
+gcmsg "Fifth commit"
+git --hard HEAD~
+git reset --hard HEAD~
+glg
+vi 1.txt
+vi 2.txt
+glg
+gco HEAD~3 .
+glg
+vi 1.txt
+glg --all --graoh --oneline
+glg --all --graph --oneline
+.git/HEAD
+cat .git/HEAD
+gst
+glg
+gitk
+glg
+git show
+gco HEAD .
+git show
+glg
+vi q.txt
+ls
+vi 1.txt
+ga .
+gcmsg "Test Soft reset"
+glg
+git reset --soft HEAD~1
+glg
+eixt
+exit
+cd..
+cd gittest
+gst
+gs
+gsh
+vi 1.txt
+glg
+gco HEAD .
+vi 1.txt
+ga .
+gcmsg "test soft reset"
+glg
+git reset --soft HEAD~
+vi 1.txt
+glg
+vi 1.txt
+gco HEAD .
+vi 1.txt
+ga .
+git commit -c ORIG_HEAD
+glg
+vi 1.txt
+git revase -i HEAD~
+y
+git rebase -i HEAD~
+git rebase -i HEAD~ -m "Try"
+git rebase -i HEAD~ 
+glg
+vi 1.txt
+1
+2
+stt
+vi ~/.oh-my-zsh/lib/directories.zsh
+vi ~/.zshrc
+stt
+cd..
+cd gittest
+stt
+bl
+bs jslint
+cd ../
+ls
+cd grubttest
+cd grunttest
+ls
+cd..
+ls
+take bowertest
+npm install -g bower
+sudo npm install -g bower
+ls -a
+vi .bowerrc
+ls
+ls -a
+bi modernizr
+ls
+ls -a
+vi .bowerrc
+ls
+bs cssreset
+bs css reset
+cs normalizr
+bs normalizr
+bi normalize
+bi jquery
+ls
+cd bower
+ls
+cd..
+mb modernizr bowermodernizr bower/
+ls
+cd bowertest
+lmodernizr bower/
+ls
+cd bower
+ls
+cd..
+cd bowertest
+ls -a
+bower register
+ls
+bower init
+touch bower.json
+bower init
+rm bower.json
+cd..
+cd gittest
+glog
+glg
+glg --all --oneline --graph
+glog -a
+glog --all
+gst
+alias
+image ducck
+imdb spiderman
+wiki spiderman
+vi ~/.oh-my-zsh/lib/directories.zsh
+cdedu
+cdedi
+cdedu
+cdedi
+vi ~/.oh-my-zsh/lib/directories.zsh
+cdedu
+cd
+alias
+vi ~/.oh-my-zsh/lib/directories.zsh
+cd...
+cd..
+cd...
+cd..
+alias
+vi ~/.oh-my-zsh/lib/directories.zsh
+cd..
+cd...
+cd..
+-
++2
+cd +2
+cd..
+quit
+exit
+cd /Volumes/Wanderer_Study/Tutorial/source/Codeschool/Javascript/01_Javascript_Roadtrip_1 
+find -type f -name "*.avi" -print0 | xargmplayer -vo dummy -ao dummy -identify 2>/dev/null | -nle '/ID_LENGTH=([0-9\.]+)/ && ($t +=$1) && printf "%02d:%02d:%02d\n",$t/3600,$t/60%60,$t%60' | tail 
+mplayer -endpos 0.1 -vo null -ao null -identify *.avi 2>&1 |grep ID_LENGTH |cut -d = -f 2|awk '{SUM } END { printf "%d:%d:%d\n",SUM/3600,SUM%3600/60,SUM%60}'
+find -type f -name "*.mp4" -print0 | xargmplayer -vo dummy -ao dummy -identify 2>/dev/null | -nle '/ID_LENGTH=([0-9\.]+)/ && ($t +=$1) && printf "%02d:%02d:%02d\n",$t/3600,$t/60%60,$t%60' | tail 
+mplayer -vo dummy -ao dummy -identify * 2>&1 | grep ID_LE| sed 's/.*=\([0-9]*\)/\1/' | xargs | sed 's/ /+/g' | bc | awk 'S=$1; {printf "%dh:%dm:%ds\n",S/(60*60),S%(60*60)/60,S%60}'
+find -type f -name "*.mp4" -print0 | xargmplayer -vo dummy -ao dummy -identify 2>/dev/null | -nle '/ID_LENGTH=([0-9\.]+)/ && ($t +=$1) && printf "%02d:%02d:%02d\n",$t/3600,$t/60%60,$t%60' | tail 
+cd/Users/wanderer/Downloads/temp\ bit/JetBrains.WebStorm-6.0.2a.Inc.Keygen 
+cd /Users/wanderer/Downloads/temp\ bit/JetBrains.WebStorm-6.0.2a.Inc.Keygen
+tar -xzf keygen.tar.gz
+ls -a
+chmod +x keygen
+./keygen
+vi wand_readme
+exit
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest 
+composer --version
+composer
+brew update
+brew tap josegonzalez/homebrew-php
+brew tap homebrew/versions
+brew install php55-intl
+brew install josegonzalez/php/composer
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest 
+composer create-project laravel/laravel . --prefer-dist
+ls -a
+composer create-project laravel/laravel /Applications/XAMPP/xamppfiles/htdocs/sandbox/laravel--r-dist
+composer create-project laravel/laravel ~/Applications/XAMPP/xamppfiles/htdocs/sandbox/laravel--r-dist
+composer create-project laravel/laravel ~/desktop/laravel--prefer-dist
+brew install josegonzalez/php/composer
+composer --help
+composer create-project laravel/laravel your-project-name --prefer-dist
+apt-get install php5-json
+composer create-project laravel/laravel ~/Applications/XAMPP/xamppfiles/htdocs/sandbox/laravel--r-dist
+view ~/.composer/cache/repo/https---packagist.org/packages.json
+composer udate
+composer update
+php composer.phar install
+composer install
+pwd
+touch composer.json
+composer install
+sudo composer create-project laravel/laravel your-project-name --prefer-dist
+stt
+php artisan serve
+cd your-project-name
+php artisan serve
+composer install
+sudo Route::get('users', function()\return 'Users!';
+sudo composer install
+php composer.phar update
+php composer.phar install
+sudo composer install
+which PHP
+cd /Applications/MAMP/bin/php
+cd /Applications/XAMPP/bin/php
+cd /Applications/XAMPP/xamppfiles/bin/php 
+cd /Applications/XAMPP/xamppfiles/bin
+which PHP
+cd ~
+ls -a
+view .bash-profile.swp
+php version
+php --v
+php --version
+cd /Applications/XAMPP/xamppfiles 
+php version
+php --version
+which php
+php --ini
+php -v
+cd /Users/wanderer/Desktop/laraveltest 
+composer create-project laravel/laravel wand --prefer-dist
+sudo composer create-project laravel/laravel wand --prefer-dist
+ls
+cd wand
+sudo composer install
+php artisan serve
+sudo apt-get install php5-mcrypt
+composer install php5-mcrypt
+brew install php5-mcrypt
+cd /Applications/XAMPP/bin 
+view php.ini
+cd ../
+ls -a
+cd bin
+view /Applications/XAMPP/xamppfiles/bin/php-5.4.19 
+cd ../etc
+view php.ini
+vi php.ini
+cd..
+cd laravel
+ls
+cd laraveltest
+ls
+cd your-project-name
+sudo composer install
+sudo apt-get install php5-mcrypt
+sudo composer.phar update
+sudo composer install
+which php
+sudo vi ~/.bash_profile
+sudo vim ~/.bash_profile
+cd ~
+..bash_profile
+which php
+sudo vim ~/.bash_profile
+cp .bash_profile.swp .bash_profile
+sudo cp .bash_profile.swp .bash_profile
+ls -a
+sudo vim ~/.bash_profile
+which php
+rm .bash_profile
+ls
+ls -a
+rm .bash_profile
+rm -rf .bash_profile
+ls -a
+mv .bash_profile.swp .bash_profile
+ls -a
+vi .bash_profile
+sudo vim ~/.bash_profile
+mkdir mrcypt
+mv mrcypt mcrypt
+ls
+open mcrypt
+cd /Users/wanderer/mcrypt/libmcrypt-2.5.8 
+./configure
+make
+sudo make install
+cd ../php-5.3.13/ext/mcrypt/
+cd /Users/wanderer/mcrypt/php-5.5.11/ext/mcrypt 
+/usr/bin/phpize
+./configure
+make
+sudo make install
+sudo apachectl restart
+make test
+which php
+php --version
+cd /Users/wanderer/mcrypt/libmcrypt-2.5.8 
+./configure
+make uninstall
+sudo apachectl stop
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+sudo composer install
+which php
+cd ~//usr/lib/php/extensions
+cd ~/usr/lib/php/extensions
+cd /Users/wanderer/mcrypt/php-5.5.11 
+cd ext/mcrypt
+pwd
+cd ~/usr/bin
+ls -a
+cd bin
+ls -a
+./configure
+make
+sudo make install
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+sudo composer install
+which php
+php --ri mcrypt
+autocinf --version
+autoconf --version
+xcode-select --install
+cd /Users/wanderer/mcrypt/php-5.5.11 
+cd /ext/mcrypt/
+cd ext
+cd mcrypt
+./configure
+cd /Users/wanderer/mcrypt/libmcrypt-2.5.8
+./confirgure
+./configure
+make
+sudo make install
+cd /Users/wanderer/mcrypt/php-5.5.11/ext/mcrypt 
+./configure
+make
+sudo make install
+cd /usr/bin/phpize
+cd ~/usr/bin/phpize
+cd ~
+cd usr
+ls
+ls -a
+cd bin/phpize
+cd bin
+ls
+ls -a
+mkdir phpize
+./configure
+rmdir phpize
+cd usr/lib/php/extensions/
+cd ~
+pwd
+cd usr
+cd /
+cd usr
+cd lib/php/extensions
+ls -a
+cd /Applications/XAMPP/xamppfiles/htdocs 
+touch phpinfo.php
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+composer install
+sudo comsposer install
+sudo composer install
+sudo composer update
+composer update
+composer update composer.lock
+composer update --lock
+sudo composer update --lock
+sudo composer update composer.json
+sudo apt-get install php5-mcrypt
+php -i | grep mcrypt
+grep mcrypt
+php -v
+sudo 
+1
+sudo 
+1
+sudo xcode-select --install
+which php
+sudo nano ~/.bash_profile
+sudo v~/.bash_profile
+sudo vi ~/.bash_profile
+open ~/.bash_profile
+which php
+sudo vi ~/.bash_profile
+cd /Applications/XAMPP/xamppfiles/bin
+ls -a
+which php
+sudo vi ~/.bash_profile
+wgich php
+which php
+cd /usr/bi/php
+cd /usr/bin/php
+cd /usr/bin
+ls -a
+cd php
+open php
+/usr/bin/php ; exit;
+read php
+cd ~
+ls
+ls -a
+vi .bash_profile
+pic/private/etc/paths
+sud/private/etc/paths
+which php
+sud/private/etc/paths
+which php
+sud/private/etc/paths
+composer --version
+cd /
+ls
+ls -a
+cd etc
+ls -a
+cd ../
+cd usr
+ls
+ls -a
+cd ../
+2
+sudo vi //.bash_profile
+cd ..
+;s
+ls -a
+which php
+rm //.bash_profile
+cd //
+cd.
+ls
+ls -a
+rm -rf .bash_profile
+sudo rm -rf .bash_profile
+ls -a
+which mysql
+which php
+sudo vi ~/.bash_profile
+which php
+cd /Users/wanderer/Desktop/laraveltest 
+sudo composer install
+exit
+which php
+ls -a
+sudo vi .bash_profile
+which php
+cd /Applications/MAMP/htdocs 
+composer create-project laravel/laravel test --prefer-dist
+sudo composer create-project laravel/laravel your-project-name --prefer-dist
+cd /usr/local/bin
+open .
+cd ~/desktop
+mkdir direct
+cd direct
+laravel new
+sudo composer self-update
+composer --version
+composer about
+composer create-project laravel/laravel test --prefer-dist
+sudo composer create-project laravel/laravel your-project-name --prefer-dist
+composer install
+cd your-project-name
+composer install
+sudo composer install
+which php
+echo $PATH
+source ~/.bash_profile
+which php
+php --version
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+pwd
+sudo composer install
+stt
+stt .
+php artisan serve
+cd ~
+ls -a
+sudo vi .bash_profile
+which php
+source ~/.bash_profile
+which php
+source ~/.bash_profile
+which php
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name
+composer install
+sudo composer install
+which php
+sudo composer install
+php -i | grep \.ini\$
+which php
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest/your-project-name 
+sudo composer install
+source ~/.bash_profile
+sudo composer install
+which php
+php artisan serve
+chmod -R 777 storage
+cd app
+chmod -R 777 storage
+sudo chmod -R 777 storage
+php artisan serve
+cd ../
+php artisan serve
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest2 
+composer create-project laravel/laravel root --prefer-dist
+sudo composer create-project laravel/laravel root --prefer-dist
+which php
+sudo vi ~/.bash_profile
+source ~/.bash_profile
+which php
+php -v
+sudo composer install
+composer install
+cd root
+composer install
+sudo composer install
+php artisan serve
+cd app
+ls
+sudo chmod -R 777 storage
+cd ../
+php artisan serve
+sudo chmod -R 777 app/storage
+php artisan serve
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+ls -a
+bower init
+ls -a
+open .bowerrc
+view .bowerrc
+bower list
+bower list ==paths
+bower list --paths
+bower install
+touch test/test.js
+bower install
+bower search jquery
+bower search jquery#1.8.0
+bower install jqueryold=jquery#~1.8.0
+bower install
+bower install modernizr
+bower install nomorlize.css
+bower search nomorlize
+bower install modernizr
+bower install fontawesome
+bower install
+bower init
+bower install css=fontawesome
+bower install css/fontawesome=fontawesome
+bower uninstall
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/grunttest 
+subl .
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+bower search
+bower install underscore --save-dev
+subl .
+bower install underscore --save-dep
+say 8,350
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+git init
+brew install -g git
+sudo brew install -g git
+sudo
+git
+git config --global user.name "wandererbear"
+git config --global user.email "jaturong.poon@gmail.com"
+git config --global apply.whitespace no worn
+git init
+touch .git
+git init
+ls -a
+git init
+git status
+ga .
+gcmsg "First Version"
+gsts
+gst
+glg
+gco -b Backup Version
+git checkout -b "Bcakup Version1"
+git checkout -b Bcakup Version1
+git checkout -b Bcakup_Version1
+ga .
+gco -b Version2
+rm -rf .
+rmdir -rf .
+ls -a
+rm -rf bower
+rm -rf test
+rm bower.json
+bower install bootstrap
+bower init
+bower install fontawesome -s
+view bower.json
+bower install
+bower uninstall fontawesome
+bower install --save fontawesome
+bower uninstall boostrap
+bower list --path
+bower uninstall bootstrap
+bower install --production bootstrap --save-dev
+stt
+bower uninstall bootstrap
+bower uninstall fontawesome
+ga .
+git add .
+gst
+gc msg "Test Bower devDependencies and Dependencies"
+gcmsg "Test Bower devDependencies and Dependencies"
+bower install
+git reset --HARD .
+git reset --hard HEAD
+glg
+git reset -- bower
+git reset -- bower .
+git reset -- bower/*.*
+bower install --production
+bower install
+bower checkout -- .
+bower checkout --
+bower checkout HEAD~ .
+git checkout -- .
+git checkout HEAD~ .
+git checkout HEAD
+git checkout HEAD .
+rm -rf bower
+mkdir bower
+bower install
+ga .
+git add .
+cd bower
+git add .
+git add 
+gst
+gc -b testdelete
+git chec-b testdelete
+ga.
+ga .
+git checkout Version2
+gcm
+git checkout testdelete
+git checkout HEAD~ .
+bower uninstall fontawesome
+bower install jquery --save-dev
+bower install bootstrap --save
+cd ../
+bower install jquery --save-dev
+bower install bootstrap --save
+git revert commit testdelete
+git git revert
+git revert
+git revert HEAD~
+git revert -n
+glg
+git reset --hard 2756cf52eca
+open .
+gc version1
+gc Veraion1
+gc Verion1
+gc Version1
+git branch
+gc Version2
+gco Version2
+glg
+git reset --hard e726f3d4521a5f91cba26
+git revert
+gcm
+gst
+gco testdelete
+git add .
+git commit "Clear All"
+rm bower/bower
+rmdirbower/bower
+cd bower
+pwd
+cd ../
+rmdirbower
+rmbower
+cd ../
+rm -rf css fontawesome
+cd bower
+rm -rf css fontawesome
+rm -rf jquery modernizr inderscore
+rm -rf underscore
+git commit -m "Delete All Package"
+gst
+glg
+git log 
+gcm
+git install --production
+bower install --production
+cd ../
+bower install --production
+ga .
+git add .
+gst
+git add -a
+git add -all
+git add --all
+gst
+gcmsg "Try bower install --production"
+gst
+git status
+glg
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_grunt 
+touch index.php
+mkdir css
+mkdir js
+mkdir bower
+cd css
+mkdir sass
+cd ..
+git init
+git add .
+ls -a
+git commit -m "Start Project"
+gst
+touch .bowerrc
+vi .bowerrc
+bower install --save jquery
+bower install --save modernizr
+gst
+git add .bowerrc bower/
+gst
+bower init
+gcmsg "Install Bower and it's Dependencies(jquery, modernizr) and bower init for bower.json"
+glg
+git log
+git checkout -b test_grunt_01
+gst
+git add bower.json
+gst
+npm install -g grunt-cli
+sudo npm install -g grunt-cli
+npm init
+npm install
+npm install grunt --save-dev 
+npm install grunt-contrib-concat --save-dev
+npm install grunt-contrib-uglify --save-dev
+npm install grunt-contrib-compass
+npm install grunt-contrib-sass
+npm install grunt-contrib-cssmin
+npm install grunt-contrib-livereload
+npm install grunt-contrib-watch --save-dev
+gst
+npm install grunt-contrib-compass --save-dev
+npm install grunt-contrib-sass --save-div
+npm install grunt-contrib-cssmin --save-dev
+npm install grunt-contrib-livereload --save-dev
+git status
+git add node_modules/package.json
+git ./add node_modules/package.json
+git add .
+git status
+gcmsg "Create package.json by npm init and install all task to devDependencies"
+git status
+touch .gitignore
+vi .gitignore
+git status
+git add .gitignore
+git status
+stt .
+git status
+git add .
+git commit -m "Add all need files and set concatnate in Gruntfile.js"
+grunt concat
+grunt concat:teddy
+grunt concat
+grunt unify
+grunt ugnify
+grunt uglify
+grunt concat
+grunt uglify
+grunt concat
+grunt uglify
+grunt watch
+grunt livereload
+grunt watch
+grunt sass
+gem update --system
+gem install compass
+sudo gem install compass
+grunt compass
+compass create compass
+grunt compass
+grunt sass
+grunt compass
+grunt sass
+grunt compass
+grunt sass
+grunt compass
+grunt sass
+grunt compass
+grunt sass
+grunt css-min
+grunt cssmin
+grunt watch
+grunt compass
+grunt watch
+grunt compass:prod
+grunt compass:dev
+grunt compass:prod
+grunt compass
+git add .
+git add --all .
+git status
+gcmsg -m "Finish"
+git commit -m "Finish"
+gcm
+git branch backup master
+git checkout backup
+git status
+gcm
+gm test_grunt_01
+gco backup
+gcm
+git log -ago
+git log --all --graph --oneline
+gco test_grunt_01
+gco HEAD~ Gruntfile.js
+gco HEAD~2 Gruntfile.js
+gco HEAD Gruntfile.js
+gcm
+history
+grunt compass
+grunt cssmin
+grunt uglify:advance
+grunt watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/laraveltest2/root
+php artisan serve
+which php
+source ~/.bash_profile
+php artisan serve
+vi
+exit
+c d/Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-ner/public 
+cd /Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-ner/public 
+php artisan serve
+/Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-ner/artisan ; exit;
+php
+which php
+source ~/.bash_profile
+which php
+php artisan serve
+/Users/wanderer/Downloads/temp\ bit/Tutsplus\ -\ Laravel\ Essentials/Project\ Files/url-ner/artisan ; exit;
+exit
+say fuel
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/
+ls -a
+alias h
+alias -h
+alias stp /Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages 
+stp
+alias s"open /Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+stp
+alias"open /Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+alias"open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+alias"open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+/Users/wanderer/Library/Application\ Support/Sublime\ Text\ 2/Packages
+alias"open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+alias"~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+alias p="open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+p
+alias stp="open ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+stp
+git clone "https://github.com/lunixbochs/SublimeXiki.git"
+cd ~/Desktop
+sass test.scss test.css
+watch test.scss
+stp
+google prefxr
+curl -v -u USERNAME -X POST https://api.github.com/authorizations --data "{\"scopes\":[\"gist\"]}"
+curl -v -u wanderer-X POST https://api.github.com/authorizations --data "{\"scopes\":[\"gist\"]
+curl -v -u jaturong.poon@gmail-X POST https://api.github.com/authorizations --data "{\"scopes\":t\"]}"
+sudo curl -v -u jaturong.poon@gmail-X POST https://api.github.com/authorizations --data opes\":[\"gist\"]}"
+sudo curl -v -u wanderer-X POST https://api.github.com/authorizations --data "{\"scopes\":[\"]}"
+ls -a
+view .bin
+cd bin
+ls -a
+cd ~
+subl
+subl desktop/edututors
+cd desktop
+cd treehouse_css_foundation
+sass -watch golden_ratio.scss:golden_ratio.css
+sass --watch golden_ratio.scss:golden_ratio.css
+cd desktop
+cd treehouse_css_foundation
+sass --watch golden_ratio.scss:golden_ratio.css
+sass -watch golden_ratio.scss:golden_ratio.css
+sass --watch golden_ratio.scss:golden_ratio.css
+gem install --version '~> 0.9' rb-fsevent
+gem version
+gem -v
+sudo sass --watch golden_ratio.scss:golden_ratio.css
+ruby -v
+sass -v
+compass -v
+compass upgrade
+compass -h
+cd..
+cd test_sass_compass
+npm init
+npm insatall grunt-contrib-concat --save-dev
+npm insatall grunt-contrib-sass --save-dev
+npm insatall grunt-contrib-compass --save-dev
+npm insatall grunt-contrib-cssmin --save-dev
+npm insatall grunt-contrib-watch --save-dev
+npm insatall grunt-contrib-livereload --save-dev
+open package.json
+sudo npm insatall grunt-contrib-concat --save-dev
+sudo npm insatall --savegrunt-contrib-concat
+npm install grunt-contrib-concat --save-dev
+npm install grunt-contrib-sass --save-dev
+npm install grunt-contrib-compass --save-dev
+npm install grunt-contrib-cssmin --save-dev
+npm install grunt-contrib-watch --save-dev
+npm install grunt-contrib-livereload --save-dev
+grunt watch
+grunt compass
+grunt watch
+sass --watch scss:css
+gem -v
+grunt watch
+bower init
+bower install jquery
+touch .bowerrc
+vi .bowerrc
+bower install jquery --save-dev
+bower install --save-dev jquery
+vi .bowerrc
+mkdir bower
+bower install jquery --save-dev
+bower install modernizr --save-dev
+bower search letter.js
+bower search lettering
+bower install letteringjs --save-dev
+grunt watch
+history
+npm install grunt-contrib-uglify --save-dev
+grunt watch
+git init
+git status
+git add .
+gst
+gcmsg "Finish First Setup"
+grunt watch
+compass init
+grunt watch
+cd..
+cd test_sass_compass
+grunt watch
+git branch grunt-watch
+git branch compass-watch
+git branch codekit-watch
+git branch
+gc compass-watch
+gco compass-watch
+gst
+ga .
+gst
+compass watch
+gco codekit-watch
+ga .
+gst
+gcm
+gco grunt-watch
+gst
+grunt watch
+gco codekit-watch
+gcmsg "Codekit Start"
+gco grunt-watch
+grunt watch
+gco grunt-watch
+git checkout grunt-watch
+git checkout master
+git checkout grunt-watch
+gst
+git add .
+gst
+git checkout grunt-watch
+git log
+git commit
+git commit -m "codekit2"
+git checkout grunt-watch
+grunt watch
+gcm
+git checkout codekit-watch
+git commit -m "master fuck"
+git checkout codekit-watch
+git add .
+git checkout codekit-watch
+git commit -m "master fuck"
+git checkout codekit-watch
+gcm
+gm codekit-watch
+git checkout codekit-watch
+grunt watch
+git commit -m "Start grunt test again"
+git add .
+git commit -m "Start grunt test again"
+git checkout codekit-watch
+gcm
+gco codekit-watch
+gcm
+git commit -m "Start Codekit again"
+gcm
+git add .
+gcm
+git commit -m "Start Codekit again"
+gcm
+grunt watch
+cd ../test_bootstrap
+vi .bowerrc
+bower init
+bower list
+vi .bowerrc
+cd..
+cd test_bootstrap
+ls
+grunt watch
+bower install
+cd ../test_sass_compass
+ls
+ls -a
+view .bowerrc
+cd ../test_bootstrap
+vi .bowerrc
+bower list
+stt
+grunt watch
+bower install bootstrap
+grunt watcg
+grunt watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bootstrap 
+bower install bootstrap-sass-official
+bower install requirejs
+bl
+bi respondjs
+bower search respond
+bi respond
+bower install normalize
+bower search normalize
+bower search normalize-css
+bower search normalize-css --save-dev
+bi respond --save-dev
+bower install bootstrap-sass-official --save-dev
+bower install requirejs --save-dev
+bl
+bower install normalize-css --save-dev
+bower install
+bs fontawesome
+bi fontawesome --save
+bi fontawesome#3.2.1 --save-dev
+bi fontawesome --save
+bs cssreset
+bs css reset
+bs reset
+bs 320
+bi 320 --save
+cd bower
+git clone https://github.com/malarkey/320andup.git 320
+oundation
+foundation new project_name --libsass
+gem bourbon
+gem -h
+gem install bourbon
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bourbon 
+bourbon install
+sudo gem install bourbon
+bourbon install
+bourbon help
+sass --watch stylesheets/sass:stylesheets
+sass --watch --style expanded stylesheets/sass:stylesheets
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bourbon 
+sass --watch --style expanded stylesheets/sass:stylesheets
+sass -h
+sass --update
+sass -v
+sass --watch -l --style expanded stylesheets/sass:stylesheets
+gem list
+gem -h
+gem update
+sudo gem update
+gem update sass
+gem update compass
+gem update bourbon
+gemlist
+gem list
+sass --watch -l --style expanded stylesheets/sass:stylesheets
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_bourbon 
+grunt init
+grunt
+npm install grunt-combine-media-queries
+npm install grunt-combine-media-queries --save-dev
+grunt cmq
+grunt watch
+ls
+ls -a
+grunt watch
+npm install grunt-contrib-sass --save-dev
+grunt watch
+grunt sass
+grunt watch
+grunt sass
+grunt watch
+compass install
+compass create .
+grunt watch
+exit
+git status
+compass -h
+compass -h watch
+cd desktop
+compass create compass
+compass watch
+cd compass
+compass wathch
+compass watch
+ห้ีะกนไื
+shutdown
+sudo restart
+sudo shutdown
+ping 192.168.1.1
+ping 192.168.1.201
+192.168.1.202
+ping 192.168.1.202
+ping 192.168.1.1
+ping 192.168.1.201
+ping 192.168.1.1
+ping 192.168.1.201
+ping 192.168.1.248
+ping 192.168.1.1
+ping 192.168.1.201
+cd desktop/compass
+compass watch
+cd desktop/compass
+compass watch
+sudo gem install compass-rgbapng
+gem install compass-normalize
+sudo gem install stitch
+sudo gem install compass-normalize
+sudo gem install animation --pre
+sudo gem install compass-blend-modes
+sudo gem install compass-import-once
+sudo gem install fancy-buttons
+sudo gem install sassy-buttons
+sudo gem install sass-media_query_combiner
+sudo gem update --system
+sass update
+sass -v
+compass -v
+sudo gem update sass
+sudo gem update compass
+sudo gem update
+cd desktop/compass
+compass clean
+compass watch
+gem list
+sudo gem install compass-recipes
+gem update --sysyem
+gem update --system
+sudo gem update --system
+ruby -v
+gem -v
+sudo gem update --system
+sudo gem install compass-recipes
+compass clear
+compass clean
+compass watch
+sass --watch -r sass-media_query_combiner
+compass --watch -r sass-media_query_combiner
+compass watch
+sudo gem install compass-recipes
+open /Library/Ruby/Gems/2.0.0/gems/compass-recipes-0.3.0/stylesheets
+compass watch
+compass clean
+compass watch
+compass clean
+compass watch
+ruby -h
+ruby update
+sudo gem install modernizr-mixin
+gem list
+compass -v
+cd desktop/compass
+compass watch
+sass -v
+compass watch
+gem sass 3.3.11
+gem sass 
+sass -h
+compass -v
+gem install compass --pre
+sudo gem install modernizr-mixin
+sudo gem install compass --pre
+compass -v
+compass watch
+compass version
+compass _1.0.0.alpha.19_ watch
+compass _1.0.0_ watch
+compass 1 watch
+compass -h
+compass -v
+compass version 1
+ls -a
+gem 'compass', '~> 1.0.0.alpha.19'
+sass watch /Users/wanderer/Desktop/compass/sass:/Users/wanderer/Desktop/compass/css 
+sass --watch /Users/wanderer/Desktop/compass/sass:/Users/wanderer/Desktop/compass/css 
+sass /Users/wanderer/Desktop/compass/sass/map.scss
+sass -h
+sass /Users/wanderer/Desktop/compass/sass/map.scss /Users/wanderer/Desktop/compass/css/map.css 
+sass -i
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential 
+bower install bootstrap
+bower info bootstrap
+sudo npm -g upgrade bower
+sudo npm update -g bower to update
+bower -v
+bower install
+bower update
+bower install fontawesome --save
+bower ls
+bower search
+bower install d3 --save-dev
+grunt serve
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/bowertest 
+ls -a
+view .bowerrc
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential 
+vi .bowerrc
+bower update
+bower list -p
+bower ls
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential
+bower search
+bower update
+bower search modernizr
+bower install jquery-validation -S
+sass -i
+compass interactive
+cd /Users/wanderer/Desktop/compass 
+compass version
+gem install compass --pre
+sudo gem install compass --pre
+compass version
+compass complie --force
+compass compile --force
+compass version
+cd .
+cd /
+compass version
+gem 'compass', '~> 1.0.0.rc.1'
+cd /desktop/compass
+cd ~/desktop/compass
+sudo gem install bundler
+gem 'compass', '~> 1.0.0.rc.1'
+source 'https://rubygems.org'
+bundle init
+compass version
+compass compile --force
+compass version
+gem 'compass', '~> 1.0.0.rc.1'
+sudo gem install compass --pre
+compass version
+gem update compass
+compass -v
+bundle init
+bundle install
+compass version
+compass compile --force
+bundle install
+compass compile --force
+compass version
+bundle update compass
+compass version
+bundle compass version
+require
+compass clear
+compass clean
+compass compile --force
+gem uninstall compass
+sudo gem uninstall compass
+gem uninstall compass
+sudo gem uninstall compass
+compass clean
+sudo gem update --system
+compass -v
+compass clean
+compass compile --force
+sudo gem update stitch
+gem uninstall sass
+sudo gem uninstall sass
+sass version
+sass -v
+compass -v
+compass clean
+gem uninstall stitch
+sudo gem uninstall stitch
+compass clean
+sudo gem install stitch
+sass -v
+compass -v
+compass clean
+compass compile --force
+\curl -L https://get.rvm.io | bash -s stable --ruby
+brew update
+ruby -v
+ruby -h
+brew upgrade ruby-build
+sudo brew upgrade ruby-build
+rbenv install 2.1.1
+brew upgrade ruby-build
+cd ~/.rbenv 
+brew upgrade ruby-build
+brew install ruby-build
+rbenv install 2.4.1
+brew upgrade ruby-build
+rbenv install 2.1.1
+gem update --sy 
+ruby -v
+gem install rubygems-update
+sudo gem install rubygems-update
+update_rubygems
+ruby -v
+ruby -ls
+sudo gem uninstall compass
+compass clean
+sudo gem uninstall sass
+compass clean
+open /Library/Ruby/Site/2.0.0/rubygems/specification.rb
+compass -version
+compass -v
+sudo gem uninstall stitch
+compass -v
+sass -v
+compass compile --force
+compass watch
+gem install stitch
+sudo gem uninstall stitch
+sudo install stitch 
+sudo gem install stitch 
+compass compile --force
+bundler
+cd deskop/compass/sass
+cd deskop/compass
+cd /deskop/compass
+ls
+cd /
+cd desktop/compass
+ls
+cd ~
+ls
+cd Desktop/compass/sass
+ls
+sass map.scss ../css/map.css
+cd desktop
+sudo npm install sassdoc
+sudo npm install -g sassdoc
+sassdoc compass sassdoc
+sassdoc -c
+sassdoc compass sassdoc -c
+sassdoc compass sassdoc -v
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass install bare --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "images"
+compass install --bare --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "images"
+cd ..
+compass create template-sass2 --bare --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "images"
+gem list
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass -v
+gem uninstall compass
+sudo gem uninstall compass
+gem install compass
+sudo gem install compass
+compass watch
+compass list
+compass ls
+compass -v
+compass watch
+compass clean
+compass compile
+compass watch
+compass compile --force -e production
+compass -h
+compass compile --force -e production
+compass watch
+compass compile --force -e production
+sudo gem install compass_parser
+compass stats
+compass watch
+cp /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-essential/.bowerrc ./.bowerrc
+bower init
+bower search jquery
+bower install jquery#jquery-1.10.2.min.js
+bower install jquery#jquery-1.10.2
+bower install jquery#jquery-1.10
+bower install jquery --save
+bower install jquery#~1.10.2 --save
+bower install jquery#~1.10 --save
+bower install jquery#~1.11.1 --save
+bower install jquery#1.11.1 --save
+bower update
+compass watch
+compass compile --force -e production
+compass watch
+bower install font-awesome
+compass watch
+cd desktop/compass
+sassdoc sass document
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+sass -i
+cd/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+c d/Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+witch zsh
+which zsh
+cd /bin/zsh
+cd /bin
+ls
+cd zsh
+ls -a
+update
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+$template-path = /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass
+var $template-path = /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass
+$template-path = /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass;
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass/sass/base/_typography.scss
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass
+compass watch
+compass stat
+sudo gem install css_parser
+compass stat
+compass compile --force -e production
+compass stat
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass compile --force -e --production
+compass compile --force -e production
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass -v
+gem update compass
+sudo gem update compass
+compass watch
+compass -v
+sass -v
+gem update sass
+sudo gem update sass
+sudo gem update system
+sudo gem update --system
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass grid-img 93.666666667+13x26
+compass -v
+compass grid-img 40+20x28
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+bower search waypoint
+bower install jquery-waypoints
+compass watch
+nano /etc/httpd/conf.d/phpmyadmin.conf
+bower search scrollr
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+bower search scrollr
+bower install scrollr
+npm update -g bower
+sudo npm update -g bower
+compass watch
+bower search enauire
+bower search enquire
+bower insenquire
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass compile --force -e production
+compass watch
+compass compile --force -e production
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass compile
+compass compile --force
+compass watch
+compass version
+compass -v
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass version
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass version
+sudo gem update compass
+compass version
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+compass compile --force -e production
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/template-sass 
+compass watch
+ping 192.168.1.250
+npm -v
+sudo npm install -g coffee-script
+coffee -v
+coffee
+python
+sudo
+sudo npm install --production
+apt-get install asciidoc inkscape
+sudo apt-get install asciidoc inkscape
+sudo xcodebuild -license
+sudo xcrun cc
+sudo xcodebuild -license
+agree
+apt-get install asciidoc inkscape
+apt-get install texlive texlive-xetex texlive-fonts-extra
+curl http://zip.getziptastic.com/v2/US/48867
+curl http://zip.getziptastic.com/v2/TH/10100
+curl http://zip.getziptastic.com/v2/TH/10170
+cd /Volumes/Wanderer_Study/Tutorial/topic/Web/05-JavaScript/3-framework/2-nodejs/TutsPlus\ -\ An\ Introduction\ to\ Node.js/Project\ Files/1-files 
+node sample.js
+touch sample.txt
+node sample.js
+node -v
+mpm -v
+npm -v
+coffee- v
+coffee -v
+coffee which
+which coffee
+which nom
+which npm
+which node
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+node 1-coffee.js
+mv 1-coffee.js 1-coffee.old.js
+ls
+coffee -c 1-coffee.coffee
+ls
+coffee -cw 1-coffee.coffee
+coffee
+coffee -cw 2-type.coffee
+coffee 2-type.coffee
+coffee -cw 2-type.coffee
+cat 2-type.coffee
+cat 2-type.js
+coffee -cw 2-type.coffee
+coffee -cw 3-function.coffee
+coffee 3-function.coffee
+coffee -cw 3-function.coffee
+coffee 3-function.coffee
+coffee -cw 3-function.coffee
+coffee 3-function.coffee
+coffee -cw 3-function.coffee
+sudo npm install -g coffee-script
+coffee -cw 3-function.coffee
+coffee 3-function.coffee
+coffee 4-operators.coffee
+coffee -c 4-operators.coffee
+coffee 4-operators.coffee
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+coffee 5-condition.coffee
+coffee --compile 5-condition.coffee
+coffee -c 6-loops.coffee
+coffee 6-loops.coffee
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+coffee 3-function.coffee
+coffee -c 6-loops.coffee
+coffee 6-loops.coffee
+coffee -c 6-loops.coffee
+coffee 6-loops.coffee
+coffee -ow js/ -c cs/
+coffee -o -w js/ -c cs/
+coffee -w -o js/ -c cs/
+coffee -j js/app.js -c cs/*.coffee
+coffee -w -o js/ -c cs/
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+cd cs
+coffee 8-prototype.coffee
+coffee
+coffee 8-prototype.coffee
+coffee 9-class.coffee
+coffee 10-regexp.coffee
+cake watch
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+cake watch
+coffee
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+coffee -cwo js coffee
+coffee -cwo js cs
+coffee -cow js cs
+coffee -woc js cs
+coffee -cwo js cs
+coffee cs/2-type.coffee
+coffee -cwo js cs
+coffee cs/12-node.coffee
+ls
+cd /
+ls
+cd Applications
+;s
+ls
+cd XAMPP
+ls
+cd xamppfiles
+ls
+cd htdocs
+cd sandbox
+ls
+cd test_coffeescript
+//
+///
+\\
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript
+coffee -cwo js cs
+coffee cs/9-class-advance.coffee
+coffee -cwo js cs
+coffee cs/9-class-advance.coffee
+node cs/9-class-advance.coffee
+node js/9-class-advance.js
+coffee -cwo js cs
+node js/9-class-advance.js
+coffee cs/9-class-advance.coffee
+coffee -cwo js cs
+coffee cs/9-class-advance.coffee
+coffee -cwo js cs
+coffee cs/9-class-advance.coffee
+coffee -cwo js cs
+coffee cs/9-class-advance.coffee
+node Math.min.apply(Math, [14, 35, -7, 46, 98]);
+node console.log( Math.min.apply(Math, [14, 35, -7, 46, 98]))
+node 1+1
+node -v
+node 1 + 1
+coffee
+larvel
+nova boot --flavor nb.2G --image "Ubuntu 14.04 LTS" --key-name MacBook rails-dev
+composer
+sudo composer update
+composer global require "laravel/installer=~1.1"
+sudo composer global require "laravel/installer=~1.1"
+/usr/local/Cellar/composer/1.0.0-alpha8/libexec/composer.phar self-update
+sudo /usr/local/Cellar/composer/1.0.0-alpha8/libexec/composer.phar self-update
+cd /desktop
+ls
+cd Desktop
+composer create-project laravel/laravel your-project-name --prefer-dist
+git -v
+git v
+git
+git --version
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript 
+coffee cs/speedtest.coffee
+coffee -cwo js cs
+coffee cs/speedtest.coffee
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript 
+bower init
+bower install requirejs
+coffee -cwo js cs
+alias sandbox="open /Applications/XAMPP/xamppfiles/htdocs/sandbox"
+sandbox
+cd sandbox
+ls
+cs
+cd /
+cd ~
+ls
+sandbox
+alias cd_coffee="cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript"
+cd_coffee
+coffee -cwo js cs
+test-coffeescript
+alias ls
+coffeescript
+test_coffee
+test_coffee-script
+cd_coffee-script
+cd_sandbox
+sandbox
+cd test-coffee
+ls
+~
+cd_sandbox
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/test_coffeescript 
+r.js -o build.js
+r.js
+npm install -g requirejs
+sudo npm install -g requirejs
+r.js -o build.js
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-angular 
+npm install bower
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/js-angular 
+cat index.html
+help
+--help
+bower install angularjs
+touch index.txt
+mv index.txt index.jtml
+mv index.jtml index.html
+bower install bootstrap
+sudo np updatem -g bower
+sudo npm updatem -g bower
+sudo npm update -g bower
+mkdir img
+<blockquote ng-repeat="review in product.reviews">
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git 
+git clone git@github.com:wandererbear/study-git.git
+ls -al ~/.ssh
+ssh-keygen -t rsa -C "jaturong.poon@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ls -al ~/.ssh
+pbcopy < ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+git clone git@github.com:wandererbear/study-git.git
+cd ..
+cd .
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study 
+git clone git@github.com:wandererbear/study-git.git
+ls
+cd study-git
+vi README.md
+git status
+git add README.md
+git status
+git commit -m "updated README.md from mac"
+git status
+git push
+git log
+git status
+git pull
+git log
+view README.md
+git status
+git checkout "gh-pages"
+git checkout -b "gh-pages"
+git branch
+vi index.html
+git commit -ma "created gh-pages branch and index.html"
+git commit -m -a "created gh-pages branch and index.html"
+git commit -a -m "created gh-pages branch and index.html"
+git status
+git add .
+git status
+git log
+git commit -m "created gh-pages branch and index.html"
+git push
+git push u origin master
+git push -u origin master
+git branch
+git push
+git push -u origin gh-pages
+vi index.html
+git add .
+git push
+git commit -m "update index.html"
+git push
+git push -u origin gh-pages
+git push
+git config --global push.default matching
+git config --global push.default simple
+git push
+git config --global color.ui true
+gitk
+cd ..
+mkdir study-git-codeschool-1/store
+mkdir study-git-codeschool-1
+cd study-git-codeschool-1
+mkdir store
+cd store
+git init
+touch README.txt
+ls
+git status
+git --version
+git update
+git help
+git add README.txt
+git status
+git commit -m "Create a README"
+git status
+vi README,txt
+vi README.txt
+ls
+rm README,txt
+ls
+git status
+touch LICENSE
+git status
+git add --all
+git status
+git commit -m "Add LICENSE and finish README"
+git log
+vi LICENSE
+git status
+git add .
+git commit -m "begin LICENSE"
+vi LICENSE
+git add .
+git commit -m "update LICENSE"
+git log
+git diff
+vi LICENSE
+git diff
+git add .
+git diff
+git diff --staged
+git status
+git reset HEAD LICENSE
+git status
+git checkout -- LICENSE
+git status
+view LICENSE
+vi README.txt
+git commit -a -m "Modify readme"
+git reset --soft HEAD^
+git reset --soft HEAD
+view README.txt
+git log
+git reset --soft HEAD^1
+git status
+git reset --soft HEAD
+git status
+git reset --soft HEAD~
+git status
+gitlog
+git log
+view README.txt
+touch todo.txt
+ls
+git log
+git add todo.txt
+git status
+git commit --amend -m "Modify readme & add todo.txt use --amend"
+git status
+git log
+vi README.txt
+git status
+git add .
+git commit -m "before using reset --hard HEAD~"
+git log
+git reset --hard HEAD~
+git log
+view README.txt
+git remote -v
+git remote add origin git@github.com:wandererbear/git-real-1.git
+git remote -v
+git push -u origin master
+git pull
+git log
+;s
+ls
+mkdir store2
+git clone https://github.com/wandererbear/git-real-1.git git-demo
+ls
+open
+open .
+cd git-demo
+git status
+git log
+git remote -v
+git branch cat
+git branch
+git checkout cat
+echo "Schr
+echo "Schrodinger" > cat.txt
+ls
+view cat.txt
+git add cat.txt
+git commit -m "Create quantum cat."
+git checkout master
+ls
+git log
+git checkout cat
+ls
+git log
+git checkout master
+git merge cat
+git branch -d cat
+git branch
+git log
+git checkout -b admin
+git branch
+ls
+rm dashboard.html
+git add admin/dashboard.html
+touch admin/dashboard.html
+vi
+vi admin/dashboard.html
+ls
+mkdir admin
+touch admin/dashboard.html
+ls
+git add admin/dashboard.html
+git commit -m 'Add dashboard'
+git log
+touch admin/user.html
+git add admin/user.html
+git commit -m 'Add user admin'
+git log
+git checkout master
+git branch
+git pull
+touch store.rb
+ls
+gut add store.rb
+git add store.rb
+git commit -m 'Fix store bug'
+git log
+touch product.rb
+git add product.rb
+git commit -m 'Fix product'
+git push
+git checkout admin
+git checkout master
+bit branch
+ait branch
+git branch
+git merge admin
+ls
+git log
+git status
+git ad --all
+git add --all
+git commit -m "Add store and product models."
+git log
+git push
+git log
+cd ../store
+git log
+echo "abcdefg" > README.txt
+view README.txt
+git status
+git add .
+git commit -m "Update the readme"
+git log
+git push
+git pull
+git log
+git status
+git push
+git log
+gut pull
+git pull
+view README.txt
+cd ../git-demo
+view README.txt
+git add .
+git commit -m "git-demo update readme to xyz"
+gut push
+git push
+git pull
+view README.txt
+git commit -a
+git status
+cd ../store
+git pull
+view README.txt
+cd ../git-demo
+git status
+got push
+git log
+git push
+cd ../store
+git pull
+view README.txt
+echo 'first' > README.txt
+git commit -am "first edit readme'\n
+git commit -am "first edit readme'
+git commit -am "first edit readme"
+git push
+cd ../git-demo
+echo 'second' > README.txt
+git commit -am "second"
+git push
+git pull
+git commit -a
+view README.txt
+git push
+cd ../s
+cd ../store
+git pull
+git log
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git-codeschool-1 
+cd store
+git branch
+git status
+git branch 'test-stash'
+git checkout test-stash
+touch stash.txt
+git add stash.txt
+git status
+git stash
+git checkout master
+git status
+git stash apply
+git status
+git commit -m 'creat and test stash.txt'
+git log
+git branch -d git-stash
+git branch
+git branch -d test-stash
+git branch
+git commit --amend -m 'create stash.txt & test git stash'
+git log
+git remote add git-real-1-clone git@github.com:wandererbear/git-real-1-clone.git
+git remote -v
+git push git-real-1-clone master
+git push
+git fetch git-real-1-clone master
+git status
+ls
+git pull git-real-1-clone master
+git push
+git log
+vi README.txt
+git commit -am 'update README with lastest readme'
+git checkout -- README.txt
+view README.txt
+gi log
+git log
+glg
+git reset --hard HEAD~
+view README.txt
+git add .
+git status
+git checkout -- README.txt
+git loh
+git log
+view README.txt
+git checkout -- README.txt
+view README.txt
+git status
+git reset HEAD README.txt
+git status
+git reset -- README.txt
+view README.txt
+git diff
+git help checkout
+git reset --README.txt
+git reset -- README.txt
+git status
+git checkout -- README.txt
+git diff
+view README.txt
+vi README.txt
+git add .
+git status
+git checkout -- README.txt
+view README.txt
+git reset HEAD .
+git status
+git checkout -- README.txt
+view README.txt
+vi README.txt
+git commit -am 'test reset --hard HEAD'
+git log
+git reset --hard HEAD~
+git log
+view README.txt
+git push
+git checkout -b shopping_cart
+git push origin shopping_cart
+git branch
+gitk
+touch cart.rb
+git commit -am 'Add basic cart ability'
+git status
+git add cart.rb
+git status
+git diff cart.rb
+git commit -ammend
+git log
+git commit --amend "Add basic cart ability"
+git commit --amend -m "Add basic cart ability"
+git log
+git push
+git push origin shopping_cart
+git log
+cd ../git-demo
+git pull
+git branch
+git branch -r
+git checkout shopping_cart
+git branch
+git remote show origin
+vi README.txt
+git commit -am "update readme by jane form shopping_cart branch"
+git push
+git chechout master
+git checkout master
+vi README.txt
+git commit -am 'update readme by jane form master'
+git push
+gco shopping_cart
+gb
+git push origin :shoping_cart
+cd ../store
+git pull
+git branch
+git push origin :shoping_cart
+cd ../git-demo
+git push origin :shopping_cart
+git branch
+git branch -d shopping_cart
+git branch -D shopping_cart
+gco master
+gb
+gb -d shopping_cart
+gb -D shopping_cart
+cd ../store
+git commit -m -a "Add ability to pay"
+git branch
+ls
+echo '##' > cart.rb
+git commit -m -a "Add ability to pay"
+git add .
+git commit -m "Add ability to pay"
+git log
+git push
+git branch
+git remote show origin
+git remote prune origin
+git remote show origin
+git tah
+git tag
+git checkout v0.0.1
+git branch
+gco master
+git merge shopping_cart
+git branch
+git tag -a v0.0.1 -m "version 0.0.1"
+git tag
+git push --tags
+vi README.txt
+git commit -am "test tag"
+git tag -a v0.0.2 -m "version 0.0.2"
+git tag
+git checkout v0.0.2
+git tah
+git tag
+view
+view README.txt
+git checkout v0.0.2
+git log
+view README.txt
+git push --tags
+view README.txt
+git status
+gc -am 'update README from v0.0.2"\n\n'
+git log
+git push --tags
+git push
+git branch
+git status
+view README.txt
+git push --tags
+git checkout v0.0.2
+view README.txt
+git branch
+git config --list
+ls
+ls -la
+cat .gitconfig
+mate
+vim
+emacs
+git config core.editor
+git config --list core.editor
+git config --global core.editor "vim"
+curl -OL http://github.com/git/git/raq/master/contrib/completion/git-completion.bash
+mv ~/git-completion.bash ~/.git-completion.bash
+~/.bash_profile
+~/.bashrc
+sudo ~/.bashrc
+ls -la
+vim .bash_profile
+git help
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git/study-git-lynda-essential 
+git init
+ls -la
+cd .git
+ls -la
+cd ..
+echo 'This is my first file' > first_file.txt
+ls
+view first_file.txt
+git add .
+git status
+git commit -m "Initial commit"
+git log --since=2015
+git log --since=2015-01-01
+git log --until=2015-02-14
+git log --since=3f0cede
+ls -a
+ls -la
+chmod ugo+rwx"first_file.txt"
+ls -la
+chmod ugo+rwx "first_file.txt"
+sudo chmod ugo+rwx"first_file.txt"
+ls -la
+chmod go-wx*txt
+chmod go-wx*.txt
+chmod go-wx"first_file.txt"
+ls -l
+sudo chmod go-wx"first_file.txt"
+ls -la
+sudo chmod go-rwx"first_file.txt"
+ls -l
+sudo chmod go-wx "first_file.txt"
+ls -l
+sudo chmod o+wx *txt
+ls -l
+sudo chmod o= *txt
+ls -la
+ls -la .git
+git log --author="wandererbear"
+'f\ndf\nfdsafdsa\nfdsafsaf'
+git commit --amend -m 'Initial commit\nThis is the initial commit that i use just quote\nin bash to use multipleline til i close my quote\nและลองทดสอบภาษาไทยดู'
+git log
+git commit --amend -m 'Initial commit' -m '' -m 'This is line i create from multiple -m'
+git log
+git log --grep ini
+git log --grep "Ini"
+git commit --amend -m '[txt] Initial Git\n\nTest to use multiplelines commit message and there are good\npractices for message.\n\n*Topic has file type and topic group and topic name < 50 chars\n*Body each line < 72 chars\n*Use * for list'
+git log author="wandererbear"
+git log --author="wandererbear"
+gl --grep "txt"
+gl
+gst
+glg
+glg --grep "txt"
+ls -la
+sudo chmod 777 first_file.txt
+ls -la
+git log --pretty+oneline
+git log --pretty=oneline
+git log --pretty=format:"%d %s"
+git log
+git log --pretty=format:"%d /n %an"
+git log --pretty=format:'%d %an\n%s'
+git log --pretty=oneline
+git log --pretty=format:'%d %an\n%s'
+git log --oneline -p
+git log --oneline -stat
+git log --oneline --stat
+git log --oneline --graph
+git blame first_file.txt --date short
+git blame first_file.txt
+mkdir hidden-folder
+ls
+git status
+git checkout -- first_file.txt
+git status
+ls
+ls -l
+vim .git/info/exclude
+touch hidden-folder/readme.txt
+git status
+ls -la .git
+mkdir logs
+touch logs/test.log
+git status
+vim .gitignore
+git status
+vim .gitignore
+git status
+git config --global alias.lol \\
+"log --graph --decorate --pretty=oneline --abbrev-commit --all"
+git lol
+git log
+git log --graph
+git log --oneline --graph
+git config --global alias.ilog \\
+"log --pretty=format: '%h %s [by %an]' --graph"
+git ilog
+git config --global alias.ilog \\
+"log --pretty=format: '%h %s [%an]' --graph"
+git ilog
+git config --global alias.ilog \\
+"log --pretty=format:'%h %s [%an]' --graph"
+git ilog
+git config --global alias.ilog \\
+"log --pretty=format:'%h %s [by %an]' --graph"
+git ilog
+git config --global alias.ilog \\
+"log --pretty=format:'%h %s [by %an] <@ %ad>' --graph"
+git ilog
+git config --global alias.ilog \\
+"log --pretty=format:'%h %s [by %an] <%ad>' --abbrev-commit --graph"
+git ilog
+cd /Applications/XAMPP/xamppfiles/htdocs/sandbox/study/study-git/study-git-lynda-essential 
+brew update git
+brew upgrade git
+sudo brew upgrade git
+brew help
+sudo
+brew list
+brew update
+ls -la /Applications/GitHub.app/Contents/Resources/git/bin/
+chmod 777 /usr/local
+brew doctor
+brew link git
+which git
+git --version
+brew upgrade git
+ls -la /usr/local/lib/perl5/
+chmod 777 /usr/local/lib/perl5/site_perl/5.16.2
+chmod 777 /usr/local/lib/perl5/site_perl
+sudo chmod 777 /usr/local/lib/perl5/site_perl
+ls -la /usr/local/lib/perl5/
+brew upgrade git
+git --version
+brew unlink git
+brew list
+brew install git
+brew link kit
+brew link git
+git --version
+which git
+~/.bash_profile 
+source ~/.bash_profile
+brew install git
+brew link git
+brew link --overwrite git 
+brew link --overwrite --dry-run git
+brew link git
+git --version
+brew help
+brew uninstall git
+brew uninstall --force git
+git --version
+which git
+brew list
+echo $PATH
+view ~/.zshrc
+cd ..
+cd .
+cd..
+cd...
+cd....
+cd..
+cd.
+which git
+git --version
+if [ ! -r "/usr/local/git" ]; thecho "Git doesn't appear to be installed via this instalAbortinexit 1\nfi
+echo "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"
+printf "Type 'yes' if you are sure you wish to continue: "
+read response
+if [ ! -r "/usr/local/git" ]; thecho "Git doesn't appear to be installed via this instalAbortinexit 1\nfi
+echo "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"
+printf "Type 'yes' if you are sure you wish to continue: "
+read response
+if [ ! -r "/usr/local/git" ]; thecho "Git doesn't appear to be installed via this instalAbortinexit 1\nfi
+echo "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"
+printf "Type 'yes' if you are sure you wish to continue: "
+read response
+git --version
+view /bin/ba
+view /bin/bash
+/Volumes/Git\ 2.2.1\ Mavericks\ Intel\ Universal/uninstall.sh; exit;
+if [ ! -r "/usr/local/git" ]; thecho "Git doesn't appear to be installed via this instalAbortinexit 1\nfi
+which git
+git --version
+cd /usr/bin/
+ls -la
+whoami
+root
+sudo
+iterm
+iTerm
+history
+/usr/bin/whoami ; exit;
+whoami
+echo 1+1
+1+1
+echo $a = 1
+$a
+echo $a
+$a = 1
+view ~/.profile
+vi ~/.profile
+goto-study
+vi ~/.profile
+goto-study
+ls -la
+vi .zshrc
+vi ~/.zshrc
+view ~/.zshrc
+goto-study
+view ~/.zshrc
+gotostudy
+pwd
+vi ~/.zshrc
+goto-study
+vi ~/.zshrc
+goto-edu
+zshconfig
+vi ~/.zshrc
+zshconfig
+vi ~/.zshrc
+zshconfig
+ohmyzsh
+goto-study
+ls -la
+touch testvim.txt
+vi testvim.txt
+view testvim.txt
+vi testvim.txt
+rm testvim.txt
+ls
+clear
+a=10
+echo a
+echo $a
+function hello { echo hello }
+hello
+function hello(a) { echo hello $a }
+function hello(a) { echo hello }
+function hello($a) { echo hello }
+hello a
+hello $a
+fucnction hello a { echo hello a }
+fucnction hello a { echo hello $a }
+fucnction hello a { echo hello }
+fucnction hello $a { echo hello }
+fucnction hello $a { echo hello $a}
+foo()echo "Parameter #1 is $1"\n}
+foo 2
+bar() {\ncd $1\n}
+foo study-git
+bar study-git
+bar() {
+if [ ! -r "/usr/local/git" ]; thecho "Git doesn't appear to be installed via this instalAbortinexit 1\nfi
+uninstallgit() {\nif [ ! -r "/usr/local/git" ]; thecho "Git doesn't appear to be installed via this instalAbortinexit 1\nfi\necho "This will uninstall git by removing /usr/local/git/**/*, /etc/paths.d/git, /etc/manpaths.d/git"\nprintf "Type 'yes' if you are sure you wish to continue: "\nread response\nif [ "$response" == "yes" ]; thsudo rm -rf /usr/local/gisudo rm /etc/paths.d/gsudo rm /etc/manpaths.d/gpkgutil --packages | grep GitOSX.Installer | xargs -I {} sudo pkgutil --forget echo "Uninstalled"\nelecho "Aborteexit 1\nfi\n\nexit 0\n}
+uninstallgit
+if [ ! -r "/usr/local/git" ]; thecho "Git doesn't appear to be installed via this instalAbortinexit 1\nfi
+git --version
+for i in $( ls ); do\necho item: $i\ndone
+a=10
+for i in $a; do\necho $i\ndone
+for i in $(a); do\necho $i\ndone
+$a
+echo $a
+for i in 10; do\necho $i\ndone
+for i in `seq 1 10echo 
