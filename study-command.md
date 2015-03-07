@@ -166,9 +166,9 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 * staged > unstaged > modified `git reset HEAD`
 * staged > modified > last commit `git reset --`
 
-#### after commit
-* modified commit > unmodified commit `git reset --soft HEAD~`
-* modified commit > last commit `git reset --hard HEAD~`
+#### after commit จะ staged ใหม่หรือยังก้อได้
+* unstage โดย keep modified `git reset --soft HEAD~`
+* unstage โดย delete modified `git reset --hard HEAD~`
 
 ###git log
 * ดูlogแค่ 5 อันล่าสุด `git log -n 5`
