@@ -259,8 +259,53 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 	cal MySQL server through socket '/tmp/mysql.sock' (2)
 	mysql -uroot
 	mysqladmin -uroot password
-	note: user is root & pw is 1234
+
+การใช้งานพิมพ์นี่หมายถึง log in ด้วย root'@'localhost แล้วใส่ pw เช่น 1234
 	mysql -uroot -p
+
+หลังจากนี้จะเป็น mysql prompt > ถ้า -> หมายถึงต่อบรรทัดเวลาพิมพ์ต้อง ; เพื่อจบประโยค
+
+* ดู DB ทั้งหมด `SHOW DATABASES`
+* เลือกใช้ นั้นๆให้ `USE ชื่อDB`
+* ดู table ทั้งหมดใน DB นั้นๆ `SHOW TABLES`
+* ทดสอบการสร้างตาราง -> หมายถึงคนละบรรทัดใช้ enter เว้นได้
+
+```
+	>  CREATE TABLE pet (name VARCHAR(20), 
+	-> owner VARCHAR(20),
+  -> species VARCHAR(20),
+  -> sex CHAR(1),
+  -> birth DATE,
+  -> death DATE);
+```
+
+* ดูรายละเอียด(ไม่ใช่ data ข้างใน) ตารางโดย `DESCRIBE pet`
+
+```
+	+---------+-------------+------+-----+---------+-------+
+	| Field   | Type        | Null | Key | Default | Extra |
+	+---------+-------------+------+-----+---------+-------+
+	| name    | varchar(20) | YES  |     | NULL    |       |
+	| owner   | varchar(20) | YES  |     | NULL    |       |
+	| species | varchar(20) | YES  |     | NULL    |       |
+	| sex     | char(1)     | YES  |     | NULL    |       |
+	| birth   | date        | YES  |     | NULL    |       |
+	| death   | date        | YES  |     | NULL    |       |
+	+---------+-------------+------+-----+---------+-------+
+```
+
+* ลงข้อมูล
+
+```
+	> INSERT INTO pet
+  -> VALUES ('Puffball','Diane','hamster','f','1999-03-30',NULL);
+```
+
+* ดูข้อมูลในตาราง `SELECT * FROM pet`
+* ออกจาก mysql `EXIT`
+
+
+
 -----
 
 #gem
