@@ -12,7 +12,7 @@
 	brew install mysql
 	brew uninstall node
 	brew update
-	brew doctor
+	brew doctor	
 	brew prune
 	brew install node
 -----
@@ -44,6 +44,16 @@
 	rm -rfv test
 	ls -lahS
 	ln -s test-ln.txt link.txt
+
+### du(directory usage stat)
+
+* -s: ดูแบบ summary
+* -h: ดูขาดไฟล์แบบมีหน่วย
+* -d 1: ดู directory 1 ชั้น
+
+ดู pwd นี้ว่า ขนาดรวมเท่าไร่ `du -sh`
+
+ดู pwd นี้ว่า ขนาดแต่ละfolderเท่าไร่ `du -d 1 -h`
 
 ###permission
 * read = 4, write = 2, execute = 1
@@ -86,6 +96,8 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 	goto-study
 	google yn 568 ex ii
 	youtube yn 568 ex ii
+	size-all
+	size-this
 -----
 
 #oh-my-zsh
