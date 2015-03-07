@@ -96,6 +96,7 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 	goto-study
 	google yn 568 ex ii
 	youtube yn 568 ex ii
+	imdb movie
 	size-all
 	size-this
 -----
@@ -392,6 +393,7 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 #bower
 	touch .bowerrc
 	vi .bowerrc
+	bower init
 -----
 
 #grunt
