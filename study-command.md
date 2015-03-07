@@ -170,6 +170,12 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 * unstage โดย keep modified `git reset --soft HEAD~`
 * unstage โดย delete modified `git reset --hard HEAD~`
 
+###git merge
+* branch ใหม่จะรวม commit msg เข้ามา
+
+### git branch
+* branch ใหม่ไฟล์ที่ยังไม่ add แต่ modified แล้ว เวลาย้าย branch จะไม่ได้ revert ไฟล์นั้น มา add ไฟล์ที่ modified นั้นใน brach ที่เพิ่งย้ายมาได้
+
 ###git log
 * ดูlogแค่ 5 อันล่าสุด `git log -n 5`
 * ดูlogเมื่อ 1ชม ที่แล้ว `git log --since 1.hour.ago`
