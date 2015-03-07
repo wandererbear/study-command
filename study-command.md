@@ -170,6 +170,9 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 * unstage โดย keep modified `git reset --soft HEAD~`
 * unstage โดย delete modified `git reset --hard HEAD~`
 
+### git check out
+* ถ้าไม่ต้องการย้ายไปอดีตถาวรเพียงไปเอาไฟล์บางอย่างให้ `git checkout <รหัส HEAD หรือจุดที่จะไป>` เส็ดแล้วก้อสามารถ checkout กลับมาได้
+
 ###git merge
 * branch ใหม่จะรวม commit msg เข้ามา
 
