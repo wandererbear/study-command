@@ -270,6 +270,28 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 	mysql -uroot
 	mysqladmin -uroot password
 
+### edu
+
+#### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014
+```
+	select * from work
+	group by c_phone1 
+	having date_format(work_time, '%y') = '14'
+```
+
+#### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014/02 โดยไม่เอาพวกสถาบันโรงเรียนและเอาแค่บางวิชา
+```
+	select * from work
+	where work_id like '%EN%' 
+	or work_id like '%JP%' 
+	and `name_company` not like '%สถาบัน%'
+	and `name_contact` not like '%สถาบัน%'
+	group by c_phone1 
+	having date_format(work_time, '%m') = '02' 
+	and date_format(work_time, '%y') = '14'
+```
+
+
 การใช้งานพิมพ์นี่หมายถึง log in ด้วย root'@'localhost แล้วใส่ pw เช่น 1234
 	mysql -uroot -p
 
