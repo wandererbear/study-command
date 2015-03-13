@@ -291,6 +291,22 @@ chmod [u|g|o|a] [+|-|=] [r|w|x] <file rwxrwxrwx>
 	and date_format(work_time, '%y') = '14'
 ```
 
+# mysql หาข้อมูล
+
+### ค้นหาเบอร์โทรที่ไม่ซ้ำและไม่เป็นสถาบันเรียงจากงานล่าสุด
+
+สังเกตุว่าถ้าเรากำหนดเงื่อนไข having ไว้จะทำให้
+เวลา select ต้องมี field นั้นอยู่ด้วย ไม่งั้น error
+
+```
+select name_contact, c_phone1, place from work group by c_phone1 having place not like '%สถาบัน%' order by work_time DESC
+```
+
+### เลือกเวลาสุดท้ายที่ลงงาน
+
+```
+select work_time from work order by work_time desc limit 1
+```
 
 การใช้งานพิมพ์นี่หมายถึง log in ด้วย root'@'localhost แล้วใส่ pw เช่น 1234
 	mysql -uroot -p
