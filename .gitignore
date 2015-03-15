@@ -1,4 +1,3 @@
-history.txt
-command.txt
+*.txt
 study-command.sublime-project
 study-command.sublime-workspace
