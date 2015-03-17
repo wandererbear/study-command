@@ -22,7 +22,7 @@ mysqladmin -uroot password
 
 #### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014
 
-```
+``` mysql
 SELECT * FROM work
 GROUP BY c_phone1 
 HAVING date_format(work_time, '%y') = '14'
