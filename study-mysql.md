@@ -31,15 +31,15 @@ SHOW DATABASES
 
 จะเจออะไรประมาณนี้
 ```
-	+--------------------+
-	| Database           |
-	+--------------------+
-	| information_schema |
-	| mysql              |
-	| performance_schema |
-	| test               |
-	+--------------------+
-	5 rows in set (0.20 sec)
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| test               |
++--------------------+
+5 rows in set (0.20 sec)
 ```
 
 ถ้าเราไม่อยากแจ้งเตื่อน error ใส่ IF NOT EXISTS ไปด้วย
@@ -124,40 +124,40 @@ DESCRIBE ≤ชื่อตาราง≥
 
 	* SET: แนวcheckbox เลือกได้หลายตัวเลือกจากทั้งหมด
 
-	การสร้าง
+		การสร้าง
 
-	```
-	CREATE TEMPORARY TABLE test2 
-	(
-	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
-	data SET('ant','book','cat')
-	);
-	```
-	
-	การเพิ่ม
-	* อยากได้ตัวแรก 2 ^ 0
-	* อยากได้ตัวสอง 2 ^ 1
-	* แบบนี้ไปเรื่อยๆ แล้วบวกเลขได้ผลรวมไหนก็ได้ set นั้น
+		```
+		CREATE TEMPORARY TABLE test2 
+		(
+		id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+		data SET('ant','book','cat')
+		);
+		```
+		
+		การเพิ่ม
+		* อยากได้ตัวแรก 2 ^ 0
+		* อยากได้ตัวสอง 2 ^ 1
+		* แบบนี้ไปเรื่อยๆ แล้วบวกเลขได้ผลรวมไหนก็ได้ set นั้น
 
-	```
-	INSERT INTO test2 SET data = 1;
-	INSERT INTO test2 SET data = 3;
-	INSERT INTO test2 SET data = 7;
-	```
+		```
+		INSERT INTO test2 SET data = 1;
+		INSERT INTO test2 SET data = 3;
+		INSERT INTO test2 SET data = 7;
+		```
 
-	การเปิดดู
+		การเปิดดู
 
-	```
-	SELECT ≤*≥ FROM ≤ชื่อตาราง≥
+		```
+		SELECT ≤*≥ FROM ≤ชื่อตาราง≥
 
-	+----+--------------+
-	| id | data         |
-	+----+--------------+
-	|  1 | ant          |
-	|  2 | ant,book     |
-	|  3 | ant,book,cat |
-	+----+--------------+
-	```
+		+----+--------------+
+		| id | data         |
+		+----+--------------+
+		|  1 | ant          |
+		|  2 | ant,book     |
+		|  3 | ant,book,cat |
+		+----+--------------+
+		```
 
 4. DATE
 	* DATE
@@ -196,44 +196,44 @@ DESCRIBE ≤ชื่อตาราง≥
 แบบรวม attribute ไว้หลังแต่ละ field
 
 ```
-	CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
-	(
-	≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT» «PRIMARY KEY»,
-	≤name≥ «VARCHAR(10)» DEFAULT 'abc',
-	≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
-	≤nickname≥ «VARCHAR(10)» BINARY,
-	≤phone≥ «INT(10)» UNSIGNED,
-	) «ENGINE = «MYISAM || INNODB»»
+CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
+(
+≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT» «PRIMARY KEY»,
+≤name≥ «VARCHAR(10)» DEFAULT 'abc',
+≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
+≤nickname≥ «VARCHAR(10)» BINARY,
+≤phone≥ «INT(10)» UNSIGNED,
+) «ENGINE = «MYISAM || INNODB»»
 ```
 
 แบบรวม attribute ไว้ตอนจบสามารถรวมcolumn เพื่อกำหนดสิทธิได้
 
 ```
-	CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
-	(
-	≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT»,
-	≤name≥ «VARCHAR(10)» DEFAULT 'abc',
-	≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
-	≤nickname≥ «VARCHAR(10)» BINARY,
-	≤phone≥ «INT(10)» UNSIGNED,
+CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
+(
+≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT»,
+≤name≥ «VARCHAR(10)» DEFAULT 'abc',
+≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
+≤nickname≥ «VARCHAR(10)» BINARY,
+≤phone≥ «INT(10)» UNSIGNED,
 
-	PRIMARY KEY(≤name≥, ≤surname≥),
-	INDEX(≤name≥),
-	UNIQUE(≤surname≥, ≤phone≥)
-	) «ENGINE = «MYISAM || INNODB»»
+PRIMARY KEY(≤name≥, ≤surname≥),
+INDEX(≤name≥),
+UNIQUE(≤surname≥, ≤phone≥)
+) «ENGINE = «MYISAM || INNODB»»
 ```
 
 แบบสร้างมาจากบางส่วยของตารางอื่น
 
 ```
-	CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
-		SELECT ≤เอามาบางcolumn≥, ≤เอามาบางcolumn≥ 
-		FROM «ชื่อตาราง»
-		«WHERE»	
-		«GROUP BY»	
-		«HABING»	
-		«ORDER BY»	
-		«LIMIT»	
+CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
+	SELECT ≤เอามาบางcolumn≥, ≤เอามาบางcolumn≥ 
+	FROM «ชื่อตาราง»
+	«WHERE»	
+	«GROUP BY»	
+	«HABING»	
+	«ORDER BY»	
+	«LIMIT»	
 ```
 
 
