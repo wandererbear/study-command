@@ -1,5 +1,7 @@
 #mysql
 
+## Basic Install
+
 ```
 brew install mysql
 gem install mysql2
@@ -13,7 +15,10 @@ mysql -uroot
 mysqladmin -uroot password
 ```
 
-### edu
+## Basic Command
+
+
+## edu mysql
 
 #### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014
 
@@ -23,7 +28,7 @@ mysqladmin -uroot password
 	having date_format(work_time, '%y') = '14'
 ```
 
-#### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014/02 
+### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014/02 
 
 โดยไม่เอาพวกสถาบันโรงเรียนและเอาแค่บางวิชา
 
@@ -38,7 +43,6 @@ mysqladmin -uroot password
 	and date_format(work_time, '%y') = '14'
 ```
 
-# mysql หาข้อมูล
 
 ### ค้นหาเบอร์โทรที่ไม่ซ้ำและไม่เป็นสถาบันเรียงจากงานล่าสุด
 
@@ -55,7 +59,7 @@ select name_contact, c_phone1, place from work group by c_phone1 having place no
 select work_time from work order by work_time desc limit 1
 ```
 
-การใช้งานพิมพ์นี่หมายถึง log in ด้วย root'@'localhost แล้วใส่ pw เช่น 1234
+การใช้งานพิมพ์นี่หมายถึง log in ด้วย `root'@'localhost` แล้วใส่ pw เช่น 1234
 	mysql -uroot -p
 
 หลังจากนี้จะเป็น mysql prompt > ถ้า -> หมายถึงต่อบรรทัดเวลาพิมพ์ต้อง ; เพื่อจบประโยค
@@ -66,12 +70,12 @@ select work_time from work order by work_time desc limit 1
 * ทดสอบการสร้างตาราง -> หมายถึงคนละบรรทัดใช้ enter เว้นได้
 
 ```
-	>  CREATE TABLE pet (name VARCHAR(20), 
-	-> owner VARCHAR(20),
-  -> species VARCHAR(20),
-  -> sex CHAR(1),
-  -> birth DATE,
-  -> death DATE);
+	CREATE TABLE pet (name VARCHAR(20), 
+	owner VARCHAR(20),
+	species VARCHAR(20),
+	sex CHAR(1),
+	birth DATE,
+	death DATE);
 ```
 
 * ดูรายละเอียด(ไม่ใช่ data ข้างใน) ตารางโดย `DESCRIBE pet`
@@ -92,8 +96,8 @@ select work_time from work order by work_time desc limit 1
 * ลงข้อมูล
 
 ```
-	> INSERT INTO pet
-  -> VALUES ('Puffball','Diane','hamster','f','1999-03-30',NULL);
+	INSERT INTO pet
+	VALUES ('Puffball','Diane','hamster','f','1999-03-30',NULL);
 ```
 
 * ดูข้อมูลในตาราง `SELECT * FROM pet`
