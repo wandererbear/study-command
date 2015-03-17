@@ -17,6 +17,24 @@ mysqladmin -uroot password
 
 ## Basic Command
 
+### Databases
+### Tables
+### CRUD
+### SELECT
+### SELECT Advance 
+### SQL Function 
+### View 
+### Transaction 
+### Stored Procedures & Trigger 
+### GRANT & REVOKE
+### BACK UP/ RESTORE/ CHECK/ REPAIR
+
+## PHP with MYSQL Basic
+## PHP with MYSQL PDO
+## Laravel with MYSQL
+## jQuery AJAX with MYSQL
+## Angular JS with MYSQL
+## ROR with MYSQL
 
 ## edu mysql
 
