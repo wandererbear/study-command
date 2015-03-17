@@ -173,6 +173,8 @@ DESCRIBE ≤ชื่อตาราง≥
 		* TIMESTAMP(4): YYMM
 		* TIMESTAMP(2): YY
 
+	DATE เวลาใส่ข้อมูลให้เรียงตามลำดับ `INSERT INTO ≤ชื่อตาราง≥ VALUES (2015-01-31)`
+
 5. Binary Large OBject
 	* BLOB(64KB)
 	* TINYBLOB(1b)
@@ -193,12 +195,25 @@ DESCRIBE ≤ชื่อตาราง≥
 
 ##### สร้างตาราง
 
+ENGINE มีหลักๆสองแบบ ได้แก่
+1. MyISAM
+	* Table compression
+	* full-text serarching
+	* default for mysql
+
+2. InnoDB(เดดกว่า)
+	* Transactiion(Commit & Rollback)
+	* Partial Rollback ด้วยคำสั่ง `Savepoint`
+	* Automatic Recovery
+	* Foreign Keys
+	* Locking เช่น update ตารางจะเปิดดูตางรางตอนนั้นไม่ได้ทำงานเป็นอย่างๆ
+
 แบบรวม attribute ไว้หลังแต่ละ field
 
 ```
 CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
 (
-≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT» «PRIMARY KEY»,
+≤id≥ «INT» «NOT NULL» «AUTO_INCREMENT» «PRIMARY KEY»,
 ≤name≥ «VARCHAR(10)» DEFAULT 'abc',
 ≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
 ≤nickname≥ «VARCHAR(10)» BINARY,
@@ -211,7 +226,7 @@ CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
 ```
 CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
 (
-≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT»,
+≤id≥ «INT» «NOT NULL» «AUTO_INCREMENT»,
 ≤name≥ «VARCHAR(10)» DEFAULT 'abc',
 ≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
 ≤nickname≥ «VARCHAR(10)» BINARY,
@@ -239,6 +254,14 @@ CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
 
 ##### เปลี่ยนแปลงตาราง
 
+ทุกคำสั่งขึ้นต้นด้วย `ALTER TABLE ≤ชื่อตาราง≥`
+1. Change Table Name `ALTER TABLE ≤ชื่อตาราง≥ RENAME ≤ชื่อตารางใหม่≥`
+2. Change Column Type `ALTER TABLE ≤ชื่อตาราง≥ MODIFY ≤ชื่อ column≥ ≤ชนิดใหม่≥`
+3. Change Column Name & Type `ALTER TABLE ≤ชื่อตาราง≥ CHANGE ≤ชื่อ columnเดิม≥ ≤ชื่อ columnใหม่≥ ≤ชนิดใหม่≥`
+4. Add Column `ALTER TABLE ≤ชื่อตาราง≥ ADD COLUMN ≤ชื่อ column≥ ≤ชนิดใหม่≥`
+5. Delete Column `ALTER TABLE ≤ชื่อตาราง≥ DROP COLUMN ≤ชื่อ column≥`
+
+
 ##### ล้างเฉพาะข้อมูลทั้งหมดใน table
 
 ```
@@ -251,12 +274,59 @@ TRUNCATE TABLE ≤ชื่อตาราง≥
 DROP TABLE ≤ชื่อตาราง≥
 ```
 
+### View 
+บางครั้งเราอยากสร้างตารางจากตารางเดิมเพื่อง่ายต่อการดูข้อมูลเวลา join เยอะๆ
+เราจะไม่สร้างตารางใหม่แต่เราจะสร้าง view แทนซึ่งใช้เปิดดูได้เหมือนตารางเลย
+
+การสร้าง view
+```
+CREATE VIEW ≤ชื่อ view≥
+«(≤ชื่อ column ใหม่≥,≤ชื่อ column ใหม่≥,...)» #กำหนดชื่อหัวข้อviewอาจไม่มีก็ได้
+AS
+	SELECT ≤ชื่อ column≥, ≤ชื่อ column≥, ... 
+	FROM ≤ชื่อตาราง≥
+	«WHERE»	
+	«GROUP BY»	
+	«HABING»	
+	«ORDER BY»	
+	«LIMIT»
+```
+
+การแก้ไขข้อมูล view
+```
+CREATE OR REPLACE VIEW ≤ชื่อ view≥
+«(≤ชื่อ column ใหม่≥,≤ชื่อ column ใหม่≥,...)» #กำหนดชื่อหัวข้อviewอาจไม่มีก็ได้
+AS
+	SELECT ≤ชื่อ column≥, ≤ชื่อ column≥, ... 
+	FROM ≤ชื่อตาราง≥
+	«WHERE»	
+	«GROUP BY»	
+	«HABING»	
+	«ORDER BY»	
+	«LIMIT»
+```
+
+การดูว่ามี view ไหนบ้างเหมือน table
+```
+SHOW TABLES
+```
+
+เวลาเปิดดูทำเหมือนเปิดตารางเลยปกติ
+```
+SELECT ≤*≥ FROM ≤ชื่อ view≥
+```
+
+เวลาลบ view
+```
+DROP VIEW ≤ชื่อ view≥
+```
+
 
 ### CRUD
 ### SELECT
 ### SELECT Advance 
 ### SQL Function 
-### View 
+
 ### Transaction 
 ### Stored Procedures & Trigger 
 ### GRANT & REVOKE
