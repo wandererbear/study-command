@@ -86,7 +86,7 @@ end
 
 ไปยัง Vagrantfile
 
-```
+``` ruby
 Vagrant.configure(2) do |config|
 	# กำหนดให้เวลาใช้คำสั่ง vagrant provision จะ run คำสั่ง shell แบบ inline
 	config.vm.provision :shell, inline: "echo 'Hello World!'"
