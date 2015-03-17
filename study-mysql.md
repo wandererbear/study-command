@@ -23,9 +23,9 @@ mysqladmin -uroot password
 #### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014
 
 ```
-select * from work
-group by c_phone1 
-having date_format(work_time, '%y') = '14'
+SELECT * FROM work
+GROUP BY c_phone1 
+HAVING date_format(work_time, '%y') = '14'
 ```
 
 ### ต้องการหาลูกค้าไม่ซ้ำกันโดยโชว์แค่ปี 2014/02 
@@ -33,30 +33,35 @@ having date_format(work_time, '%y') = '14'
 โดยไม่เอาพวกสถาบันโรงเรียนและเอาแค่บางวิชา
 
 ```
-select * from work
-where work_id like '%EN%' 
-or work_id like '%JP%' 
-and `name_company` not like '%สถาบัน%'
-and `name_contact` not like '%สถาบัน%'
-group by c_phone1 
-having date_format(work_time, '%m') = '02' 
-and date_format(work_time, '%y') = '14'
+SELECT * FROM work
+WHERE work_id like '%EN%' 
+OR work_id like '%JP%' 
+AND `name_company` not like '%สถาบัน%'
+AND `name_contact` not like '%สถาบัน%'
+GROUP BY c_phone1 
+HAVING date_format(work_time, '%m') = '02' 
+AND date_format(work_time, '%y') = '14'
 ```
 
 
 ### ค้นหาเบอร์โทรที่ไม่ซ้ำและไม่เป็นสถาบันเรียงจากงานล่าสุด
 
-สังเกตุว่าถ้าเรากำหนดเงื่อนไข having ไว้จะทำให้
-เวลา select ต้องมี field นั้นอยู่ด้วย ไม่งั้น error
+สังเกตุว่าถ้าเรากำหนดเงื่อนไข HAVING ไว้จะทำให้
+เวลา SELECT ต้องมี field นั้นอยู่ด้วย ไม่งั้น error
 
 ```
-select name_contact, c_phone1, place from work group by c_phone1 having place not like '%สถาบัน%' order by work_time DESC
+SELECT name_contact, c_phone1, place 
+FROM work GROUP BY c_phone1 
+HAVING place not like '%สถาบัน%' 
+ORDER BY work_time DESC
 ```
 
 ### เลือกเวลาสุดท้ายที่ลงงาน
 
 ```
-select work_time from work order by work_time desc limit 1
+SELECT work_time 
+FROM work 
+ORDER BY work_time DESC LIMIT 1
 ```
 
 การใช้งานพิมพ์นี่หมายถึง log in ด้วย `root'@'localhost` แล้วใส่ pw เช่น 1234
@@ -70,12 +75,15 @@ select work_time from work order by work_time desc limit 1
 * ทดสอบการสร้างตาราง -> หมายถึงคนละบรรทัดใช้ enter เว้นได้
 
 ```
-CREATE TABLE pet (name VARCHAR(20), 
+CREATE TABLE pet 
+(
+name VARCHAR(20), 
 owner VARCHAR(20),
 species VARCHAR(20),
 sex CHAR(1),
 birth DATE,
-death DATE);
+death DATE
+);
 ```
 
 * ดูรายละเอียด(ไม่ใช่ data ข้างใน) ตารางโดย `DESCRIBE pet`
@@ -96,8 +104,8 @@ death DATE);
 * ลงข้อมูล
 
 ```
-INSERT INTO pet
-VALUES ('Puffball','Diane','hamster','f','1999-03-30',NULL);
+INSERT INTO pet VALUES 
+('Puffball','Diane','hamster','f','1999-03-30',NULL);
 ```
 
 * ดูข้อมูลในตาราง `SELECT * FROM pet`
