@@ -11,14 +11,43 @@ mysql --version
 ln -sfv /usr/local/opt/mysql/*.plist ~/Library/LaunchAgents
 launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mysql.plist
 cal MySQL server through socket '/tmp/mysql.sock' (2)
-mysql -uroot
-mysqladmin -uroot password
+
+### Login
+1. ไม่ต้องใช้ password `mysql -u≤root≥`
+2. การตั้ง password `mysqladmin -u≤root≥ password`
+3. ใส่ password ให้เห็นเลย `mysql -u≤root≥ -p≤root≥`
+4. ใส่ password แบบซ่อน `mysql -u≤root≥ -p` แล้วจะมีให้กรอก password
+5. login ผ่าน xamp `/Applications/xampp/xamppfiles/bin/mysql -u≤root≥ -p`
 ```
 
 ## Basic Command
 
 ### Databases
+ตรวจสอบว่ามี databases ชื่ออะไรบ้าง เหมือน ชื่อ folder เก็บงาน
+`SHOW DATABASES`
+
+จะเจออะไรประมาณนี้
+```
+	+--------------------+
+	| Database           |
+	+--------------------+
+	| information_schema |
+	| mysql              |
+	| performance_schema |
+	| test               |
+	+--------------------+
+	5 rows in set (0.20 sec)
+```
+
+ถ้าเราไม่อยากแจ้งเตื่อน error ใส่ IF NOT EXISTS ไปด้วย
+`CREATE DATABASE «IF NOT EXISTS» ≤ชื่อที่อยากตั้งเช่น simplify_mysql≥`
+
+ระบุชื่อ databases ที่อยากใช้
+`USE ≤simplify_mysql≥`
+
 ### Tables
+ตรวจสอบว่ามี tables ชื่ออะไรบ้าง ใน db นั้นๆ
+`SHOW TABLES`
 ### CRUD
 ### SELECT
 ### SELECT Advance 
