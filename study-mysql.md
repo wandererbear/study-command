@@ -70,21 +70,183 @@ DESCRIBE ≤ชื่อตาราง≥
 
 #### ทำความเข้าใจพื้นฐาน
 ##### ชนิดของข้อมูล
+1. Number
+	* TINYINT(127)
+	* SMALLINT(32,767)
+	* MEDIUMINT(8,388,607)
+	* INT(2,147,483,647)
+	* BIGINT(9,223,372,036,854,775,807)
+	* FLOAT(7,4): 123.4567 7คือเลขทั้งหมดไม่รวม -/. 4คือ ทศนิยม
+	* DOUBLE(7,4): 123.4567 7คือเลขทั้งหมดไม่รวม -/. 4คือ ทศนิยม
+
+2. String
+	* CHAR(255): ถ้าใช้ไม่ครบมันจะเติมช่องว่างจนเต็มเลยไม่นิยม
+	* VARCHAR(255)
+	* TINYTEXT(255)
+	* TEXT(65,535)
+	* MEDIUMTEXT(16,777,215)
+	* LONGTEXT(4,294,967,295)
+
+3. ARRAY
+	* ENUM: แนวradio เลือกได้1จากทั้งหมด เริ่มจาก 1
+		
+		การสร้าง
+
+		```
+		CREATE TEMPORARY TABLE test 
+		(
+		id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+		data ENUM('ant','book','cat')
+		);
+		```
+		
+		การเพิ่ม
+
+		```
+		INSERT INTO ≤ชื่อตาราง≥ SET ≤ชื่อฟิลด์≥ = 1
+		INSERT INTO ≤ชื่อตาราง≥ SET ≤ชื่อฟิลด์≥ = 2
+		INSERT INTO ≤ชื่อตาราง≥ SET ≤ชื่อฟิลด์≥ = 3
+		```
+
+		การเปิดดู
+
+		```
+		SELECT ≤*≥ FROM ≤ชื่อตาราง≥
+
+		+----+------+
+		| id | data |
+		+----+------+
+		|  1 | ant  |
+		|  2 | book |
+		|  3 | cat  |
+		+----+------+
+		```
+
+	* SET: แนวcheckbox เลือกได้หลายตัวเลือกจากทั้งหมด
+
+	การสร้าง
+
+	```
+	CREATE TEMPORARY TABLE test2 
+	(
+	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+	data SET('ant','book','cat')
+	);
+	```
+	
+	การเพิ่ม
+	* อยากได้ตัวแรก 2 ^ 0
+	* อยากได้ตัวสอง 2 ^ 1
+	* แบบนี้ไปเรื่อยๆ แล้วบวกเลขได้ผลรวมไหนก็ได้ set นั้น
+
+	```
+	INSERT INTO test2 SET data = 1;
+	INSERT INTO test2 SET data = 3;
+	INSERT INTO test2 SET data = 7;
+	```
+
+	การเปิดดู
+
+	```
+	SELECT ≤*≥ FROM ≤ชื่อตาราง≥
+
+	+----+--------------+
+	| id | data         |
+	+----+--------------+
+	|  1 | ant          |
+	|  2 | ant,book     |
+	|  3 | ant,book,cat |
+	+----+--------------+
+	```
+
+4. DATE
+	* DATE
+	* TIME
+	* DATETIME
+	* YEAR
+	* TIMESTAMP: YYYMMDDHHMMSS
+		* TIMESTAMP(14): YYYYMMDDHHMMSS
+		* TIMESTAMP(12): YYMMDDHHMMSS
+		* TIMESTAMP(10): YYMMDDHHMM
+		* TIMESTAMP(8): YYYYMMDD
+		* TIMESTAMP(6): YYMMDD
+		* TIMESTAMP(4): YYMM
+		* TIMESTAMP(2): YY
+
+5. Binary Large OBject
+	* BLOB(64KB)
+	* TINYBLOB(1b)
+	* MEDIUMBLOB(16MB)
+	* LONGBLOB(4GB)
 
 ##### Attribute ของ Field
+	* NOT NULL: ห้ามว่าง ปกติว่างได้
+	* UNSIGNED: ไม่เอาเลขติดลบทำให้เพิ่มชุดข้อมูลได้มากขึ้น
+	* BINARY: เป็น case sinsitive
+	* AUTO_INCREMENT: เพิ่มเลขให้เองกำหนดได้ว่าจะให้เริ่มจาเลขไหนได้ด้วย
+	* DEFAULT: กำหนดค่าเริ่มต้นให้ field นั้นๆ
+	* INDEX: ไปจัดทำ A-Z ไว้อีกไฟล์ได้หาเร็วขึ้น
+	* UNIQUE: ใน column นั้นๆห้ามมีชื่อซ้ำกัน
+	* PRIMARY: KEY ใน column นั้นๆห้าม ซ้ำใช้ร่วม cloumn ได้โดยรวมกันต้องไม่ซ้ำ
 
 #### คำสั่งที่เกี่ยวข้องกับ Table
 
 ##### สร้างตาราง
 
+แบบรวม attribute ไว้หลังแต่ละ field
+
+```
+	CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
+	(
+	≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT» «PRIMARY KEY»,
+	≤name≥ «VARCHAR(10)» DEFAULT 'abc',
+	≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
+	≤nickname≥ «VARCHAR(10)» BINARY,
+	≤phone≥ «INT(10)» UNSIGNED,
+	) «ENGINE = «MYISAM || INNODB»»
+```
+
+แบบรวม attribute ไว้ตอนจบสามารถรวมcolumn เพื่อกำหนดสิทธิได้
+
+```
+	CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
+	(
+	≤id≥ «INT» «NOT NULL» «AUTU_INCREMENT»,
+	≤name≥ «VARCHAR(10)» DEFAULT 'abc',
+	≤surname≥ «VARCHAR(10)» BINARY UNIQUE,
+	≤nickname≥ «VARCHAR(10)» BINARY,
+	≤phone≥ «INT(10)» UNSIGNED,
+
+	PRIMARY KEY(≤name≥, ≤surname≥),
+	INDEX(≤name≥),
+	UNIQUE(≤surname≥, ≤phone≥)
+	) «ENGINE = «MYISAM || INNODB»»
+```
+
+แบบสร้างมาจากบางส่วยของตารางอื่น
+
+```
+	CREATE «IF NOT EXISTS» «TEMPORARY» TABLE ≤ชื่อตาราง≥
+		SELECT ≤เอามาบางcolumn≥, ≤เอามาบางcolumn≥ 
+		FROM «ชื่อตาราง»
+		«WHERE»	
+		«GROUP BY»	
+		«HABING»	
+		«ORDER BY»	
+		«LIMIT»	
+```
+
+
 ##### เปลี่ยนแปลงตาราง
 
 ##### ล้างเฉพาะข้อมูลทั้งหมดใน table
+
 ```
 TRUNCATE TABLE ≤ชื่อตาราง≥
 ```
 
 ##### ลบ table
+
 ```
 DROP TABLE ≤ชื่อตาราง≥
 ```
@@ -200,3 +362,6 @@ INSERT INTO pet VALUES
 * ดูข้อมูลในตาราง `SELECT * FROM pet`
 * ออกจาก mysql `EXIT`
 -----
+
+
+
